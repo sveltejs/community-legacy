@@ -1,0 +1,82 @@
+{
+  "events": [
+    {
+      "name": "London Svelte Meetup",
+      "url": "https://www.meetup.com/svelte/",
+      "time_start": "2019-10-01-1930",
+      "time_end": "2019-10-01-2100",
+      "location": {
+        "venue": "The Fugitive Motel Bar",
+        "address": "199 Cambridge Heath Road",
+        "city": "London",
+        "state_region": "London",
+        "country": "United Kingdom"
+      },
+      "organisers": [
+        {
+          "name": "Antony J.",
+          "link": "https://www.meetup.com/svelte/members/13264949/"
+        }
+      ],
+      "details": ""
+    },
+    {
+      "name": "SvelteCampe Belgium",
+      "url": "https://svelte.camp/",
+      "time_start": "2020-xx-xx-xxxx",
+      "time_end": "2020-xx-xx-xxxx",
+      "location": {
+        "address": "To be confirmed",
+        "city": "Ghent or Antwerp",
+        "state_region": "Ghent or Antwerp",
+        "country": "Belgium"
+      },
+      "organisers": [
+        {
+          "name": "Johan Ronsse",
+          "link": "https://twitter.com/wolfr_2"
+        }
+      ],
+      "details": ""
+    },
+    {
+      "name": "Svelte Society Stockholm",
+      "url": "https://www.meetup.com/Sveltejs-Society-Stockholm/",
+      "time_start": "2019-11-04-1930",
+      "time_end": "2019-11-04-2100",
+      "location": {
+        "address": "Sankt Eriksgatan 117",
+        "city": "Stockholm",
+        "state_region": "Stockholm",
+        "country": "Sweden"
+      },
+      "organisers": [
+        {
+          "name": "Kevin Åberg K.",
+          "link": "https://www.meetup.com/Sveltejs-Society-Stockholm/members/118439572/"
+        }
+      ],
+      "details": ""
+    },
+    {
+      "name": "Svelte Society NYC",
+      "url": "https://www.meetup.com/Svelte-Society/",
+      "time_start": "2019-10-01-1830",
+      "time_end": "2019-10-01-2100",
+      "location": {
+        "venue": "Microsoft Conference Center",
+        "address": "11 Times Square",
+        "city": "New York",
+        "state_region": "New York",
+        "country": "United States of America"
+      },
+      "organisers": [
+        {
+          "name": "Shawn W.",
+          "link": "https://www.meetup.com/Svelte-Society/members/3963389/"
+        }
+      ],
+      "details": ""
+    }
+  ]
+}
