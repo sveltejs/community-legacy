@@ -1,6 +1,6 @@
 # svelte-community
 
-This repo currently contains data relating to the Svelte meetups. In time this may become the home for a meetup site and amplace to store other community related information.
+This repo currently contains data relating to Svelte meetups. In time this may become the home for a meetup site and a place to store other community related information.
 
 ## Add an event
 
