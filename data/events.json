@@ -77,6 +77,26 @@
         }
       ],
       "details": ""
+    },
+     {
+      "name": "Svelte Vienna",
+      "url": "https://www.meetup.com/Svelte-Vienna/",
+      "time_start": "2019-10-14-1830",
+      "time_end": "2019-10-14-2030",
+      "location": {
+        "venue": "Tech Gate",
+        "address": "Andromeda Tower 4277/44, 1220 Wien",
+        "city": "Vienna",
+        "state_region": "Vienna",
+        "country": "Austria"
+      },
+      "organisers": [
+        {
+          "name": "Nikos Katsikanis",
+          "link": "https://twitter.com/quantumjs"
+        }
+      ],
+      "details": ""
     }
   ]
 }
