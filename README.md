@@ -27,8 +27,8 @@ interface SvelteEvent {
   url: string;
   time_start: number;
   time_end: number;
-  location: Location;
-  organisers: Organiser[];
+  location: EventLocation;
+  organisers: EventOrganiser[];
   details?: string;
 }
 ```
