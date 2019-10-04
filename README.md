@@ -58,4 +58,4 @@ An example entry might look this:
 }
 ```
 
-All events need a time, location, url and at least one contactable organiser. If the venue is not yet confirmed then enter 'To be confirmed' in the relavent Location fields and enter in as much information as you currently know. Dates should be provided as `YYYY-MM-DD-TTTT` (24-hour time).
+All events need a time, location, url and at least one contactable organiser. If the venue is not yet confirmed then enter 'To be confirmed' in the relavent Location fields and enter in as much information as you currently know. Dates should be provided in local time as `YYYY-MM-DD-TTTT` (24-hour time).
