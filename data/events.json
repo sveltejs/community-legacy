@@ -117,5 +117,24 @@
       ],
       "details": ""
     },
+    {
+      "name": "Bay Area Svelte",
+      "url": "downtomeet.com/bayareasvelte",
+      "time_start": "TBD",
+      "time_end": "TBD",
+      "location": {
+        "address": "Philz Coffee",
+        "city": "Los Gatos",
+        "state_region": "California",
+        "country": "United States"
+      },
+      "organisers": [
+        {
+          "name": "Anthony Ettinger",
+          "link": "https://profullstack.com"
+        }
+      ],
+      "details": "Monthly meetings to learn and discuss Sveltejs"
+    },
   ]
 }
