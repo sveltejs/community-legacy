@@ -1,0 +1,16 @@
+{
+  "name": "community",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sveltejs/community.git",
+  "author": "sw-yx <swyx@dontemail.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@sveltejs/site-kit": "^1.1.4",
+    "ssg": "^0.0.35"
+  },
+  "scripts": {
+    "start" : "ssg dev",
+    "build" : "ssg export"
+  }
+}
