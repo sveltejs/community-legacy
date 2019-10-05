@@ -97,6 +97,25 @@
         }
       ],
       "details": ""
-    }
+    },
+     {
+      "name": "Amsterdam SvelteJS meetup",
+      "url": "https://www.meetup.com/nl-NL/Amsterdam-SvelteJS/",
+      "time_start": "2019-11-08",
+      "time_end": "2019-11-09",
+      "location": {
+        "address": "To be confirmed",
+        "city": "Amsterdam",
+        "state_region": "Nord Holland",
+        "country": "Netherlands"
+      },
+      "organisers": [
+        {
+          "name": "Mikhail Kuznetcov",
+          "link": "https://twitter.com/legkoletat"
+        }
+      ],
+      "details": ""
+    },
   ]
 }
