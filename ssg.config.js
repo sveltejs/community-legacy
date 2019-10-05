@@ -8,7 +8,7 @@ exports.getDataSlice = async (key, uid) => {
   // we dont really use the key here
   if (key === 'events') {
     // uid == the event's ID
-    return events[uid]
+    return eventsData.events[uid]
   } else {
     throw new Error('invalid key ' + key)
   }
@@ -23,5 +23,5 @@ exports.createIndex = async (mainIndex = {}) => {
 // optional lifecycle hook
 exports.postExport = async (mainIndex) => {
   // eg for RSS
-  console.log('postExport', mainIndex)
+  // console.log('postExport', mainIndex)
 }

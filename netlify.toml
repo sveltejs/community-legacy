@@ -1,0 +1,12 @@
+# this file was scaffolded with `ssg eject`.
+# Feel free to modify as you would Sapper boilerplate
+
+[build]
+  command = "ssg export"
+  publish = "__sapper__/export"
+  # functions = "functions" # optional folder for Netlify functions
+
+[dev] # https://github.com/netlify/netlify-dev-plugin#project-detection
+  command = "yarn ssg dev" # Command to start your dev server
+  port = 3000 # Port that the dev server will be listening on
+  publish = "static" # Folder with the static content for _redirect file

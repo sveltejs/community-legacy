@@ -25,7 +25,7 @@
 
 <Icons />
 
-<Nav {segment} {page} logo="sapper-logo-horizontal.svg">
+<Nav {segment} {page} logo="svelte-logo-horizontal.svg">
   <NavItem segment="events">Events</NavItem>
   <NavItem segment="recipes">Recipes</NavItem>
   <NavItem segment="resources">Resources</NavItem>

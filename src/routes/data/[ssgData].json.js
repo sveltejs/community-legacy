@@ -1,3 +1,5 @@
+// this file was scaffolded with `ssg eject`.
+// Feel free to modify as you would Sapper boilerplate
 const { getDataSlice, getIndex } = require('ssg/readConfig')
 
 export async function get(req, res) {

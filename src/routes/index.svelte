@@ -7,14 +7,14 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Community • Events, Resources, Recipes</title>
+  <title>Svelte Community • Events, Resources, Recipes</title>
 </svelte:head>
 
 <Hero
   title="Svelte Community"
   tagline="Events, Resources, Recipes"
-  outline="sapper-logo-outline.svg"
-  logotype="sapper-logotype.svg" />
+  outline="svelte-logo-outline.svg"
+  logotype="svelte-logotype.svg" />
 
 <Blurb>
   <a href="events" slot="one">
