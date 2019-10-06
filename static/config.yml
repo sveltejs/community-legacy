@@ -1,0 +1,26 @@
+## netlify cms config
+## the rest of this is in admin/index.html
+backend:
+  name: git-gateway
+  branch: master
+
+publish_mode: editorial_workflow
+media_folder: "static/images/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/images/uploads"
+
+collections:
+  - name: "Events"
+    label: "Events" # Used in the UI
+    folder: "data/events" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    identifier_field: eventName # https://www.netlifycms.org/docs/collection-types/#folder-collections
+    slug: "{{slug}}" # Filename template, e.g., title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Event Name", name: "eventName", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "URL", name: "url", widget: "text"}
+      - {label: "Type", name: "type", widget: "topic", options: [{label: "Recurring Meetup", value: "meetup"}, {label: "One-off Event", value: "oneoff"}, {label: "Workshop", value: "workshop"}, {label: "Conference", value: "conference"}]}
+      - {label: "Organizer Contact", name: "organizer", widget: "text"}
+      - {label: "Cover Image", required: false, name: "thumbnail", widget: "image" }
+      - {label: "Body", name: "body", widget: "markdown"}
