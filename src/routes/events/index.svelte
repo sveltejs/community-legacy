@@ -67,10 +67,25 @@
 
 <div class="container">
   <div class="text">
-    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
-    incidunt necessitatibus magni quia quas voluptatibus iure similique cumque,
-    soluta quis nam qui mollitia? Laudantium perferendis dignissimos corrupti
-    eaque in?
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
+      incidunt necessitatibus magni quia quas voluptatibus iure similique
+      cumque, soluta quis nam qui mollitia? Laudantium perferendis dignissimos
+      corrupti eaque in?
+    </p>
+    <h3>Organize</h3>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
+      incidunt necessitatibus magni quia quas voluptatibus iure similique
+      cumque, soluta quis nam qui mollitia? Laudantium perferendis dignissimos
+      corrupti eaque in?
+    </p>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
+      incidunt necessitatibus magni quia quas voluptatibus iure similique
+      cumque, soluta quis nam qui mollitia? Laudantium perferendis dignissimos
+      corrupti eaque in?
+    </p>
   </div>
   <div class="boxes">
     <Box>
