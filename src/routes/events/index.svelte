@@ -88,7 +88,7 @@
     </p>
   </div>
   <div class="boxes">
-    <Box>
+    <Box color="#ededed">
       <h2>Meetups</h2>
       <ul>
         {#each events as event, i}
