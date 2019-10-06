@@ -51,7 +51,7 @@
   }
 
   li {
-    margin: 0.1em 0;
+    margin: 0.3em 0;
   }
 </style>
 
