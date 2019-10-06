@@ -78,7 +78,7 @@
       ],
       "details": ""
     },
-     {
+    {
       "name": "Svelte Vienna",
       "url": "https://www.meetup.com/Svelte-Vienna/",
       "time_start": "2019-10-14-1830",
@@ -98,7 +98,7 @@
       ],
       "details": ""
     },
-     {
+    {
       "name": "Amsterdam SvelteJS meetup",
       "url": "https://www.meetup.com/nl-NL/Amsterdam-SvelteJS/",
       "time_start": "2019-11-08",
@@ -135,6 +135,6 @@
         }
       ],
       "details": "Monthly meetings to learn and discuss Sveltejs"
-    },
+    }
   ]
 }
