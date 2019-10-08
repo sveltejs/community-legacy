@@ -19,8 +19,15 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Event Name", name: "eventName", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
-      - {label: "URL", name: "url", widget: "text"}
-      - {label: "Type", name: "type", widget: "topic", options: [{label: "Recurring Meetup", value: "meetup"}, {label: "One-off Event", value: "oneoff"}, {label: "Workshop", value: "workshop"}, {label: "Conference", value: "conference"}]}
+      - {label: "URL", name: "url", widget: "string"}
+      - label: "Type"
+        name: "type"
+        widget: "select"
+        options: 
+          - {label: "Recurring Meetup", value: "meetup"}
+          - {label: "One-off Event", value: "oneoff"}
+          - {label: "Workshop", value: "workshop"}
+          - {label: "Conference", value: "conference"}
       - {label: "Organizer Contact", name: "organizer", widget: "text"}
       - {label: "Cover Image", required: false, name: "thumbnail", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
