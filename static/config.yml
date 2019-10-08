@@ -20,6 +20,7 @@ collections:
       - {label: "Event Name", name: "eventName", widget: "string"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "URL", name: "url", widget: "string"}
+      - {label: "Location", name: "location", widget: "map" }
       - label: "Type"
         name: "type"
         widget: "select"
@@ -28,6 +29,7 @@ collections:
           - {label: "One-off Event", value: "oneoff"}
           - {label: "Workshop", value: "workshop"}
           - {label: "Conference", value: "conference"}
-      - {label: "Organizer Contact", name: "organizer", widget: "text"}
+          - {label: "Misc Event", value: "misc"}
+      - {label: "Organizer Contact", name: "organizer", widget: "text", hint: "your name, email, twitter, any way for people to get in touch" }
       - {label: "Cover Image", required: false, name: "thumbnail", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
