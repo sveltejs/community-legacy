@@ -67,24 +67,39 @@
 
 <div class="container">
   <div class="text">
+    <h3>Community Support</h3>
     <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
-      incidunt necessitatibus magni quia quas voluptatibus iure similique
-      cumque, soluta quis nam qui mollitia? Laudantium perferendis dignissimos
-      corrupti eaque in?
+      On this page we're listing Svelte-related community events and conferences
+      that you can go to. If you're interested in meeting others that are also
+      interested in Svelte you'll find your closest meetup here.
+    </p>
+    <p>
+      If you want to read more about the different events just follow the links
+      and see where they lead.
     </p>
     <h3>Organize</h3>
     <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
-      incidunt necessitatibus magni quia quas voluptatibus iure similique
-      cumque, soluta quis nam qui mollitia? Laudantium perferendis dignissimos
-      corrupti eaque in?
+      Are you looking to organize your own event? Here are some things to think
+      about:
     </p>
+    <h4>Venue - where to host?</h4>
     <p>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore officiis
-      incidunt necessitatibus magni quia quas voluptatibus iure similique
-      cumque, soluta quis nam qui mollitia? Laudantium perferendis dignissimos
-      corrupti eaque in?
+      Finding a place to host your event can be hard. The easiest way is most
+      likely to ask your employer if they can host. If that's not an option you
+      can look at Libraries or co-working spaces.
+    </p>
+    <h4>Agenda - what's going to happen at the event?</h4>
+    <p>
+      The agenda is also important. Are you going to host a talk yourself? Will
+      you do a workshop? A good idea is to ask if other attendees are interested
+      in either showing off something they've made or if they want to speak.
+    </p>
+    <h3>Add your own event</h3>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
+      asperiores quo voluptate. Corporis corrupti vitae adipisci laboriosam unde
+      amet rerum consectetur voluptatum aliquid nobis veritatis, atque optio
+      provident, temporibus velit.
     </p>
   </div>
   <div class="boxes">
