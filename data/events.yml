@@ -1,0 +1,86 @@
+EventsList:
+  - city: London
+    country: UK
+    date: ''
+    desc: UK Svelte Meetup
+    eventName: London Svelte Meetup
+    organizer: |-
+      Antony J.
+
+      https://www.meetup.com/svelte/members/13264949/
+    twitter: ''
+    type: Meetup
+    url: 'https://www.meetup.com/svelte/'
+  - city: Ghent or Antwerp
+    country: Belgium
+    date: ''
+    desc: A Barcamp style event in Belgium.
+    description: >-
+      A Barcamp style event in Belgium.
+
+
+
+
+      Let's learn about Svelte through some presentations and some coding
+      together.
+
+
+
+
+      Location to be decided, but probably a classroom or shared office in Ghent
+      or Antwerp. If you are a school or have a location and interested in
+      hosting this event, get in touch!
+
+
+
+
+      Timing to be decided, probably in the coming 2-3 months. Beginning of
+      December seems realistic.
+    eventName: SvelteCampe Belgium
+    organizer: 'Johan Ronsse https://twitter.com/wolfr_2'
+    twitter: '@wolfr_2'
+    type: One-off
+    url: 'https://svelte.camp/'
+  - city: New York
+    country: USA
+    date: 2019-10-09T16:47:16.367Z
+    desc: Svelte meetup in NYC
+    eventName: Svelte Society NYC
+    organizer: |-
+      swyx
+      https://www.meetup.com/Svelte-Society/members/3963389/
+    twitter: '@SvelteSociety'
+    type: Meetup
+    url: 'https://www.meetup.com/Svelte-Society/'
+  - city: Stockholm
+    country: Sweden
+    date: ''
+    desc: Svelte meetup in Sweden
+    eventName: Svelte Society Stockholm
+    type: Meetup
+    url: 'https://www.meetup.com/Sveltejs-Society-Stockholm/'
+  - city: Vienna
+    country: Austria
+    date: 2019-10-09T16:50:32.809Z
+    eventName: Svelte Vienna
+    organizer: 'Nikos Katsikanis https://twitter.com/quantumjs'
+    twitter: '@quantumjs'
+    type: Meetup
+    url: 'https://www.meetup.com/Svelte-Vienna/'
+  - city: Amsterdam
+    country: Netherlands
+    date: ''
+    eventName: Amsterdam SvelteJS meetup
+    organizer: 'Mikhail Kuznetcov https://twitter.com/legkoletat'
+    twitter: '@legkoletat'
+    type: Meetup
+    url: 'https://www.meetup.com/nl-NL/Amsterdam-SvelteJS/'
+  - city: Los Gatos
+    country: USA
+    date: 2019-10-09T16:51:55.335Z
+    desc: Monthly meetings to learn and discuss Sveltejs
+    description: ''
+    eventName: Bay Area Svelte
+    organizer: 'Anthony Ettinger  https://profullstack.com'
+    type: Meetup
+    url: 'https://downtomeet.com/bayareasvelte'
