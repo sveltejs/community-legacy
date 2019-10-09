@@ -36,7 +36,7 @@
     <Icon name="message-square" />
   </NavItem>
 
-  <NavItem external="https://github.com/sveltejs/sapper" title="GitHub Repo">
+  <NavItem external="https://github.com/sveltejs/community" title="GitHub Repo">
     <Icon name="github" />
   </NavItem>
 </Nav>
