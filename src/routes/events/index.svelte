@@ -111,7 +111,7 @@
         {#each events as event, i}
           <li>
             <a href={event.url} class="event-name">{event.name}</a>
-            <span class="date">, November 4th</span>
+            <!-- <span class="date">, November 4th</span> -->
           </li>
         {/each}
       </ul>
