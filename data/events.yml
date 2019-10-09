@@ -1,0 +1,11 @@
+eventsList:
+  - city: NYC
+    country: USA
+    date: 2019-10-09T16:33:09.011Z
+    desc: potato
+    description: potato
+    eventName: Test Event
+    organizer: potato
+    twitter: swyx
+    type: misc
+    url: 'https://foo.bar'
