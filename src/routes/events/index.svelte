@@ -40,8 +40,6 @@
       grid-template-areas: "main main main side side";
     }
   }
-  .event-name {
-  }
 
   .date {
     font-size: 0.8em;
@@ -96,10 +94,14 @@
     </p>
     <h3>Add your own event</h3>
     <p>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem
-      asperiores quo voluptate. Corporis corrupti vitae adipisci laboriosam unde
-      amet rerum consectetur voluptatum aliquid nobis veritatis, atque optio
-      provident, temporibus velit.
+      In order to add your own event to the list make a PR and add it the JSON
+      file
+      <a
+        href="https://github.com/sveltejs/community/blob/master/data/events.json"
+        target="_blank">
+        here.
+      </a>
+
     </p>
   </div>
   <div class="boxes">
