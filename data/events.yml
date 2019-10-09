@@ -17,22 +17,13 @@ EventsList:
     desc: A Barcamp style event in Belgium.
     description: >-
       A Barcamp style event in Belgium.
-
-
-
-
+      
       Let's learn about Svelte through some presentations and some coding
       together.
-
-
-
 
       Location to be decided, but probably a classroom or shared office in Ghent
       or Antwerp. If you are a school or have a location and interested in
       hosting this event, get in touch!
-
-
-
 
       Timing to be decided, probably in the coming 2-3 months. Beginning of
       December seems realistic.
@@ -43,7 +34,7 @@ EventsList:
     url: 'https://svelte.camp/'
   - city: New York
     country: USA
-    date: 2019-10-09T16:47:16.367Z
+    date: ''
     desc: Svelte meetup in NYC
     eventName: Svelte Society NYC
     organizer: |-
@@ -77,9 +68,8 @@ EventsList:
     url: 'https://www.meetup.com/nl-NL/Amsterdam-SvelteJS/'
   - city: Los Gatos
     country: USA
-    date: 2019-10-09T16:51:55.335Z
+    date: ''
     desc: Monthly meetings to learn and discuss Sveltejs
-    description: ''
     eventName: Bay Area Svelte
     organizer: 'Anthony Ettinger  https://profullstack.com'
     type: Meetup

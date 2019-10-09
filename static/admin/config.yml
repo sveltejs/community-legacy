@@ -33,9 +33,9 @@ collections:
                   - {label: "Workshop", value: "Workshop"}
                   - {label: "Conference", value: "Conference"}
                   - {label: "Misc Event", value: "Misc"}
-              - {label: Twitter Handle, name: twitter, widget: string, required: false, hint: "Leave off the twitter dot come e.g. @SvelteSociety"}
-              - {label: Specific Date (if applicable", name: date, widget: datetime, required: false}
+              - {label: Twitter Handle, name: twitter, widget: string, required: false, hint: "Leave off the twitter.com e.g. @SvelteSociety"}
+              - {label: Specific Date - if applicable, name: date, default: "", widget: datetime, required: false, hint: "We may sort events by date in future. Right now it isn't really enforced, it's up to you to manage if it makes sense."}
               - {label: Organizer Contact, name: organizer, widget: text, hint: "your name, email, twitter, any way for people to get in touch", required: false }
               - {label: Cover Image", required: false, name: thumbnail, widget: image }
               - {label: Short Description, name: desc, widget: string, required: false}
-              - {label: Full Description, name: description, widget: markdown, required: false}
+              - {label: Full Description, name: description, widget: markdown, required: false, hint: "remember you can use markdown"}
