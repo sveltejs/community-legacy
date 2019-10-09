@@ -41,9 +41,6 @@
     }
   }
 
-  .date {
-    font-size: 0.8em;
-  }
   ul {
     list-style: none;
   }
@@ -94,14 +91,12 @@
     </p>
     <h3>Add your own event</h3>
     <p>
-      In order to add your own event to the list make a PR and add it the JSON
-      file
+      In order to add your own event to the list 
       <a
-        href="https://github.com/sveltejs/community/blob/master/data/events.json"
+        href="https://github.com/sveltejs/community/blob/master/data/events.yml"
         target="_blank">
-        here.
-      </a>
-
+        make a PR
+      </a> or use <a href="https://svelte-community.netlify.com/admin">our CMS</a> to get the data entry right.
     </p>
   </div>
   <div class="boxes">
@@ -110,10 +105,19 @@
       <ul>
         {#each events as event, i}
           <li>
-            <a href={event.url} class="event-name">{event.name}</a>
+            <details>
+            <summary>
+              {event.city}, {event.country}
+            </summary>
+            <a href={event.url} target="_blank" class="event-name">{event.eventName}</a>
+
             <!-- <span class="date">, November 4th</span> -->
+            </details>
           </li>
         {/each}
+        <li>
+        ➕<a href="https://svelte-community.netlify.com/admin">Add/Request your event here!</a>
+        </li>
       </ul>
     </Box>
   </div>
