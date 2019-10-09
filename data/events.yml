@@ -17,7 +17,7 @@ EventsList:
     desc: A Barcamp style event in Belgium.
     description: >-
       A Barcamp style event in Belgium.
-      
+
       Let's learn about Svelte through some presentations and some coding
       together.
 
@@ -54,7 +54,9 @@ EventsList:
     country: Austria
     date: 2019-10-09T16:50:32.809Z
     eventName: Svelte Vienna
-    organizer: 'Nikos Katsikanis https://twitter.com/quantumjs'
+    organizer: |-
+      Nikos Katsikanis
+      Twitter: https://twitter.com/quantumjs
     twitter: '@quantumjs'
     type: Meetup
     url: 'https://www.meetup.com/Svelte-Vienna/'
