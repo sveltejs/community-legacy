@@ -10,12 +10,16 @@
   import { Hero, Blurb } from "@sveltejs/site-kit";
   import Event from "components/Event.svelte";
   import Box from "components/Box.svelte";
+  import Resource from "components/Resource.svelte";
+  import { transformResourceData } from "utils/transformResourceData.js";
   export let data;
-  let resources = data.resources;
-  let results = resources;
-  // $: console.log({ data });
+  $: transformedData = transformResourceData(data);
+  $: resources = transformedData.resources;
+  // $: console.log({ data, transformedData });
+
   import Fuse from "fuse.js";
   let searchterm = "";
+  let searchResults = null;
   $: {
     if (searchterm) {
       var options = {
@@ -27,14 +31,19 @@
         behavior: "smooth"
       });
       var fuse = new Fuse(resources, options);
-      results = fuse.search(searchterm);
+      searchResults = fuse.search(searchterm);
     } else {
-      results = resources;
+      searchResults = null;
     }
   }
+
+  $: results = searchResults || resources;
 </script>
 
 <style>
+  h2 {
+    margin-bottom: 1em;
+  }
   .container {
     display: flex;
 
@@ -46,11 +55,8 @@
   .text {
     width: 90rem;
   }
-  .resourcetags {
-    background-color: antiquewhite;
-  }
-  :global(.resourcetags + .resourcetags):before {
-    content: ", ";
+  .resource {
+    margin-bottom: 1em;
   }
   input {
     font-family: inherit;
@@ -81,15 +87,9 @@
   <div class="text">
     <h2>Resources</h2>
     <ul>
-      {#each results as resource, i}
-        <li>
-          {#each resource.tags as tag}
-            <code class="resourcetags">{tag}</code>
-          {/each}
-          <a href={resource.url} target="_blank">{resource.name}</a>
-          {#if resource.description}
-            <div>{resource.description}</div>
-          {/if}
+      {#each results as resource}
+        <li class="resource">
+          <Resource {resource} />
         </li>
       {/each}
       <!-- <li>
