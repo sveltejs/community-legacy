@@ -110,7 +110,7 @@ resources:
       - official links
   - name: rfcs
     url: https://github.com/sveltejs/rfcs
-    description: RFCs for [changes to Svelte](https://github.com/sveltejs/rfcs/pulls)
+    description: RFCs for changes to Svelte
     tags:
       - official links
   - name: community
@@ -120,7 +120,7 @@ resources:
       - official links
   - name: ru.svelte.dev
     url: https://ru.svelte.dev/
-    description: "[translation repo](https://github.com/AlexxNB/svelte3-translation-ru)"
+    description: "translation repo at AlexxNB/svelte3-translation-ru"
     tags:
       - official links
       - language translations
@@ -623,8 +623,7 @@ resources:
       - Svelte-specific routing
   - name: "`svelte-navaid`"
     url: https://github.com/jacwright/svelte-navaid
-    description: A Svelte router powered by
-      [lukeed/navaid](https://github.com/lukeed/navaid)
+    description: A Svelte router powered by lukeed/navaid
     tags:
       - routers
       - Svelte-specific routing
@@ -643,8 +642,7 @@ resources:
       - Svelte-specific routing
   - name: "`svelte-filerouter`"
     url: https://github.com/jakobrosenberg/svelte-filerouter
-    description: Filesystem-based router inspired by [Sapper's
-      routing](https://sapper.svelte.dev/docs#Routing)
+    description: Filesystem-based router inspired by Sapper's routing
     tags:
       - routers
       - Svelte-specific routing
