@@ -11,6 +11,7 @@
   import Event from "components/Event.svelte";
   import Box from "components/Box.svelte";
   export let events;
+  // $: console.log({ events });
 </script>
 
 <style>
@@ -91,12 +92,15 @@
     </p>
     <h3>Add your own event</h3>
     <p>
-      In order to add your own event to the list 
+      In order to add your own event to the list
       <a
         href="https://github.com/sveltejs/community/blob/master/data/events.yml"
         target="_blank">
         make a PR
-      </a> or use <a href="https://svelte-community.netlify.com/admin">our CMS</a> to get the data entry right.
+      </a>
+      or use
+      <a href="https://svelte-community.netlify.com/admin">our CMS</a>
+      to get the data entry right.
     </p>
   </div>
   <div class="boxes">
@@ -106,17 +110,20 @@
         {#each events as event, i}
           <li>
             <details>
-            <summary>
-              {event.city}, {event.country}
-            </summary>
-            <a href={event.url} target="_blank" class="event-name">{event.eventName}</a>
+              <summary>{event.city}, {event.country}</summary>
+              <a href={event.url} target="_blank" class="event-name">
+                {event.eventName}
+              </a>
 
-            <!-- <span class="date">, November 4th</span> -->
+              <!-- <span class="date">, November 4th</span> -->
             </details>
           </li>
         {/each}
         <li>
-        ➕<a href="https://svelte-community.netlify.com/admin">Add/Request your event here!</a>
+          ➕
+          <a href="https://svelte-community.netlify.com/admin">
+            Add/Request your event here!
+          </a>
         </li>
       </ul>
     </Box>
