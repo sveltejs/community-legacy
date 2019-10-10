@@ -28,6 +28,8 @@
       });
       var fuse = new Fuse(resources, options);
       results = fuse.search(searchterm);
+    } else {
+      results = resources;
     }
   }
 </script>
@@ -97,9 +99,18 @@
   </div>
   <div class="boxes search">
     <Box color="#ededed">
+      <div>
+        <h3>Add A Resource!</h3>
+        <p>
+          We'll have a better process for this in future, but for now,
+          <a href="https://github.com/sveltejs/community/tree/master/data">
+            make a PR!
+          </a>
+        </p>
+      </div>
       <label>
-        <h2>Search resources</h2>
-        <input bind:value={searchterm} placeholder="search for your thing" />
+        <h3>Filter</h3>
+        <input bind:value={searchterm} placeholder="fuzzy filter resources" />
       </label>
     </Box>
   </div>
