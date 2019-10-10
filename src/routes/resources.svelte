@@ -43,6 +43,9 @@
     margin: 10rem auto;
     padding: 0 var(--side-nav);
   }
+  .text {
+    width: 90rem;
+  }
   .resourcetags {
     background-color: antiquewhite;
   }
