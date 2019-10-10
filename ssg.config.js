@@ -1,15 +1,19 @@
 const fs = require('fs')
 const path = require('path')
-const YAML = require('yaml')
-const eventsData = YAML.parse(fs.readFileSync(path.resolve('data/events.yml'), 'utf8'))
+const yaml = require('@ssgjs/source-yaml').default
 
+exports.plugins = {
+  yamlFiles: yaml({ dirPath: 'data' }),
+}
+
+let eventsData = null
 // optional. called repeatedly, can be expensive
 exports.getDataSlice = async (key, uid) => {
   console.log('optional getDataSlice action')
   // we dont really use the key here
   if (key === 'events') {
     // uid == the event's ID
-    return eventsData.EventsList[uid]
+    return eventsData[uid]
   } else {
     throw new Error('invalid key ' + key)
   }
@@ -17,7 +21,10 @@ exports.getDataSlice = async (key, uid) => {
 
 exports.createIndex = async (mainIndex = {}) => {
   // do expensive initial fetches and cache them in .ssg/data.json
-  mainIndex.events = eventsData.EventsList
+  // console.log({ mainIndex: Object.keys(mainIndex.data) })
+  eventsData = mainIndex.yamlFiles['data-events-yml'].data.EventsList
+  mainIndex.events = eventsData
+  mainIndex.resources = mainIndex.yamlFiles['data-resources-yml'].data
   return mainIndex
 }
 

@@ -6,7 +6,9 @@
   "author": "sw-yx <swyx@dontemail.me>",
   "license": "MIT",
   "dependencies": {
+    "@ssgjs/source-yaml": "^0.0.3",
     "@sveltejs/site-kit": "^1.1.4",
+    "fuse.js": "^3.4.5",
     "ssg": "^0.0.38",
     "yaml": "^1.7.1"
   },
