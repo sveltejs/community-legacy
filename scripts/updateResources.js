@@ -4,6 +4,10 @@ const fs = require("fs");
 const yaml = require("js-yaml");
 const fetch = require("node-fetch");
 
+function hasGitHubUrl(url) {
+  return url.includes("github.com");
+}
+
 async function getStars() {
   try {
     const resources = yaml.safeLoad(
@@ -12,21 +16,28 @@ async function getStars() {
 
     const updatedResources = await Promise.all(
       resources.resources.map(async res => {
-        // if (hasGitHubUrl) {
-        let result = await fetch(
-          `https://api.github.com/repos/jasonrudolph/keyboard?client_id=${process.env.GITHUB_CLIENT_ID}&client_secret=${process.env.GITHUB_CLIENT_SECRET}`
-        );
+        if (hasGitHubUrl(res.url)) {
+          const url = res.url;
+          const [org, repo] = url.split("/").splice(-2);
 
-        result = await result.json();
+          let result = await fetch(
+            `https://api.github.com/repos/${org}/${repo}?client_id=${process.env.GITHUB_CLIENT_ID}&client_secret=${process.env.GITHUB_CLIENT_SECRET}`
+          );
 
-        return {
-          ...res,
-          stars: result.watchers,
-          last_updated: result.updated_at
-        };
-        // } else {
-        //   return res;
-        // }
+          result = await result.json();
+
+          if (result.message == "Not Found") {
+            return res;
+          }
+
+          return {
+            ...res,
+            stars: result.watchers,
+            last_updated: result.updated_at
+          };
+        } else {
+          return res;
+        }
       })
     );
 
