@@ -2,3 +2,4 @@
 __sapper__
 .backup
 .netlify
+.env
