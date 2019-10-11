@@ -57,19 +57,3 @@ async function getStars() {
 }
 
 getStars();
-
-// const url = "https://api.github.com/repos/";
-
-// async function main() {
-//   const starships = [];
-
-//   const res = await fetch(base, opts);
-//   const list = await res.json();
-
-//   fs.writeFileSync(
-//     `../src/routes/_starships.js`,
-//     `export default ${JSON.stringify(list)};`
-//   );
-// }
-
-// main();
