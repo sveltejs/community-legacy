@@ -11,11 +11,40 @@
   import Event from "components/Event.svelte";
   import Box from "components/Box.svelte";
   import Resource from "components/Resource.svelte";
-  import { transformResourceData } from "utils/transformResourceData.js";
+  import Tag from "components/Tag.svelte";
+  import { transformResourceData } from "resources/transformResourceData.js";
+  import { filterResourcesByTags } from "resources/helpers.js";
+
   export let data;
   $: transformedData = transformResourceData(data);
   $: resources = transformedData.resources;
+  $: tags = transformedData.tags;
   // $: console.log({ data, transformedData });
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 466, // top of Resources
+      left: 0,
+      behavior: "smooth"
+    });
+  };
+
+  let selectedTags = new Set();
+  $: selectedResources = filterResourcesByTags(resources, selectedTags);
+  const toggleTag = tag => {
+    if (selectedTags.has(tag)) {
+      selectedTags.delete(tag);
+    } else {
+      selectedTags.add(tag);
+    }
+    selectedTags = selectedTags; // TODO maybe use immutable patterns instead?
+    scrollToTop();
+  };
+  const clearSelectedTags = () => {
+    selectedTags.clear();
+    selectedTags = selectedTags;
+    scrollToTop();
+  };
 
   import Fuse from "fuse.js";
   let searchterm = "";
@@ -25,19 +54,15 @@
       var options = {
         keys: ["name", "url", "tags", "description"]
       };
-      window.scrollTo({
-        top: 466, // top of Resources
-        left: 0,
-        behavior: "smooth"
-      });
-      var fuse = new Fuse(resources, options);
+      scrollToTop();
+      var fuse = new Fuse(selectedResources, options);
       searchResults = fuse.search(searchterm);
     } else {
       searchResults = null;
     }
   }
 
-  $: results = searchResults || resources;
+  $: results = searchResults || selectedResources;
 </script>
 
 <style>
@@ -89,7 +114,7 @@
     <ul>
       {#each results as resource}
         <li class="resource">
-          <Resource {resource} />
+          <Resource {resource} {selectedTags} {toggleTag} />
         </li>
       {/each}
       <!-- <li>
@@ -116,5 +141,15 @@
         <input bind:value={searchterm} placeholder="fuzzy filter resources" />
       </label>
     </Box>
+    <!-- TODO container needs proper styling -->
+    <div style="max-width: 430px; display: flex; flex-wrap: wrap;">
+      {#each tags as tag}
+        <Tag name={tag} selected={selectedTags.has(tag)} toggle={toggleTag} />
+      {/each}
+      {#if selectedTags.size}
+        <!-- TODO this should be styled distinctly, maybe just a different color, or removed if the UX changes -->
+        <Tag name="🞩 clear selected tags" toggle={clearSelectedTags} />
+      {/if}
+    </div>
   </div>
 </div>
