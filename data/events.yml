@@ -11,23 +11,22 @@ EventsList:
     twitter: ''
     type: Meetup
     url: 'https://www.meetup.com/svelte/'
-  - city: Ghent or Antwerp
+  - city: Ghent
     country: Belgium
     date: ''
     desc: A Barcamp style event in Belgium.
     description: >-
-      A Barcamp style event in Belgium.
+      A Barcamp style event in Belgium. Let's learn about Svelte through some
+      presentations and some coding together. Location to be decided, but
+      probably a classroom or shared office in Ghent or Antwerp. If you are a
+      school or have a location and interested in hosting this event, get in
+      touch!
 
-      Let's learn about Svelte through some presentations and some coding
-      together.
 
-      Location to be decided, but probably a classroom or shared office in Ghent
-      or Antwerp. If you are a school or have a location and interested in
-      hosting this event, get in touch!
 
       Timing to be decided, probably in the coming 2-3 months. Beginning of
       December seems realistic.
-    eventName: SvelteCampe Belgium
+    eventName: SvelteCamp Belgium
     organizer: 'Johan Ronsse https://twitter.com/wolfr_2'
     twitter: '@wolfr_2'
     type: One-off
