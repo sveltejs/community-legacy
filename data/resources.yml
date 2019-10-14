@@ -1616,3 +1616,10 @@ resources:
     description: Weekly curated blogs and tools for Svelte developers
     tags:
       - other lists and resources
+  - name: Svelte news&links newsletter
+    url: "https://shershen08.github.io/sveltejsnews/"
+    description: Regular newsletter with videos, articles, plugins and tools for Svelte developers
+    tags:
+      - community
+      - email
+      - other lists and resources
