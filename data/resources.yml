@@ -1623,3 +1623,9 @@ resources:
       - community
       - email
       - other lists and resources
+  - name: "DEV community"
+    url: "https://dev.to/t/svelte"
+    description: "A great collection of technical articles and tutorials from vibrant DEV.to community "
+    tags:
+      - other lists and resources
+      - communities
