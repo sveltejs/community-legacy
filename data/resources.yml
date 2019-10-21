@@ -73,10 +73,10 @@ resources:
     tags:
       - communities
   - name: "Svelte Jobs"
-    - url: "https://sveltejobs.dev"
-    - description: Svelte Jobs dashboard from all over the world
-    - tags:
-        - jobs
+    url: "https://sveltejobs.dev"
+    description: Svelte Jobs dashboard from all over the world
+    tags:
+      - jobs
   - name: ":ru: Svelte [svelt]"
     url: "https://t.me/sveltejs) (1000+ users"
     tags:
