@@ -72,6 +72,11 @@ resources:
     url: "https://www.reddit.com/r/sveltejs/"
     tags:
       - communities
+  - name: "Svelte Jobs"
+    url: "https://sveltejobs.dev"
+    description: Svelte Jobs dashboard from all over the world
+    tags:
+      - jobs
   - name: ":ru: Svelte [svelt]"
     url: "https://t.me/sveltejs) (1000+ users"
     tags:
@@ -1616,10 +1621,22 @@ resources:
     description: Weekly curated blogs and tools for Svelte developers
     tags:
       - other lists and resources
+  - name: Svelte news&links newsletter
+    url: "https://shershen08.github.io/sveltejsnews/"
+    description: Regular newsletter with videos, articles, plugins and tools for Svelte developers
+    tags:
+      - community
+      - email
+      - other lists and resources
+  - name: "DEV community"
+    url: "https://dev.to/t/svelte"
+    description: "A great collection of technical articles and tutorials from vibrant DEV.to community "
+    tags:
+      - other lists and resources
+      - communities
   - name: "`Real World Svelte and Google Cloud Masterclass`"
     url: "https://www.youtube.com/playlist?list=PLCrwuqjmVebK08Cwz_XB55cNKFfFYOMGo"
     description: A video series taking you through the Real World Svelte app tied in with a Google Cloud Functions backend
     tags:
-      - Sapper
-      - Real World
-      - Google Cloud
+      - media
+      - podcasts and other videos
