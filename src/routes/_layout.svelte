@@ -27,10 +27,12 @@
 
 <Nav {segment} {page} logo="svelte-logo-horizontal.svg">
   <NavItem segment="events">Events</NavItem>
-  <NavItem segment="recipes">Recipes</NavItem>
   <NavItem segment="resources">Resources</NavItem>
+  <NavItem segment="recipes">Recipes</NavItem>
+  <NavItem segment="showcase">Showcase</NavItem>
+  <NavItem segment="code">Code</NavItem>
 
-  <NavItem external="https://svelte.dev">Svelte Docs</NavItem>
+  <!-- <NavItem external="https://svelte.dev">Svelte Docs</NavItem> -->
 
   <NavItem external="https://svelte.dev/chat" title="Discord Chat">
     <Icon name="message-square" />
