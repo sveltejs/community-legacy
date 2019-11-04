@@ -1,7 +1,6 @@
 <script context="module">
   export async function preload() {
-    const res = await this.fetch(`data/code___ssg___index.json`);
-    const data = await res.json();
+    const data = await this.ssgData({ key: "code" });
     return { data };
   }
 </script>
@@ -19,6 +18,7 @@
   $: transformedData = transformResourceData(data);
   $: resources = transformedData.resources;
   $: tags = transformedData.tags;
+  // for debugging
   // $: console.log({ data, transformedData });
 
   const scrollToTop = () => {
