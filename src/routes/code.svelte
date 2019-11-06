@@ -82,6 +82,7 @@
   }
   .resource {
     margin-bottom: 1em;
+    list-style: none;
   }
   input {
     font-family: inherit;
