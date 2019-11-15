@@ -113,6 +113,11 @@ resources:
     tags:
       - media
       - talks
+  - name: "Rich Harris - The Return of 'Write Less, Do More' - JSCAMP 2019"
+    url: 'https://www.youtube.com/watch?v=BzX4aTRPzno'
+    tags:
+      - media
+      - talks
   - name: 'Shop Talk #349 - Talking Svelte with Rich Harris'
     url: 'https://shoptalkshow.com/episodes/349/'
     tags:
