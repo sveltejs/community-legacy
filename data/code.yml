@@ -293,6 +293,12 @@ resources:
       - inputs and widgets
     stars: 2
     last_updated: '2019-10-02T14:23:18Z'
+  - name: '`svelte-ruler`'
+    url: 'https://github.com/daybrush/ruler/tree/master/packages/svelte-ruler'
+    description: A Ruler component that can draw grids and scroll infinitely
+    tags:
+      - components and libraries
+      - inputs and widgets
   - name: '`svelte-icons`'
     url: 'https://github.com/gibdig/svelte-icons'
     description: 'Icon components for Svelte, featuring many icon sets'
@@ -333,6 +339,12 @@ resources:
       - fonts and icons
     stars: 13
     last_updated: '2019-08-26T04:48:28Z'
+  - name: '`svelte-simple-icons`'
+    url: 'https://github.com/beyonk-adventures/svelte-simple-icons'
+    description: SVG icons for popular brands
+    tags:
+      - components and libraries
+      - fonts and icons
   - name: '`@spaceavocado/svelte-form`'
     url: 'https://github.com/spaceavocado/svelte-form'
     description: Simple Svelte form model handler and input validations
@@ -565,6 +577,12 @@ resources:
       - interaction
     stars: 8
     last_updated: '2019-09-30T12:35:00Z'
+  - name: '`svelte-moveable`'
+    url: 'https://github.com/daybrush/moveable/tree/master/packages/svelte-moveable'
+    description: Component for moveable, draggable, resizable, scalable, rotatable, and more
+    tags:
+      - components and libraries
+      - interaction
   - name: '`svelte-loadable`'
     url: 'https://github.com/kaisermann/svelte-loadable'
     description: Dynamically load a Svelte component
@@ -657,6 +675,12 @@ resources:
       - development and documentation
     stars: 6
     last_updated: '2019-09-23T14:13:02Z'
+  - name: '`svelte-docs`'
+    url: 'https://github.com/AlexxNB/svelte-docs'
+    description: A rapid way to write documentation for your Svelte components
+    tags:
+      - components and libraries
+      - development and documentation
   - name: '`svelte-adapter`'
     url: 'https://github.com/pngwn/svelte-adapter'
     description: Use Svelte components with Vue and React
@@ -949,6 +973,21 @@ resources:
       - templates
     stars: 1
     last_updated: '2019-10-10T13:45:41Z'
+  - name: agusID/boilerplate-svelte
+    url: 'https://github.com/agusID/boilerplate-svelte'
+    description: Boilerplate with TypeScript, Webpack, Storybook, Travis CI, SCSS, Babel, EsLint, Prettier, Jest
+    tags:
+      - templates
+  - name: LunaTK/svelte-web-component-builder
+    url: 'https://github.com/LunaTK/svelte-web-component-builder'
+    description: Minimal setup for building svelte as a web component module
+    tags:
+      - templates
+  - name: nitro52/svelte-typescript-sass-template
+    url: 'https://github.com/nitro52/svelte-typescript-sass-template'
+    description: Template with Typescript, Sass, Storybook, Webpack
+    tags:
+      - templates
   - name: Rich-Harris/svelte-template-electron
     url: 'https://github.com/Rich-Harris/svelte-template-electron'
     description: A template for building Electron apps with Svelte (**VERSION 2**)
@@ -1157,6 +1196,12 @@ resources:
       - Svelte-specific routing
     stars: 15
     last_updated: '2019-10-10T09:26:13Z'
+  - name: '`yrv`'
+    url: 'https://github.com/pateketrueke/yrv'
+    description: Basic router with queryParams and hash-based routing support
+    tags:
+      - routers
+      - Svelte-specific routing
   - name: '`navaid`'
     url: 'https://github.com/lukeed/navaid'
     description: 'A navigation aid (aka, router) for the browser in 850 bytes~!'
@@ -1221,6 +1266,12 @@ resources:
       - preprocessors
     stars: 143
     last_updated: '2019-10-10T18:39:12Z'
+  - name: '`svelte-preprocess-markdown`'
+    url: 'https://github.com/AlexxNB/svelte-preprocess-markdown'
+    description: Write Svelte components in markdown syntax
+    tags:
+      - integrations
+      - preprocessors
   - name: '`svelte-ts-preprocess`'
     url: 'https://github.com/PaulMaly/svelte-ts-preprocess'
     description: Typescript preprocessor for Svelte 3
