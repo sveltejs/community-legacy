@@ -18,6 +18,7 @@
   "scripts": {
     "start": "ssg dev",
     "build": "ssg export",
-    "update": "node scripts/updateResources.js"
+    "update": "node scripts/updateResources.js",
+    "update-npm-stats": "node scripts/updateNpmStats.js"
   }
 }
