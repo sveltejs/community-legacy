@@ -83,7 +83,7 @@ resources:
       - ui component sets
     stars: 4
     last_updated: '2019-10-10T18:38:28Z'
-  - name: '`zoo-web-components`'
+  - name: '`@zooplus/zoo-web-components`'
     url: 'https://github.com/zooplus/zoo-web-components'
     description: Web-components library built with Svelte
     tags:
@@ -675,7 +675,7 @@ resources:
       - development and documentation
     stars: 6
     last_updated: '2019-09-23T14:13:02Z'
-  - name: '`svelte-docs`'
+  - name: '`@svelte-docs/core`'
     url: 'https://github.com/AlexxNB/svelte-docs'
     description: A rapid way to write documentation for your Svelte components
     tags:
