@@ -1157,7 +1157,6 @@ resources:
     description: A declarative Svelte routing library with SSR support
     tags:
       - routers
-      - Svelte-specific routing
     stars: 434
     last_updated: '2019-10-11T02:00:51Z'
     downloads: 3360
@@ -1166,7 +1165,6 @@ resources:
     description: abstract-state-router renderer for Svelte
     tags:
       - routers
-      - Svelte-specific routing
     stars: 24
     last_updated: '2019-10-02T21:17:35Z'
     downloads: 152
@@ -1175,7 +1173,6 @@ resources:
     description: Router for SPAs using Svelte 3
     tags:
       - routers
-      - Svelte-specific routing
     stars: 158
     last_updated: '2019-10-11T01:55:15Z'
     downloads: 1940
@@ -1184,7 +1181,6 @@ resources:
     description: A simple router for Svelte 3
     tags:
       - routers
-      - Svelte-specific routing
     stars: 151
     last_updated: '2019-10-09T16:10:37Z'
     downloads: 719
@@ -1193,7 +1189,6 @@ resources:
     description: Ultimate Svelte router
     tags:
       - routers
-      - Svelte-specific routing
     stars: 25
     last_updated: '2019-09-25T16:30:32Z'
     downloads: 88
@@ -1202,7 +1197,6 @@ resources:
     description: Svelte router using a store and components
     tags:
       - routers
-      - Svelte-specific routing
     stars: 6
     last_updated: '2019-08-23T02:10:21Z'
     downloads: 29
@@ -1211,7 +1205,6 @@ resources:
     description: Simple Svelte 3 hash based router with global routes
     tags:
       - routers
-      - Svelte-specific routing
     stars: 8
     last_updated: '2019-09-10T19:20:18Z'
     downloads: 187
@@ -1220,7 +1213,6 @@ resources:
     description: Easy router for Svelte framework
     tags:
       - routers
-      - Svelte-specific routing
     stars: 35
     last_updated: '2019-09-17T00:20:41Z'
   - name: '`svelte-router-spa`'
@@ -1228,7 +1220,6 @@ resources:
     description: Svelte router specially designed for Single Page Applications (SPA)
     tags:
       - routers
-      - Svelte-specific routing
     stars: 18
     last_updated: '2019-10-08T06:21:36Z'
     downloads: 621
@@ -1237,7 +1228,6 @@ resources:
     description: Simple Svelte Router for Single Page Applications (SPA)
     tags:
       - routers
-      - Svelte-specific routing
     stars: 20
     last_updated: '2019-10-10T13:53:42Z'
     downloads: 112
@@ -1248,7 +1238,6 @@ resources:
       server-side
     tags:
       - routers
-      - Svelte-specific routing
     stars: 4
     last_updated: '2019-09-21T07:33:32Z'
     downloads: 27
@@ -1257,7 +1246,6 @@ resources:
     description: Router component for Svelte
     tags:
       - routers
-      - Svelte-specific routing
     stars: 53
     last_updated: '2019-08-29T18:04:48Z'
     downloads: 142
@@ -1266,7 +1254,6 @@ resources:
     description: A Svelte router powered by lukeed/navaid
     tags:
       - routers
-      - Svelte-specific routing
     stars: 4
     last_updated: '2019-10-09T02:03:47Z'
     downloads: 24
@@ -1277,7 +1264,6 @@ resources:
       injection
     tags:
       - routers
-      - Svelte-specific routing
     stars: 13
     last_updated: '2019-09-30T09:59:41Z'
     downloads: 97
@@ -1286,7 +1272,6 @@ resources:
     description: Framework agnostic UI router for SPAs with specific support for Svelte
     tags:
       - routers
-      - Svelte-specific routing
     stars: 232
     last_updated: '2019-10-09T18:22:13Z'
     downloads: 80
@@ -1295,7 +1280,6 @@ resources:
     description: Filesystem-based router inspired by Sapper's routing
     tags:
       - routers
-      - Svelte-specific routing
     stars: 15
     last_updated: '2019-10-10T09:26:13Z'
     downloads: 405
@@ -1304,44 +1288,7 @@ resources:
     description: Basic router with queryParams and hash-based routing support
     tags:
       - routers
-      - Svelte-specific routing
     downloads: 743
-  - name: '`navaid`'
-    url: 'https://github.com/lukeed/navaid'
-    description: 'A navigation aid (aka, router) for the browser in 850 bytes~!'
-    tags:
-      - routers
-      - generic routing
-    stars: 376
-    last_updated: '2019-10-11T02:01:43Z'
-    downloads: 659
-  - name: '`abstract-state-router`'
-    url: 'https://github.com/TehShrike/abstract-state-router'
-    description: >-
-      Like ui-router, but without all the Angular. The best way to structure a
-      SPA
-    tags:
-      - routers
-      - generic routing
-    stars: 262
-    last_updated: '2019-10-11T02:03:03Z'
-    downloads: 1039
-  - name: '`page`'
-    url: 'https://github.com/visionmedia/page.js/'
-    description: Micro client-side router inspired by the Express router
-    tags:
-      - routers
-      - generic routing
-    downloads: 77947
-  - name: '`router5`'
-    url: 'https://github.com/router5/router5'
-    description: Flexible and powerful universal routing solution
-    tags:
-      - routers
-      - generic routing
-    stars: 1466
-    last_updated: '2019-10-10T20:06:47Z'
-    downloads: 61277
   - name: '`svelte-loader`'
     url: 'https://github.com/sveltejs/svelte-loader'
     description: Webpack loader for Svelte components
