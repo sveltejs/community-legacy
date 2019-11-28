@@ -133,9 +133,10 @@
     escape-string-regexp "^1.0.5"
     lodash.deburr "^4.1.0"
 
-"@ssgjs/sapper@^0.27.9-fork.15":
-  version "0.27.9-fork.15"
-  resolved "https://registry.yarnpkg.com/@ssgjs/sapper/-/sapper-0.27.9-fork.15.tgz#85b3746a7054c779686271d54e2ddec3e3c8ed86"
+"@ssgjs/sapper@^0.27.9-fork.17":
+  version "0.27.9-fork.17"
+  resolved "https://registry.yarnpkg.com/@ssgjs/sapper/-/sapper-0.27.9-fork.17.tgz#ab96fd1723ce75c1d964f8d51a4ff4a7a6684ab7"
+  integrity sha512-mc6SxADM65wRN6sn/td1QDcB3uYLc8FMTNhlx+e61hix5BdBPC7bWpYYDo+K5pJXYoWO6i6X0OW1OpVOSa/RtQ==
   dependencies:
     "@babel/core" "^7.6.2"
     compression "^1.7.4"
@@ -160,9 +161,10 @@
     string-hash "^1.1.3"
     svelte-preprocess "^3.2.2"
 
-"@ssgjs/source-yaml@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@ssgjs/source-yaml/-/source-yaml-0.0.3.tgz#e5b3a57382514cafc5b9d1dbd727ebdf80615944"
+"@ssgjs/source-yaml@^0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@ssgjs/source-yaml/-/source-yaml-0.0.5.tgz#0081a3fd8600179820afefac4c5d71f6c78c2cff"
+  integrity sha512-ytL0YMQQP4PJ55iM6qi3Ykjes85uDwD5XE/g4o9T0245MaLhBapnAr1Wsjdy8JtZalNccIoYiVLo1gaLeJgDHw==
   dependencies:
     "@sindresorhus/slugify" "^0.9.1"
     js-yaml "^3.13.1"
@@ -1383,12 +1385,13 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
 
-ssg@^0.0.45:
-  version "0.0.45"
-  resolved "https://registry.yarnpkg.com/ssg/-/ssg-0.0.45.tgz#2752e0bdc75b0419201ab3642139fe78bd87305e"
+ssg@^0.0.54:
+  version "0.0.54"
+  resolved "https://registry.yarnpkg.com/ssg/-/ssg-0.0.54.tgz#b18b12d0c6cc28577f9b0949fdc85ec8625258ac"
+  integrity sha512-TXR/9G44xZPt1Qcy5LM+gObLnFHnTPDTbsguGZ14NxShJ9/zWMIImiqTMCQH3cDTzMEWWdFOz/PaCFpEeZ05bw==
   dependencies:
     "@sindresorhus/slugify" "^0.9.1"
-    "@ssgjs/sapper" "^0.27.9-fork.15"
+    "@ssgjs/sapper" "^0.27.9-fork.17"
     chalk "^2.4.2"
     chokidar "^3.0.2"
     debug "^4.1.1"
@@ -1704,13 +1707,8 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-"vscode-textmate@git+https://github.com/octref/vscode-textmate.git":
-  version "4.0.1"
-  resolved "git+https://github.com/octref/vscode-textmate.git#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
-
 "vscode-textmate@https://github.com/octref/vscode-textmate":
   version "4.0.1"
-  uid e65aabe2227febda7beaad31dd0fca1228c5ddf3
   resolved "https://github.com/octref/vscode-textmate#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
 
 which@^2.0.1:
