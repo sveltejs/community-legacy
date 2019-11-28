@@ -6,13 +6,13 @@
   "author": "sw-yx <swyx@dontemail.me>",
   "license": "MIT",
   "dependencies": {
-    "@ssgjs/source-yaml": "^0.0.3",
+    "@ssgjs/source-yaml": "^0.0.5",
     "@sveltejs/site-kit": "^1.1.4",
     "dotenv": "^8.1.0",
     "fuse.js": "^3.4.5",
     "js-yaml": "^3.13.1",
     "node-fetch": "^2.6.0",
-    "ssg": "^0.0.45",
+    "ssg": "^0.0.54",
     "yaml": "^1.7.1"
   },
   "scripts": {

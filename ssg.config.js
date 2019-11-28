@@ -7,17 +7,6 @@ exports.plugins = {
 };
 
 let eventsData = null;
-// optional. called repeatedly, can be expensive
-exports.getDataSlice = async (key, uid) => {
-  console.log('optional getDataSlice action');
-  // we dont really use the key here
-  if (key === 'events') {
-    // uid == the event's ID
-    return eventsData[uid];
-  } else {
-    throw new Error('invalid key ' + key);
-  }
-};
 
 exports.createIndex = async (mainIndex = {}) => {
   // do expensive initial fetches and cache them in .ssg/data.json
@@ -27,6 +16,17 @@ exports.createIndex = async (mainIndex = {}) => {
   mainIndex.resources = mainIndex.yamlFiles['data-resources-yml'].data;
   mainIndex.code = mainIndex.yamlFiles['data-code-yml'].data;
   return mainIndex;
+};
+
+// optional. called repeatedly, can be expensive
+exports.getDataSlice = async (key, uid) => {
+  // we dont really use the key here
+  if (key === 'events') {
+    // uid == the event's ID
+    return eventsData[uid];
+  } else {
+    throw new Error('invalid key ' + key);
+  }
 };
 
 // optional lifecycle hook
