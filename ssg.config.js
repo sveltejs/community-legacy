@@ -11,10 +11,10 @@ let eventsData = null;
 exports.createIndex = async (mainIndex = {}) => {
   // do expensive initial fetches and cache them in .ssg/data.json
   // console.log({ mainIndex: Object.keys(mainIndex.data) })
-  eventsData = mainIndex.yamlFiles['data-events-yml'].data.EventsList;
-  mainIndex.events = eventsData;
+  mainIndex.events = mainIndex.yamlFiles['data-events-yml'].data.EventsList;
   mainIndex.resources = mainIndex.yamlFiles['data-resources-yml'].data;
   mainIndex.code = mainIndex.yamlFiles['data-code-yml'].data;
+  mainIndex.showcase = mainIndex.yamlFiles['data-showcase-yml'].data;
   return mainIndex;
 };
 
