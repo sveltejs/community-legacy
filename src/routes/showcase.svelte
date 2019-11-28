@@ -83,7 +83,11 @@
       <div class="SiteCard-Image">
         {#if site.imageUrl}
         <a href="{site.source || site.url}">
-          <img alt="Screenshot of {site.name}" src="{site.imageUrl}" />
+          <img
+            loading="lazy"
+            alt="Screenshot of {site.name}"
+            src="{site.imageUrl}"
+          />
         </a>
         {:else}
         <div class="Placeholder">No screenshot available</div>
