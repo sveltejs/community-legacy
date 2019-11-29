@@ -1,0 +1,114 @@
+sites:
+  - name: hn.svelte.dev
+    source: 'https://github.com/sveltejs/hn.svelte.dev'
+    url: 'https://hn.svelte.dev'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814687-bb2f7a80-11c2-11ea-925a-0d6324670896.png'
+    description: 'Hacker News clone built with Svelte and Sapper'
+    tags:
+      - Demo App
+    stars: 46
+    last_updated: '2019-10-10T00:20:42Z'
+  - name: svelte-travel-transitions
+    source: 'https://github.com/pngwn/svelte-travel-transitions'
+    url: 'https://svelte-travel.netlify.com/'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814727-d26e6800-11c2-11ea-95d3-e4ac4c719fe7.png'
+    description: 'Native-like Page Transitions with Svelte and Sapper, A Travel App'
+    tags:
+      - Demo App
+    stars: 62
+    last_updated: '2019-10-11T06:38:28Z'
+  - name: New Tab
+    source: 'https://github.com/MaxMilton/new-tab'
+    url: 'https://chrome.google.com/webstore/detail/new-tab/cpcibnbdmpmcmnkhoiilpnlaepkepknb'
+    description: >-
+      ⚡ A high performance Google Chrome new tab page that gets you where you
+      need to go faster
+    tags:
+      - Browser Extension
+    stars: 22
+    last_updated: '2019-10-05T08:45:00Z'
+  - name: Winston Appido
+    url: 'https://winston.appido.ir/'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69882772-45e5a780-129f-11ea-8ee9-23d7607b698a.png'
+    description: 'Video Streaming Platform UI in Iran'
+    tags:
+      - Production App
+  - name: NAU Tab
+    source: 'https://github.com/trongthanh/nau-chrome-tab'
+    url: 'https://int3ractive.com/nau-tab'
+    imageUrl: 'https://int3ractive.com/img/nau-tab-bg.jpg'
+    description: >-
+      Beautiful New Tab extension for Chrome, Firefox and browsers support web
+      extension
+    tags:
+      - Browser Extension
+    stars: 18
+    last_updated: '2019-09-29T21:49:08Z'
+  - name: Perfect Home
+    source: 'https://github.com/tborychowski/perfect-home'
+    url: 'https://addons.mozilla.org/en-US/firefox/addon/perfect-home/'
+    imageUrl: 'https://github.com/tborychowski/perfect-home/raw/master/_stuff/screen-main.png'
+    description: Firefox newtab/home replacement
+    tags:
+      - Browser Extension
+    stars: 4
+    last_updated: '2019-10-09T15:50:52Z'
+  - name: Nomie
+    source: 'https://github.com/open-nomie/nomie'
+    url: 'https://nomie.app/'
+    imageUrl: 'https://camo.githubusercontent.com/36e7c0606e4fb812569d78d8efc36d7bed388c9c/68747470733a2f2f73686172656b696e672e73332e616d617a6f6e6177732e636f6d2f6e6f6d69652d6865616465722e706e673f32'
+    description: Mood and Life Tracker built with Svelte
+    tags:
+      - Production App
+    stars: 117
+    last_updated: '2019-10-10T02:56:09Z'
+  - name: Palettes
+    source: 'https://github.com/gka/palettes'
+    url: 'https://vis4.net/palettes'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814877-26794c80-11c3-11ea-999d-eeccf03f565c.png'
+    description: >-
+      A tool for creating nice, percerptually correct and colorblind-safe color
+      palettes
+    tags:
+      - Dev Tool
+    stars: 82
+    last_updated: '2019-10-10T06:26:30Z'
+  - name: Svelte TodoMVC
+    source: 'https://github.com/sveltejs/svelte-todomvc'
+    url: 'http://svelte-todomvc.surge.sh/'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814450-2c226280-11c2-11ea-9d5e-d3f7665ac95c.png'
+    description: 'TodoMVC implemented in Svelte'
+    tags:
+      - Demo App
+    stars: 83
+    last_updated: '2019-09-24T04:43:30Z'
+  - name: RealWorld Svelte
+    source: 'https://github.com/sveltejs/realworld'
+    url: 'https://realworld.svelte.dev/'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814542-6986f000-11c2-11ea-8147-5342e21210fc.png'
+    description: >-
+      Svelte/Sapper implementation of the RealWorld app
+    tags:
+      - Demo APp
+    stars: 356
+    last_updated: '2019-10-10T21:28:51Z'
+  - name: Svelte REPL
+    source: 'https://github.com/sveltejs/svelte-repl'
+    url: 'https://svelte.dev/repl'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814592-87eceb80-11c2-11ea-9f87-1536c5ce99ae.png'
+    description: >-
+      The `<Repl>` component used on the Svelte website
+    tags:
+      - Dev Tool
+    stars: 62
+    last_updated: '2019-10-10T19:59:46Z'
+  - name: Svelte DBMonster
+    source: 'https://github.com/sveltejs/svelte-dbmonster'
+    url: 'http://svelte-dbmonster.surge.sh'
+    imageUrl: 'https://user-images.githubusercontent.com/6764957/69814632-a0f59c80-11c2-11ea-92b0-93cc5b56bc0c.png'
+    description: >-
+      Svelte implementation of DBMonster
+    tags:
+      - Demo App
+    stars: 11
+    last_updated: '2019-06-30T20:24:44Z'
