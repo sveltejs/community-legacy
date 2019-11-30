@@ -200,3 +200,14 @@ resources:
     tags:
       - media
       - podcasts and other videos
+  - name: 'Svelte Sapper Bulma Crud'
+    url: 'https://github.com/danielschmitz/svelte-sapper-bulma-crud'
+    description: A basic CRUD (Create, Read, Update, Delete) using Svelte, Sapper and Bulma. Working on heroku
+    tags:
+      - crud
+      - svelte
+      - sapper
+      - bulma
+      - heroku
+      - demo
+      - example
