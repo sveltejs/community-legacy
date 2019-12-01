@@ -1,4 +1,13 @@
 sites:
+  - name: Convos IRC Client
+    source: 'https://github.com/Nordaaker/convos'
+    url: 'https://convos.by/2019/10/26/convos-one-point-oh.html'
+    imageUrl: 'https://user-images.githubusercontent.com/534488/69898733-72f88f80-135d-11ea-86fd-4a22014a6b69.jpg'
+    description: 'IRC Client Front-end made using Svelte'
+    tags:
+      - Production App
+    stars: 553
+    last_updated: '2019-10-10T00:20:42Z'
   - name: hn.svelte.dev
     source: 'https://github.com/sveltejs/hn.svelte.dev'
     url: 'https://hn.svelte.dev'
