@@ -82,6 +82,7 @@ EventsList:
   - city: Bergen
     country: Norway
     date: ''
+    desc: Bergen Meetup
     description: >-
       For developers and companies looking or working with Svelte in the Bergen
       area.
