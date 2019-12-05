@@ -1492,3 +1492,13 @@ resources:
     stars: 0
     last_updated: '2019-11-29T17:06:55Z'
     downloads: 22
+  - name: svelte-fullcalendar
+    url: 'https://github.com/YogliB/svelte-fullcalendar'
+    description: A Svelte component wrapper around FullCalendar.
+    tags:
+      - fullcalendar
+      - calendar
+      - component
+    stars: 0
+    last_updated:
+    downloads: 0
