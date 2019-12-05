@@ -1496,9 +1496,8 @@ resources:
     url: 'https://github.com/YogliB/svelte-fullcalendar'
     description: A Svelte component wrapper around FullCalendar.
     tags:
-      - fullcalendar
-      - calendar
-      - component
+      - components and libraries
+      - time and date
     stars: 0
     last_updated:
     downloads: 0
