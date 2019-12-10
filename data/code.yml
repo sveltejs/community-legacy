@@ -1515,7 +1515,6 @@ resources:
     tags:
       - components and libraries
       - forms and validation
-      - validation
     stars: 2
     last_updated: '2019-12-10T10:00:00Z'
     downloads: 158
