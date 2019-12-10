@@ -1509,3 +1509,13 @@ resources:
     stars: 89
     last_updated: '2019-11-29T17:06:55Z'
     downloads: 0
+  - name: svelidation
+    url: 'https://github.com/yazonnile/svelidation'
+    description: Easily customizable library for validation scenarios in svelte components.
+    tags:
+      - components and libraries
+      - forms and validation
+      - validation
+    stars: 2
+    last_updated: '2019-12-10T10:00:00Z'
+    downloads: 158
