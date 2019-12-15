@@ -89,3 +89,14 @@ EventsList:
     eventName: Svelte Bergen
     type: Meetup
     url: 'https://www.downtomeet.com/Svelte-Bergen'
+  - city: Vannes
+    country: FR
+    date: 2019-12-27T23:00:00.000Z
+    description: >-
+      Pour les développeur qui veulent en savoiur plus sur les avantages à
+      passer à Svelte.
+    eventName: 'Vannes Svelte '
+    organizer: Emmanuel rondeau
+    twitter: '@wolfr_2'
+    type: Workshop
+    url: 'https://www.meetup.com/svelte/'
