@@ -100,7 +100,7 @@
 </style>
 
 <svelte:head>
-  <title>Resources • Sapper Community</title>
+  <title>Resources • Svelte Community</title>
 </svelte:head>
 
 <Hero
