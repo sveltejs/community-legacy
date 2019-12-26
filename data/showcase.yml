@@ -36,12 +36,6 @@ sites:
       - Browser Extension
     stars: 22
     last_updated: '2019-10-05T08:45:00Z'
-  - name: Winston Appido
-    url: 'https://winston.appido.ir/'
-    imageUrl: 'https://user-images.githubusercontent.com/6764957/69882772-45e5a780-129f-11ea-8ee9-23d7607b698a.png'
-    description: 'Video Streaming Platform UI in Iran'
-    tags:
-      - Production App
   - name: NAU Tab
     source: 'https://github.com/trongthanh/nau-chrome-tab'
     url: 'https://int3ractive.com/nau-tab'
