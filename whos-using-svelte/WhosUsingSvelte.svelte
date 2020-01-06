@@ -45,6 +45,7 @@
 </style>
 
 <div class="logos">
+	<a target="_blank" rel="noopener" href="https://1password.com"><img src="organisations/1password.png" alt="1Password logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ablab.de"><img src="organisations/ablab.svg" alt="ABLab logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://absoluteweb.com"><img src="organisations/absoluteweb.svg" alt="Absolute Web logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
