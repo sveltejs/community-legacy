@@ -1,4 +1,10 @@
 resources:
+  - name: '`carbon components svelte`'
+    url: 'https://github.com/IBM/carbon-components-svelte'
+    description: Svelte implementation of the Carbon Design System
+    tags:
+      - components and libraries
+      - ui component sets
   - name: '`svelma`'
     url: 'https://github.com/c0bra/svelma'
     description: Bulma components for Svelte
