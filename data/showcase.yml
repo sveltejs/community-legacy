@@ -115,3 +115,12 @@ sites:
       - Demo App
     stars: 11
     last_updated: '2019-06-30T20:24:44Z'
+  - name: Typerunner.js
+    url: 'https://tsh.io/typerunner'
+    imageUrl: 'https://tsh.io/wp-content/uploads/2019/12/opengraph-typerunner.png'
+    description: >-
+      A simple typing game, which has 2-4 human players compete against each 
+      other. The one to first type out the entire block of text wins.
+    tags:
+      - Demo App
+    last_updated: '2020-01-07T20:45:01Z'
