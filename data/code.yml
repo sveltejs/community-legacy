@@ -1518,3 +1518,14 @@ resources:
     stars: 2
     last_updated: '2019-12-10T10:00:00Z'
     downloads: 158
+  - name: '`Ionic Svelte UI demo`'
+    url: 'https://github.com/Tommertom/svelte-ionic-app'
+    description: A showcase app for all Ionic UI elements to create awesome mobile apps. Published as web app too.
+    tags:
+      - components and libraries
+      - ui component sets
+      - web component sets
+      - mobile templates
+    stars: 15
+    last_updated: '2020-01-04T10:00:00Z'
+    downloads: 0
