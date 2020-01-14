@@ -1529,3 +1529,13 @@ resources:
     stars: 15
     last_updated: '2020-01-04T10:00:00Z'
     downloads: 0
+  - name: '`@dopry/svelte-auth0`'
+    url: 'https://github.com/dopry/svelte-auth0'
+    description: Auth0 component library
+    tags:
+      - components and libraries
+      - integrations
+      - auth
+    stars: 1
+    last_updated: '2020-01-14T10:00:00Z'
+    downloads: 0
