@@ -1,4 +1,10 @@
 resources:
+  - name: '`svelte-tags-input`'
+    url: 'https://github.com/agustinl/svelte-tags-input'
+    description: Svelte tags input is a component to use with Svelte and easily enter tags and customize some functions
+    tags:
+      - components and libraries
+      - ui component sets
   - name: '`carbon components svelte`'
     url: 'https://github.com/IBM/carbon-components-svelte'
     description: Svelte implementation of the Carbon Design System
