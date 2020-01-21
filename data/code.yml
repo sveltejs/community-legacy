@@ -1445,8 +1445,8 @@ resources:
     tags:
       - integrations
       - editor tools
-    stars: 5
-    last_updated: '2019-10-11T04:55:24Z'
+    stars: 11
+    last_updated: '2020-01-20T09:36:57Z'
   - name: svelte-intellij
     url: 'https://github.com/tomblachut/svelte-intellij'
     description: Provides syntax highlighting of Svelte components in WebStorm and friends
