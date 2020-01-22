@@ -1447,6 +1447,14 @@ resources:
       - editor tools
     stars: 11
     last_updated: '2020-01-20T09:36:57Z'
+  - name: svelte-mode
+    url: 'https://github.com/leafOfTree/svelte-mode'
+    description: Emacs major mode for Svelte
+    tags:
+      - integrations
+      - editor tools
+    stars: 1
+    last_updated: '2020-01-21T08:58:37Z'
   - name: svelte-intellij
     url: 'https://github.com/tomblachut/svelte-intellij'
     description: Provides syntax highlighting of Svelte components in WebStorm and friends
