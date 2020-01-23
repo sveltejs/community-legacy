@@ -829,6 +829,20 @@ resources:
       - templates
     stars: 326
     last_updated: '2019-10-11T06:55:06Z'
+  - name: dafn/svelte-typescript-rollup
+    url: 'https://github.com/dafn/svelte-typescript-rollup'
+    description: 'Minimal boilerplate example of Svelte with Typescript using Rollup. This also includes scss support'
+    tags:
+      - templates
+    stars: 28
+    last_updated: '2020-01-21T18:10:39Z'
+  - name: dafn/svelte-typescript-parcel
+    url: 'https://github.com/dafn/svelte-typescript-parcel'
+    description: 'Minimal boilerplate example of Svelte with Typescript using Parcel. This also includes scss support'
+    tags:
+      - templates
+    stars: 20
+    last_updated: '2020-01-21T18:10:39Z'
   - name: pyoner/svelte-typescript
     url: 'https://github.com/pyoner/svelte-typescript'
     description: 'Typescript monorepo for Svelte v3 (preprocess, template, types)'
