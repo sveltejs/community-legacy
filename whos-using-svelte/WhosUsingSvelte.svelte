@@ -84,6 +84,7 @@
 	<a target="_blank" rel="noopener" href="https://panascais.net"><img src="organisations/panascais.svg" alt="Panascais logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://pqina.nl"><img src="organisations/pqina.svg" alt="PQINA logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://sp.nl"><img src="organisations/socialist-party.svg" alt="Socialist Party logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.softmus.com.br/"><img src="organisations/softmus.png" alt="Softmus Tecnologia logo" loading="lazy"></a>
