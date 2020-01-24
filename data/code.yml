@@ -1,4 +1,10 @@
 resources:
+  - name: '`svelte-websocket-store`'
+    url: 'https://github.com/arlac77/svelte-websocket-store'
+    description: Svelte store with a websocket backend
+    tags:
+      - components and libraries
+      - store
   - name: '`svelte-tags-input`'
     url: 'https://github.com/agustinl/svelte-tags-input'
     description: Svelte tags input is a component to use with Svelte and easily enter tags and customize some functions
