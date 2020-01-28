@@ -6,7 +6,6 @@ resources:
       - svelte
       - typewriter-effect
     stars: 26
-    last_updated: 2020-01-23T10:23:32Z'
   - name: '`svelte-websocket-store`'
     url: 'https://github.com/arlac77/svelte-websocket-store'
     description: Svelte store with a websocket backend
