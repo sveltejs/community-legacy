@@ -89,3 +89,9 @@ EventsList:
     eventName: Svelte Bergen
     type: Meetup
     url: 'https://www.downtomeet.com/Svelte-Bergen'
+  - city: Hamburg
+    country: Germany
+    desc: Svelte js Meetup Hamburg
+    eventName: Svelte js Meetup Hamburg
+    type: Meetup
+    url: 'https://www.meetup.com/de-DE/Svelte-js-Meetup-Hamburg/'

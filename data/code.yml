@@ -1,4 +1,22 @@
 resources:
+  - name: '`svelte-websocket-store`'
+    url: 'https://github.com/arlac77/svelte-websocket-store'
+    description: Svelte store with a websocket backend
+    tags:
+      - components and libraries
+      - store
+  - name: '`svelte-tags-input`'
+    url: 'https://github.com/agustinl/svelte-tags-input'
+    description: Svelte tags input is a component to use with Svelte and easily enter tags and customize some functions
+    tags:
+      - components and libraries
+      - ui component sets
+  - name: '`carbon components svelte`'
+    url: 'https://github.com/IBM/carbon-components-svelte'
+    description: Svelte implementation of the Carbon Design System
+    tags:
+      - components and libraries
+      - ui component sets
   - name: '`svelma`'
     url: 'https://github.com/c0bra/svelma'
     description: Bulma components for Svelte
@@ -817,6 +835,20 @@ resources:
       - templates
     stars: 326
     last_updated: '2019-10-11T06:55:06Z'
+  - name: dafn/svelte-typescript-rollup
+    url: 'https://github.com/dafn/svelte-typescript-rollup'
+    description: 'Minimal boilerplate example of Svelte with Typescript using Rollup. This also includes scss support'
+    tags:
+      - templates
+    stars: 28
+    last_updated: '2020-01-21T18:10:39Z'
+  - name: dafn/svelte-typescript-parcel
+    url: 'https://github.com/dafn/svelte-typescript-parcel'
+    description: 'Minimal boilerplate example of Svelte with Typescript using Parcel. This also includes scss support'
+    tags:
+      - templates
+    stars: 20
+    last_updated: '2020-01-21T18:10:39Z'
   - name: pyoner/svelte-typescript
     url: 'https://github.com/pyoner/svelte-typescript'
     description: 'Typescript monorepo for Svelte v3 (preprocess, template, types)'
@@ -1433,8 +1465,16 @@ resources:
     tags:
       - integrations
       - editor tools
-    stars: 5
-    last_updated: '2019-10-11T04:55:24Z'
+    stars: 11
+    last_updated: '2020-01-20T09:36:57Z'
+  - name: svelte-mode
+    url: 'https://github.com/leafOfTree/svelte-mode'
+    description: Emacs major mode for Svelte
+    tags:
+      - integrations
+      - editor tools
+    stars: 1
+    last_updated: '2020-01-21T08:58:37Z'
   - name: svelte-intellij
     url: 'https://github.com/tomblachut/svelte-intellij'
     description: Provides syntax highlighting of Svelte components in WebStorm and friends
@@ -1528,4 +1568,14 @@ resources:
       - mobile templates
     stars: 15
     last_updated: '2020-01-04T10:00:00Z'
+    downloads: 0
+  - name: '`@dopry/svelte-auth0`'
+    url: 'https://github.com/dopry/svelte-auth0'
+    description: Auth0 component library
+    tags:
+      - components and libraries
+      - integrations
+      - auth
+    stars: 1
+    last_updated: '2020-01-14T10:00:00Z'
     downloads: 0
