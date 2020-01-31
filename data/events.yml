@@ -91,7 +91,79 @@ EventsList:
     url: 'https://www.downtomeet.com/Svelte-Bergen'
   - city: Hamburg
     country: Germany
+    date: 2020-01-31T13:06:23.246Z
     desc: Svelte js Meetup Hamburg
     eventName: Svelte js Meetup Hamburg
     type: Meetup
     url: 'https://www.meetup.com/de-DE/Svelte-js-Meetup-Hamburg/'
+  - city: Moscow
+    country: Russian Federation
+    date: 2020-02-22T12:00:00.000Z
+    desc: >-
+      On February 22, the Mail.ru Group headquarters will host the first Svelte
+      Russia Meetup.
+    description: >-
+      The Russian-speaking community is the biggest local SvelteJS community
+      with more than 1,300 members in Telegram (@sveltejs). Community leaders
+      will share the experience of using SvelteJS in production projects, tell
+      about the issues and first-hand solutions.\
+
+      \
+
+      **Schedule:**
+
+
+      15:00 - registration
+
+
+      16:00 — opening
+
+
+      16:15 - **Svelte of Svelte 2019 (Pavel Malyshev, Head of Development in
+      Mustlab)** 
+
+
+      Let me tell you about the current state of the SvelteJS framework, its
+      ecosystem, community, and why you should look at it.
+
+
+      16:30 — **Migration from React to Svelte. The almost easy way (Vadim
+      Tcaregorodtcev, senior developer Infobip)** 
+
+
+      De facto much of the code base of the entire frontend is written in React.
+      And, as it turned out, there is no direct migration path from React to
+      Svelte. In the report on what ways to circumvent this restriction.
+
+
+      17:00 - **Svelte: how to stop worrying and start programming on it (Ruslan
+      Kucherov, programmer, Mail.ru Group)**
+
+
+      17:30 — a coffee-break
+
+
+      18:00 - **Component-based Architecture (Denis Kurilenko, startuper)** 
+
+
+      Let me tell you if it's possible to build a fun application architecture
+      in a component style. I will share my experience of creating two quite
+      large projects using this approach.
+
+
+      18:30 — **Sapper for big and small (Kukushin Georgy, principal developer,
+      MTS IT)** 
+
+
+      In general, about technology, its advantages, nuances of use for projects
+      of different scales.
+
+
+      19:00 - networking
+    eventName: 'Svelte Russia Meetup #1'
+    organizer: Pavel Malyshev
+    thumbnail: /images/uploads/v3--1280x720.jpg
+    twitter: 'https://twitter.com/PaulMaly'
+    type: One-off
+    url: >-
+      https://www.downtomeet.com/Svelte-Russia-Meetups/Svelte-Russia-Meetup-1-1953859
