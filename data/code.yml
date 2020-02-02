@@ -1307,13 +1307,14 @@ resources:
     stars: 232
     last_updated: '2019-10-09T18:22:13Z'
     downloads: 72
-  - name: '`svelte-filerouter`'
-    url: 'https://github.com/jakobrosenberg/svelte-filerouter'
-    description: Filesystem-based router inspired by Sapper's routing
+  - name: '`routify`'
+    url: 'https://github.com/sveltech/routify'
+    description: Automated Svelte routes
     tags:
       - routers
-    stars: 15
-    last_updated: '2019-10-10T09:26:13Z'
+      - ssr
+    stars: 128
+    last_updated: '2020-02-01T09:26:13Z'
     downloads: 407
   - name: '`yrv`'
     url: 'https://github.com/pateketrueke/yrv'
