@@ -1,4 +1,11 @@
 resources:
+  - name: '`svelte-typewriter`'
+    url: 'https://github.com/henriquehbr/svelte-typewriter'
+    description: A simple and reusable typewriter effect for your Svelte applications
+    tags:
+      - svelte
+      - typewriter-effect
+    stars: 26
   - name: '`svelte-websocket-store`'
     url: 'https://github.com/arlac77/svelte-websocket-store'
     description: Svelte store with a websocket backend
