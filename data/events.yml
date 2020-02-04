@@ -91,7 +91,29 @@ EventsList:
     url: 'https://www.downtomeet.com/Svelte-Bergen'
   - city: Hamburg
     country: Germany
+    date: 2020-01-31T13:06:23.246Z
     desc: Svelte js Meetup Hamburg
     eventName: Svelte js Meetup Hamburg
     type: Meetup
     url: 'https://www.meetup.com/de-DE/Svelte-js-Meetup-Hamburg/'
+  - city: Moscow
+    country: Russian Federation
+    date: ''
+    desc: >-
+      The Russian-speaking community is the biggest local **SvelteJS** community
+      with more than 1,300 members in Telegram
+      ([@sveltejs](https://t.me/sveltejs)). At our meetups, community leaders
+      share the experience of using SvelteJS in production and pet projects,
+      tell about the issues and first-hand solutions.
+    description: >-
+      The Russian-speaking community is the biggest local **SvelteJS** community
+      with more than 1,300 members in Telegram
+      ([@sveltejs](https://t.me/sveltejs)). At our meetups, community leaders
+      share the experience of using SvelteJS in production and pet projects,
+      tell about the issues and first-hand solutions.
+    eventName: Svelte Russia Meetups
+    organizer: Pavel Malyshev
+    thumbnail: /images/uploads/v3--1280x720.jpg
+    twitter: 'https://twitter.com/PaulMaly'
+    type: Meetup
+    url: 'https://www.downtomeet.com/Svelte-Russia-Meetups'
