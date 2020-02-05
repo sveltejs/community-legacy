@@ -1347,6 +1347,12 @@ resources:
     stars: 137
     last_updated: '2019-10-05T18:07:08Z'
     downloads: 54311
+  - name: '`svelvet`'
+    url: 'https://github.com/jakedeichert/svelvet'
+    description: A cli svelte compiler & watcher that works with snowpack
+    tags:
+      - integrations
+      - bundler plugins
   - name: '`svelte-preprocess`'
     url: 'https://github.com/kaisermann/svelte-preprocess'
     description: A Svelte preprocessor with baked in support for common preprocessors
