@@ -696,6 +696,15 @@ resources:
     stars: 32
     last_updated: '2019-10-07T14:11:29Z'
     downloads: 169
+  - name: '`svelte-viewpoint`'
+    url: 'https://github.com/PaulMaly/svelte-viewpoint'
+    description: Dynamically load a Svelte component with placeholders and preloading
+    tags:
+      - components and libraries
+      - async loading
+    stars: 2
+    last_updated: '2020-02-10T20:35:29Z'
+    downloads: 1
   - name: '`@beyonk/svelte-google-analytics`'
     url: 'https://github.com/beyonk-adventures/svelte-google-analytics'
     description: Google Analytics tracking module for Svelte / Sapper
