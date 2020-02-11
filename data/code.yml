@@ -1602,3 +1602,14 @@ resources:
     stars: 1
     last_updated: '2020-01-14T10:00:00Z'
     downloads: 0
+  - name: '`svelte-multitoneimage`'
+    url: 'https://github.com/stephane-vanraes/svelte-multitoneimage'
+    description: Component to easily generate multitone images
+    tags:
+      - components and libraries
+      - images
+  - name: '`svelte-progresscircle`'
+    url: 'https://github.com/stephane-vanraes/svelte-progresscircle'
+    description: Flexible circular progress bar component
+    tags:
+      - components and libraries
