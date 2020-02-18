@@ -479,7 +479,7 @@ resources:
       - marquee
       - component
     stars: 0
-    last_updated: '2020-02-12T09:12:56≤Z'
+    last_updated: '2020-02-12T09:12:56Z'
     downloads: 132
   - name: '`svelte-easy-crop`'
     url: 'https://github.com/ValentinH/svelte-easy-crop'
