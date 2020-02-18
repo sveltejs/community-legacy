@@ -472,6 +472,15 @@ resources:
     stars: 13
     last_updated: '2019-10-05T16:04:33Z'
     downloads: 517
+  - name: '`svelte-marquee`'
+    url: 'https://github.com/silvestrevivo/svelte-marquee'
+    description: Marquee fully responsive and adaptive for Svelte
+    tags:
+      - marquee
+      - component
+    stars: 0
+    last_updated: '2020-02-12T09:12:56≤Z'
+    downloads: 132
   - name: '`svelte-easy-crop`'
     url: 'https://github.com/ValentinH/svelte-easy-crop'
     description: A Svelte component to crop images with easy interactions
