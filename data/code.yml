@@ -476,8 +476,7 @@ resources:
     url: 'https://github.com/silvestrevivo/svelte-marquee'
     description: Marquee fully responsive and adaptive for Svelte
     tags:
-      - marquee
-      - component
+      - components and libraries
     stars: 0
     last_updated: '2020-02-12T09:12:56Z'
     downloads: 132
