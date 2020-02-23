@@ -1621,7 +1621,7 @@ resources:
     description: Flexible circular progress bar component
     tags:
       - components and libraries
-  - name: '`svelte-ventbus`'
+  - name: '`svelte-eventbus`'
     url: 'https://github.com/AlexxNB/svelte-eventbus'
     description: Simple eventbus realization based on internal Svelte's tools only
     tags:
