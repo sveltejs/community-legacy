@@ -1,24 +1,28 @@
 // Used to fetch and update number of stars on each resource.
-require("dotenv").config();
-const fs = require("fs");
-const yaml = require("js-yaml");
-const fetch = require("node-fetch");
+require('dotenv').config();
+const fs = require('fs');
+const yaml = require('js-yaml');
+const fetch = require('node-fetch');
+
+// edit this to update files
+const pathToFileToUpdate = 'data/code.yml';
+// end edit this
 
 function hasGitHubUrl(url) {
-  return url.includes("github.com");
+  return url.includes('github.com');
 }
 
 async function getStars() {
   try {
     const resources = yaml.safeLoad(
-      fs.readFileSync("data/resources.yml", "utf8")
+      fs.readFileSync(pathToFileToUpdate, 'utf8')
     );
 
     const updatedResources = await Promise.all(
-      resources.resources.map(async res => {
+      resources.resources.map(async (res) => {
         if (hasGitHubUrl(res.url)) {
           const url = res.url;
-          const [org, repo] = url.split("/").splice(-2);
+          const [org, repo] = url.split('/').splice(-2);
 
           let result = await fetch(
             `https://api.github.com/repos/${org}/${repo}?client_id=${process.env.GITHUB_CLIENT_ID}&client_secret=${process.env.GITHUB_CLIENT_SECRET}`
@@ -26,10 +30,14 @@ async function getStars() {
 
           result = await result.json();
 
-          if (result.message == "Not Found") {
+          if (result.message == 'Not Found') {
             return res;
           }
-
+          if (result.watchers === undefined) {
+            throw new Error(
+              'note to developer - watchers is undefined, you are likely exceeding API rate limit'
+            );
+          }
           return {
             ...res,
             stars: result.watchers,
@@ -45,8 +53,7 @@ async function getStars() {
       ...resources,
       resources: updatedResources
     };
-
-    fs.writeFile("data/resources.yml", yaml.safeDump(finishedYaml), err => {
+    fs.writeFile(pathToFileToUpdate, yaml.safeDump(finishedYaml), (err) => {
       if (err) {
         console.log(err);
       }
