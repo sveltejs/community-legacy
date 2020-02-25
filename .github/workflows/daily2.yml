@@ -1,0 +1,23 @@
+name: Pull Data and Save it
+
+on:
+  schedule:
+    - cron:  '0 8 * * *' # every day at 8am
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build
+      run: npm install
+    - name: Scrape
+      run: npm run githubGetAllData 
+      env:
+        GITHUB_CLIENT_ID: ${{ secrets.GITHUB_CLIENT_ID }} # get this from a github oauth app you set up
+        GITHUB_CLIENT_SECRET: ${{ secrets.GITHUB_CLIENT_SECRET }}
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
