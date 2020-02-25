@@ -13,8 +13,8 @@ jobs:
     - name: Scrape
       run: npm run githubGetAllData 
       env:
-        GITHUB_CLIENT_ID: ${{ secrets.GITHUB_CLIENT_ID }} # get this from a github oauth app you set up
-        GITHUB_CLIENT_SECRET: ${{ secrets.GITHUB_CLIENT_SECRET }}
+        GH_CLIENT_ID: ${{ secrets.GH_CLIENT_ID }} # get this from a github oauth app you set up
+        GH_CLIENT_SECRET: ${{ secrets.GH_CLIENT_SECRET }}
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you

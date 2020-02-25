@@ -25,7 +25,7 @@ async function getStars() {
           const [org, repo] = url.split('/').splice(-2);
 
           let result = await fetch(
-            `https://api.github.com/repos/${org}/${repo}?client_id=${process.env.GITHUB_CLIENT_ID}&client_secret=${process.env.GITHUB_CLIENT_SECRET}`
+            `https://api.github.com/repos/${org}/${repo}?client_id=${process.env.GH_CLIENT_ID}&client_secret=${process.env.GH_CLIENT_SECRET}`
           );
 
           result = await result.json();
