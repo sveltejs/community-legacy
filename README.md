@@ -59,3 +59,12 @@ An example entry might look this:
 ```
 
 All events need a time, location, url and at least one contactable organiser. If the venue is not yet confirmed then enter 'To be confirmed' in the relevant Location fields and enter in as much information as you currently know. Dates should be provided in local time as `YYYY-MM-DD-TTTT` (24-hour time).
+
+## Updating stats
+
+We run two scripts - `updateGithubStats` and `updateNpmStats`. You dont need credentials for `updateNpmStats` but you will need to add env vars for the github stats in a `.env` file. Pull this from an [OAuth App](https://github.com/settings/developers) (NOT GitHub App):
+
+```bash
+GITHUB_CLIENT_ID= # e.g. 1234c7cce43a8bfd6e5e
+GITHUB_CLIENT_SECRET= # e.g. abcd0bf9fb26048089874dae9ff09f91a0ef6528
+```
