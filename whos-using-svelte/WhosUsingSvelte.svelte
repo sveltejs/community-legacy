@@ -80,6 +80,7 @@
 	<a target="_blank" rel="noopener" href="http://mustlab.ru"><img src="organisations/mustlab.png" alt="Mustlab logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nesta.org.uk"><img src="organisations/nesta.svg" alt="Nesta logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nonkositelecoms.com"><img src="organisations/nonkosi.svg" alt="Nonkosi Telecoms logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://noppo.pro"><img src="organisations/noppo.png" alt="Noppo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nzz.ch"><img src="organisations/nzz.svg" alt="Neue Zürcher Zeitung logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://nytimes.com"><img src="organisations/nyt.svg" alt="The New York Times logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://oberonspace.xyz"><img src="organisations/oberonspace.svg" alt="OberonSPACE logo" loading="lazy"></a>
@@ -88,6 +89,8 @@
 	<a target="_blank" rel="noopener" href="https://panascais.net"><img src="organisations/panascais.svg" alt="Panascais logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.playpilot.com/"><img src="organisations/playpilot.svg" alt="Playpilot logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://en.plentyofplans.app"><img src="organisations/plentyofplans.png" alt="PlentyOfPlans logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pqina.nl"><img src="organisations/pqina.svg" alt="PQINA logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://global.rakuten.com/corp/"><img src="organisations/rakuten.svg" alt="Rakuten logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
