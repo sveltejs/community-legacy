@@ -1678,3 +1678,12 @@ resources:
     downloads: 60
     stars: 0
     last_updated: '2020-02-23T20:21:14Z'
+  - name: nye/svelte-electron-better-sqlite3-starter
+    url: 'https://github.com/nye/svelte-electron-better-sqlite3-starter'
+    description: Starter to built Electron apps with Svelte and Better SQLite3
+    tags:
+      - templates
+      - electron
+      - database
+    stars: 1
+    last_updated: '2020-01-05T18:37:20Z'
