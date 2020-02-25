@@ -1,19 +1,19 @@
 // Fetches and updates the number of monthly npm downloads on each resource.
 // api docs: https://github.com/npm/registry/blob/master/docs/download-counts.md
 
-const fs = require("fs");
-const yaml = require("js-yaml");
-const fetch = require("node-fetch");
+const fs = require('fs');
+const yaml = require('js-yaml');
+const fetch = require('node-fetch');
 
-const filePath = "data/code.yml";
-const period = "point/last-month";
-const extractNpmPackage = resource => {
+const filePath = 'data/code.yml';
+const period = 'point/last-month';
+const extractNpmPackage = (resource) => {
   const matches = resource.name.match(/^`(.+)`$/);
   return matches && matches[1];
 };
 
 async function updateDownloads() {
-  const data = yaml.safeLoad(fs.readFileSync(filePath, "utf8"));
+  const data = yaml.safeLoad(fs.readFileSync(filePath, 'utf8'));
 
   const updatedResources = [];
   for (const resource of data.resources) {
@@ -29,11 +29,11 @@ async function updateDownloads() {
     result = await result.json();
 
     if (result.error) {
-      if (result.error.includes("not found")) {
-        throw Error(
+      if (result.error.includes('not found')) {
+        console.error(
           `npm package "${npmPackage}" not found.` +
-            " If the resource is not supposed to be an npm package," +
-            " remove the backticks from its name."
+            ' If the resource is not supposed to be an npm package,' +
+            ' remove the backticks from its name.'
         );
       } else {
         throw Error(`npm error: ${JSON.stringify(result)}`);
@@ -52,7 +52,7 @@ async function updateDownloads() {
     resources: updatedResources
   };
 
-  fs.writeFile(filePath, yaml.safeDump(finishedYaml), err => {
+  fs.writeFile(filePath, yaml.safeDump(finishedYaml), (err) => {
     if (err) {
       console.log(err);
     }
@@ -60,5 +60,5 @@ async function updateDownloads() {
 }
 
 updateDownloads()
-  .then(() => console.log("done!"))
-  .catch(err => console.error(err));
+  .then(() => console.log('done!'))
+  .catch((err) => console.error(err));

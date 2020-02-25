@@ -133,10 +133,10 @@
     escape-string-regexp "^1.0.5"
     lodash.deburr "^4.1.0"
 
-"@ssgjs/sapper@^0.27.9-fork.17":
-  version "0.27.9-fork.17"
-  resolved "https://registry.yarnpkg.com/@ssgjs/sapper/-/sapper-0.27.9-fork.17.tgz#ab96fd1723ce75c1d964f8d51a4ff4a7a6684ab7"
-  integrity sha512-mc6SxADM65wRN6sn/td1QDcB3uYLc8FMTNhlx+e61hix5BdBPC7bWpYYDo+K5pJXYoWO6i6X0OW1OpVOSa/RtQ==
+"@ssgjs/sapper@^0.27.9-fork.18":
+  version "0.27.9-fork.18"
+  resolved "https://registry.yarnpkg.com/@ssgjs/sapper/-/sapper-0.27.9-fork.18.tgz#471eb9213906b9b4c9557fed2f38273e4904eb45"
+  integrity sha512-92a9n47VBT1h5hZNcy4/DuNbKREZcL/Kqh7t0lbkEtb9Z4AEMo0QlgPeDSR78lhqtkxwLqNR4JYAbkj/LABhcg==
   dependencies:
     "@babel/core" "^7.6.2"
     compression "^1.7.4"
@@ -1385,13 +1385,13 @@ sprintf-js@~1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/sprintf-js/-/sprintf-js-1.0.3.tgz#04e6926f662895354f3dd015203633b857297e2c"
 
-ssg@^0.0.54:
-  version "0.0.54"
-  resolved "https://registry.yarnpkg.com/ssg/-/ssg-0.0.54.tgz#b18b12d0c6cc28577f9b0949fdc85ec8625258ac"
-  integrity sha512-TXR/9G44xZPt1Qcy5LM+gObLnFHnTPDTbsguGZ14NxShJ9/zWMIImiqTMCQH3cDTzMEWWdFOz/PaCFpEeZ05bw==
+ssg@^0.0.62:
+  version "0.0.62"
+  resolved "https://registry.yarnpkg.com/ssg/-/ssg-0.0.62.tgz#bf6124f5bb4916ee5d1cb2dc28da81338c98048b"
+  integrity sha512-91F7l2mJfZ7T/ztC3OKjecBdOqV+95BnLV9h4BWNm6QtWFZLViva7Ce+koyf+215QZ6vogtyANr5kcgKANxbDQ==
   dependencies:
     "@sindresorhus/slugify" "^0.9.1"
-    "@ssgjs/sapper" "^0.27.9-fork.17"
+    "@ssgjs/sapper" "^0.27.9-fork.18"
     chalk "^2.4.2"
     chokidar "^3.0.2"
     debug "^4.1.1"

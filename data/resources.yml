@@ -1,5 +1,3 @@
-# learning resources
-# eg youtube, talks, blogposts, tutorials, courses
 resources:
   - name: svelte.dev
     url: 'https://svelte.dev/'
@@ -10,16 +8,16 @@ resources:
     description: Cybernetically enhanced web apps
     tags:
       - official
-    stars: 24582
-    last_updated: '2019-10-11T06:57:39Z'
+    stars: 30829
+    last_updated: '2020-02-25T03:42:51Z'
   - name: '`sapper`'
     url: 'https://github.com/sveltejs/sapper'
     description: 'Military-grade progressive web apps, powered by Svelte'
     tags:
       - official
       - web app frameworks
-    stars: 3452
-    last_updated: '2019-10-11T06:57:29Z'
+    stars: 4500
+    last_updated: '2020-02-24T20:33:47Z'
   - name: integrations
     url: 'https://github.com/sveltejs/integrations'
     description: Ways to incorporate Svelte into your stack
@@ -29,22 +27,22 @@ resources:
       - preprocessors
       - bundler plugins
       - other lists and resources
-    stars: 257
-    last_updated: '2019-10-06T07:36:56Z'
+    stars: 301
+    last_updated: '2020-02-23T05:18:17Z'
   - name: branding
     url: 'https://github.com/sveltejs/branding'
     description: Logos etc for Svelte and related projects
     tags:
       - official
-    stars: 9
-    last_updated: '2019-09-23T18:20:34Z'
+    stars: 11
+    last_updated: '2020-01-31T20:44:47Z'
   - name: rfcs
     url: 'https://github.com/sveltejs/rfcs'
     description: RFCs for changes to Svelte
     tags:
       - official
-    stars: 61
-    last_updated: '2019-10-10T06:47:56Z'
+    stars: 83
+    last_updated: '2020-02-18T05:23:44Z'
   - name: community
     url: 'https://github.com/sveltejs/community'
     description: A repo for data relating to the Svelte community and events
@@ -52,8 +50,8 @@ resources:
       - official
       - other lists and resources
       - communities
-    stars: 13
-    last_updated: '2019-10-11T05:57:01Z'
+    stars: 87
+    last_updated: '2020-02-25T03:52:57Z'
   - name: ru.svelte.dev
     url: 'https://ru.svelte.dev/'
     description: Official site translated into Russian - AlexxNB/svelte3-translation-ru
@@ -74,7 +72,7 @@ resources:
     url: 'https://www.reddit.com/r/sveltejs/'
     tags:
       - communities
-  - name: 'Svelte Jobs'
+  - name: Svelte Jobs
     url: 'https://sveltejobs.dev'
     description: Svelte Jobs dashboard from all over the world
     tags:
@@ -94,7 +92,6 @@ resources:
     tags:
       - communities
       - Telegram chat rooms
-
   - name: Svelte's official blog
     url: 'https://svelte.dev/blog'
     tags:
@@ -113,7 +110,7 @@ resources:
     tags:
       - media
       - talks
-  - name: "Rich Harris - The Return of 'Write Less, Do More' - JSCAMP 2019"
+  - name: 'Rich Harris - The Return of ''Write Less, Do More'' - JSCAMP 2019'
     url: 'https://www.youtube.com/watch?v=BzX4aTRPzno'
     tags:
       - media
@@ -162,8 +159,8 @@ resources:
     description: A curated list of awesome things related to Svelte (includes v2 resources)
     tags:
       - other lists and resources
-    stars: 270
-    last_updated: '2019-10-10T22:01:58Z'
+    stars: 470
+    last_updated: '2020-02-24T10:24:29Z'
   - name: svelte-sapper-community
     url: 'https://github.com/mindrones/svelte-sapper-community'
     description: Svelte/Sapper community map
@@ -183,20 +180,26 @@ resources:
       - other lists and resources
   - name: Svelte news&links newsletter
     url: 'https://shershen08.github.io/sveltejsnews/'
-    description: Regular newsletter with videos, articles, plugins and tools for Svelte developers
+    description: >-
+      Regular newsletter with videos, articles, plugins and tools for Svelte
+      developers
     tags:
       - community
       - email
       - other lists and resources
-  - name: 'DEV community'
+  - name: DEV community
     url: 'https://dev.to/t/svelte'
-    description: 'A great collection of technical articles and tutorials from vibrant DEV.to community '
+    description: >-
+      A great collection of technical articles and tutorials from vibrant DEV.to
+      community 
     tags:
       - other lists and resources
       - communities
   - name: '`Real World Svelte and Google Cloud Masterclass`'
     url: 'https://www.youtube.com/playlist?list=PLCrwuqjmVebK08Cwz_XB55cNKFfFYOMGo'
-    description: A video series taking you through the Real World Svelte app tied in with a Google Cloud Functions backend
+    description: >-
+      A video series taking you through the Real World Svelte app tied in with a
+      Google Cloud Functions backend
     tags:
       - media
       - podcasts and other videos
