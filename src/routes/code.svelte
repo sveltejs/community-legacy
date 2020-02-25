@@ -6,6 +6,7 @@
 </script>
 
 <script>
+  import { onMount } from "svelte";
   import { Hero, Blurb } from "@sveltejs/site-kit";
   import Event from "components/Event.svelte";
   import Box from "components/Box.svelte";
@@ -29,8 +30,33 @@
     });
   };
 
+  onMount(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+
+    const urlTags = urlParams.has("tag") ? urlParams.getAll("tag") : null;
+    if (urlTags) {
+      urlTags.forEach(tag => {
+        selectedTags.add(tag);
+      });
+      selectedTags = selectedTags;
+    }
+  });
+
   let selectedTags = new Set();
   $: selectedResources = filterResourcesByTags(resources, selectedTags);
+
+  const updateUrl = tags => {
+    let params = new URLSearchParams();
+    tags.forEach(tag => {
+      params.append("tag", tag);
+    });
+    window.history.replaceState(
+      {},
+      "",
+      decodeURIComponent(`${window.location.pathname}?${params}`)
+    );
+  };
+
   const toggleTag = tag => {
     if (selectedTags.has(tag)) {
       selectedTags.delete(tag);
@@ -38,6 +64,7 @@
       selectedTags.add(tag);
     }
     selectedTags = selectedTags; // TODO maybe use immutable patterns instead?
+    updateUrl(selectedTags);
     scrollToTop();
   };
   const clearSelectedTags = () => {
