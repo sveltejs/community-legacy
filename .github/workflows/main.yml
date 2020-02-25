@@ -2,7 +2,7 @@ name: Pull Data and Save it
 
 on:
   schedule:
-    - cron:  '0 8 * * *' # every day at 8am
+    - cron:  '*/5 * * * *' # every day at 8am
 
 jobs:
   build:
