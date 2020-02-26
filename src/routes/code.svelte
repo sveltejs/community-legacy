@@ -70,6 +70,7 @@
   const clearSelectedTags = () => {
     selectedTags.clear();
     selectedTags = selectedTags;
+    updateUrl(selectedTags);
     scrollToTop();
   };
 
