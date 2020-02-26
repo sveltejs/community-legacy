@@ -15,24 +15,13 @@
   import Tag from "components/Tag.svelte";
   import { transformResourceData } from "resources/transformResourceData.js";
   import { filterResourcesByTags } from "resources/helpers.js";
+  import { createQueryParamSet } from "location/queryParams.js";
 
   export let data;
   $: transformedData = transformResourceData(data);
   $: resources = transformedData.resources;
   $: tags = transformedData.tags;
   // $: console.log({ data, transformedData });
-
-  onMount(() => {
-    const urlParams = new URLSearchParams(window.location.search);
-
-    const urlTags = urlParams.has("tag") ? urlParams.getAll("tag") : null;
-    if (urlTags) {
-      urlTags.forEach(tag => {
-        selectedTags.add(tag);
-      });
-      selectedTags = selectedTags;
-    }
-  });
 
   const scrollToTop = () => {
     window.scrollTo({
@@ -42,37 +31,9 @@
     });
   };
 
-  let selectedTags = new Set();
-  $: selectedResources = filterResourcesByTags(resources, selectedTags);
-
-  const updateUrl = tags => {
-    let params = new URLSearchParams();
-    tags.forEach(tag => {
-      params.append("tag", tag);
-    });
-    window.history.replaceState(
-      {},
-      "",
-      decodeURIComponent(`${window.location.pathname}?${params}`)
-    );
-  };
-
-  const toggleTag = tag => {
-    if (selectedTags.has(tag)) {
-      selectedTags.delete(tag);
-    } else {
-      selectedTags.add(tag);
-    }
-    selectedTags = selectedTags; // TODO maybe use immutable patterns instead?
-    updateUrl(selectedTags);
-    scrollToTop();
-  };
-  const clearSelectedTags = () => {
-    selectedTags.clear();
-    selectedTags = selectedTags;
-    updateUrl(selectedTags);
-    scrollToTop();
-  };
+  const selectedTags = createQueryParamSet("tag");
+  $: selectedResources = filterResourcesByTags(resources, $selectedTags);
+  $: $selectedTags, typeof window !== "undefined" && scrollToTop();
 
   import Fuse from "fuse.js";
   let searchterm = "";
@@ -143,7 +104,10 @@
     <ul>
       {#each results as resource}
         <li class="resource">
-          <Resource {resource} {selectedTags} {toggleTag} />
+          <Resource
+            {resource}
+            selectedTags={$selectedTags}
+            toggleTag={selectedTags.toggle} />
         </li>
       {/each}
       <!-- <li>
@@ -173,11 +137,14 @@
     <!-- TODO container needs proper styling -->
     <div style="max-width: 430px; display: flex; flex-wrap: wrap;">
       {#each tags as tag}
-        <Tag name={tag} selected={selectedTags.has(tag)} toggle={toggleTag} />
+        <Tag
+          name={tag}
+          selected={$selectedTags.has(tag)}
+          toggle={selectedTags.toggle} />
       {/each}
-      {#if selectedTags.size}
+      {#if $selectedTags.size}
         <!-- TODO this should be styled distinctly, maybe just a different color, or removed if the UX changes -->
-        <Tag name="🞩 clear selected tags" toggle={clearSelectedTags} />
+        <Tag name="🞩 clear selected tags" toggle={selectedTags.clear} />
       {/if}
     </div>
   </div>
