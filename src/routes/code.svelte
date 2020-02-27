@@ -89,12 +89,12 @@
 </style>
 
 <svelte:head>
-  <title>Resources • Sapper Community</title>
+  <title>Code • Sapper Community</title>
 </svelte:head>
 
 <Hero
-  title="Community Resources"
-  tagline="Resources"
+  title="Community Code"
+  tagline="Code"
   outline="svelte-logo-outline.svg"
   logotype="community-logotype.svg" />
 
