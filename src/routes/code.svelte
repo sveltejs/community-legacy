@@ -57,6 +57,12 @@
 <style>
   h2 {
     margin-bottom: 1em;
+    display: flex;
+    max-width: 40rem;
+  }
+  .selected-count {
+    flex: 1;
+    text-align: right;
   }
   .container {
     display: flex;
@@ -100,7 +106,10 @@
 
 <div class="container">
   <div class="text">
-    <h2>Code</h2>
+    <h2>
+      Code
+      <div class="selected-count">{selectedResources.length}</div>
+    </h2>
     <ul>
       {#each results as resource}
         <li class="resource">
