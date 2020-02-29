@@ -1687,3 +1687,10 @@ resources:
       - database
     stars: 1
     last_updated: '2020-01-05T18:37:20Z'
+  - name: '`@equipmentshare/date-range-input`'
+    url: 'https://github.com/EquipmentShare/date-range-input'
+    description: A user interface for inputting date ranges
+    tags:
+      - components and libraries
+      - time and date
+    stars: 5
