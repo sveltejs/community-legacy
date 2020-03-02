@@ -1,6 +1,11 @@
-# svelte-community
+# Svelte community
 
-This repo currently contains data relating to Svelte meetups. In time this may become the home for a meetup site and a place to store other community related information.
+[svelte-community.netlify.com](https://svelte-community.netlify.com/)
+
+This repo contains data for Svelte
+meetups, packages, resources, recipes, and showcase websites.
+In time this may become the home for a meetup site
+and other community information.
 
 ## Add an event
 
@@ -59,6 +64,18 @@ An example entry might look this:
 ```
 
 All events need a time, location, url and at least one contactable organiser. If the venue is not yet confirmed then enter 'To be confirmed' in the relevant Location fields and enter in as much information as you currently know. Dates should be provided in local time as `YYYY-MM-DD-TTTT` (24-hour time).
+
+## Add a package
+
+To add libraries and other packages,
+make a PR to [data/code.yml](data/code.yml) and copy the format.
+Please try to use existing tags.
+
+## Add a resource
+
+For resources like tools and media content,
+make a PR to [data/resources.yml](data/resources.yml),
+using the existing tags if possible.
 
 ## Updating stats
 
