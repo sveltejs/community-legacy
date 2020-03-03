@@ -9,72 +9,53 @@ and other community information.
 
 ## Add an event
 
-To add an event simple make a PR adding your event to the `data/events.json` file.
+To add an event simple make a PR adding your event to
+[`data/events.yml`](data/events.yml).
 
-The JSON file is an array of events matching the following structure:
+The YAML file is an array of events matching the following structure:
 
 ```ts
-interface EventLocation {
-  venue?: string;
-  address: string;
-  city: string;
-  state_region: string;
-  country: string;
-}
-
-interface EventOrganiser {
-  name: string;
-  link: string;
-}
-
 interface SvelteEvent {
-  name: string;
-  url: string;
-  time_start: number;
-  time_end: number;
-  location: EventLocation;
-  organisers: EventOrganiser[];
-  details?: string;
+  eventName: string;
+  url?: string; // where people can learn more or contact organizers
+  country: string;
+  city: string;
+  type: "Meetup" | "One-off" | "Workshop" | "Conference" | "Misc";
+  twitter?: string; // e.g. @SvelteSociety
+  date?: string; // YYYY-MM-DD-TTTT (24-hour time)
+  organizer?: string; // your name, email, Twitter, etc
+  name?: string;
+  desc?: string; // short description
+  description?: string; // full description - allows markdown
 }
 ```
 
 An example entry might look this:
 
-```json
-{
-  "name": "Svelte Meetup - Kazakhstan",
-  "url": "https://www.meetup.com/svelte-kazakhstan",
-  "time_start": "2019-11-04-1930",
-  "time_end": "2019-11-04-2200",
-  "location": {
-    "venue": "Wonderous Conference Centre",
-    "address": "34 Some Street",
-    "city": "Almaty",
-    "state_region": "Almaty",
-    "country": "Kazakhstan"
-  },
-  "organisers": [
-    {
-      "name": "Human Person with name",
-      "link": "https://twitter.com/person"
-    }
-  ],
-  "details": "Come join us and talk about Svelte. Many exciting things will happen."
-}
+```yml
+- city: New York
+  country: USA
+  date: ""
+  desc: Svelte meetup in NYC
+  eventName: Svelte Society NYC
+  organizer: |-
+    swyx
+    https://www.meetup.com/Svelte-Society/members/3963389/
+  twitter: "@SvelteSociety"
+  type: Meetup
+  url: "https://www.downtomeet.com/Svelte-Society-NYC"
 ```
-
-All events need a time, location, url and at least one contactable organiser. If the venue is not yet confirmed then enter 'To be confirmed' in the relevant Location fields and enter in as much information as you currently know. Dates should be provided in local time as `YYYY-MM-DD-TTTT` (24-hour time).
 
 ## Add a package
 
 To add libraries and other packages,
-make a PR to [data/code.yml](data/code.yml) and copy the format.
+make a PR to [`data/code.yml`](data/code.yml) and copy the format.
 Please try to use existing tags.
 
 ## Add a resource
 
-For resources like tools and media content,
-make a PR to [data/resources.yml](data/resources.yml),
+To add resources like tools and media content,
+make a PR to [`data/resources.yml`](data/resources.yml),
 using the existing tags if possible.
 
 ## Updating stats
