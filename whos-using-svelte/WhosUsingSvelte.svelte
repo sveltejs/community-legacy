@@ -74,6 +74,7 @@
 	<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.mentorcv.com"><img src="organisations/mentorcv.png" alt="Mentor CV logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.metrovias.com.ar/"><img src="organisations/metrovias.svg" alt="Metrovias logo" loading="lazy"></a>
@@ -100,13 +101,13 @@
 	<a target="_blank" rel="noopener" href="https://www.stone.co"><img src="organisations/stone.svg" alt="Stone Payments logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.strixengine.com"><img src="organisations/strixcloud.svg" alt="Strix Cloud logo" loading="lazy"><span>Strix Cloud</span></a>
 	<a target="_blank" rel="noopener" href="https://sucuri.net" style="background-color: rgb(93, 93, 93);"><img src="organisations/sucuri.png" alt="Sucuri logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://swissdevjobs.ch/jobs/JavaScript/All"><img src="organisations/swissdev-javascript-jobs.png" alt="SwissDev JavaScript Jobs" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://tsh.io"><img src="organisations/tsh.svg" alt="The Software House logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://thunderdome.dev"><img src="organisations/thunderdome.svg" alt="Thunderdome logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://m.tokopedia.com"><img src="organisations/tokopedia.svg" alt="Tokopedia logo" loading="lazy"></a>
+  <a target="_blank" rel="noopener" href="https://vipfy.store"><img src="organisations/VIPFY.svg" alt="VIPFY logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://webdesq.net"><img src="organisations/webdesq.svg" alt="Webdesq logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://zeo.org/tr/"><img src="organisations/zeoagency.svg" alt="Zeo Agency logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://zevvle.com/"><img src="organisations/zevvle.svg" alt="Zevvle logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://swissdevjobs.ch/jobs/JavaScript/All"><img src="organisations/swissdev-javascript-jobs.png" alt="SwissDev JavaScript Jobs" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
