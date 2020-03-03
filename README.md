@@ -23,7 +23,7 @@ interface SvelteEvent {
   twitter?: string; // e.g. @SvelteSociety
   date?: string; // YYYY-MM-DD-TTTT (24-hour time)
   organizer?: string; // your name, email, Twitter, etc
-  name?: string;
+  thumbnail?: string;
   desc?: string; // short description
   description?: string; // full description - allows markdown
 }
