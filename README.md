@@ -9,8 +9,7 @@ and other community information.
 
 ## Add an event
 
-To add an event simple make a PR adding your event to
-[`data/events.yml`](data/events.yml).
+To add an event make a PR to [`data/events.yml`](data/events.yml).
 
 The YAML file is an array of events matching the following structure:
 
