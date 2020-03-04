@@ -1165,7 +1165,7 @@ resources:
     description: A template for building Electron apps with Svelte (**VERSION 2**)
     tags:
       - templates
-      - electron templates
+      - electron
     stars: 53
     last_updated: '2020-02-23T02:13:02Z'
   - name: Blade67/Sveltron
@@ -1173,7 +1173,7 @@ resources:
     description: Electron Svelte boilerplate
     tags:
       - templates
-      - electron templates
+      - electron
     stars: 33
     last_updated: '2020-02-23T00:24:32Z'
   - name: chuanqisun/svelte-electron-template
@@ -1181,7 +1181,7 @@ resources:
     description: The bare minimum boilerplate to use Svelte in electron
     tags:
       - templates
-      - electron templates
+      - electron
     stars: 5
     last_updated: '2020-02-21T21:04:39Z'
   - name: syonip/svelte-cordova
@@ -1189,7 +1189,7 @@ resources:
     description: Starter template for Cordova featuring hot reload
     tags:
       - templates
-      - mobile templates
+      - mobile
     stars: 7
     last_updated: '2020-02-16T15:42:44Z'
   - name: lpshanley/svelte-phonegap
@@ -1197,7 +1197,7 @@ resources:
     description: Template for building phonegap hybrid applications with Svelte
     tags:
       - templates
-      - mobile templates
+      - mobile
     stars: 5
     last_updated: '2019-12-11T08:23:28Z'
   - name: '`@testing-library/svelte`'
@@ -1639,7 +1639,8 @@ resources:
       - components and libraries
       - ui component sets
       - web component sets
-      - mobile templates
+      - templates
+      - mobile
     stars: 39
     last_updated: '2020-02-22T22:01:56Z'
     downloads: 0
