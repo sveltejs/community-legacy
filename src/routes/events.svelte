@@ -117,6 +117,12 @@
               <!-- <span class="date">, November 4th</span> -->
           </li>
           <li>
+            🇮🇪Dublin
+            <a href={"https://www.downtomeet.com/Svelte-Dublin"} target="_blank" class="event-name">
+              Svelte Dublin
+            </a>
+          </li>
+          <li>
               🇧🇪Ghent/Antwerp
               <a href={"https://svelte.camp/"} target="_blank" class="event-name">
                 SvelteCampe Belgium
@@ -126,7 +132,7 @@
               </ul>
           </li>
           <li>
-              🇧🇸Stockholm🇪
+            🇸🇪 Stockholm🇪
               <a href={"https://www.downtomeet.com/Svelte-Society-Stockholm"} target="_blank" class="event-name">
                 Svelte Society Stockholm
               </a>
@@ -193,6 +199,27 @@
               </a>
               <ul>
                 <li><span class="date">Organizer: <a href="https://profullstack.com">Anthony Ettinger</a></span></li>
+              </ul>
+          </li>
+      </ul>
+    </Box>
+
+    <Box color="#ededed">
+      <h2>Asia</h2>
+      <ul>
+          <li>
+              🇮🇳Bangalore
+              <a href={"https://www.meetup.com/Svelte-JS-BLR-Meetup-Group/"} target="_blank" class="event-name">
+                SvelteJS Bangalore
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://twitter.com/geekyants">Geekyants</a></span></li>
+              </ul>
+          </li>
+          <li>
+              🇹🇭Bangkok
+              <ul>
+                <li><span class="date">Interested: <a href="https://twitter.com/akshay5995">Akshay Ram Vignesh</a></span></li>
               </ul>
           </li>
       </ul>
