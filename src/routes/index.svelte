@@ -47,9 +47,9 @@
     <span class="learn-more">learn more</span>
   </a>
 
-  <a href="recipes" slot="three">
-    <h2>Recipes</h2>
-    <p>Svelte-y recipes for common usecases</p>
+  <a href="code" slot="three">
+    <h2>Code</h2>
+    <p>Code you can use: Boilerplates, Libraries and Components</p>
 
     <span class="learn-more">learn more</span>
   </a>
@@ -63,9 +63,9 @@
 
     <span class="learn-more">learn more</span>
   </a>
-  <a href="code" slot="how">
-    <h2>Code</h2>
-    <p>Code you can use: Boilerplates, Libraries and Components</p>
+  <a href="recipes" slot="how">
+    <h2>Recipes</h2>
+    <p>Svelte-y recipes for common usecases</p>
 
     <span class="learn-more">learn more</span>
   </a>

@@ -1,17 +1,8 @@
-<script context="module">
-  export async function preload() {
-    const res = await this.fetch(`data/events___ssg___index.json`);
-    const events = await res.json();
-    return { events };
-  }
-</script>
-
 <script>
   import { Hero, Blurb } from "@sveltejs/site-kit";
   import Event from "components/Event.svelte";
   import Box from "components/Box.svelte";
   export let events;
-  // $: console.log({ events });
 </script>
 
 <style>
@@ -43,11 +34,16 @@
   }
 
   ul {
-    list-style: none;
+    /* list-style: none; */
+    margin: 0;
   }
 
-  li {
-    margin: 0.3em 0;
+  li li {
+    margin: 0 2em;
+  }
+
+  h2 {
+    margin-bottom: 0.5em;
   }
 </style>
 
@@ -94,37 +90,111 @@
     <p>
       In order to add your own event to the list
       <a
-        href="https://github.com/sveltejs/community/blob/master/data/events.yml"
+        href="https://github.com/sveltejs/community/issues/"
         target="_blank">
-        make a PR
-      </a>
-      or use
-      <a href="https://svelte-community.netlify.com/admin">our CMS</a>
-      to get the data entry right.
+        open an issue
+      </a> and let us know the details!
     </p>
   </div>
   <div class="boxes">
     <Box color="#ededed">
-      <h2>Meetups</h2>
-      <ul>
-        {#each events as event, i}
-          <li>
-            <details>
-              <summary>{event.city}, {event.country}</summary>
-              <a href={event.url} target="_blank" class="event-name">
-                {event.eventName}
-              </a>
+      <h2>Your Meetup Here!</h2>
 
+      <a
+        href="https://github.com/sveltejs/community/issues/"
+        target="_blank">
+        Open an issue
+      </a> and let us know the details!
+    </Box>
+    <Box color="#ededed">
+      <h2>Europe</h2>
+      <ul>
+          <li>
+              🇬🇧London
+              <a href={"https://www.meetup.com/svelte/"} target="_blank" class="event-name">
+                London Svelte Meetup
+              </a>
               <!-- <span class="date">, November 4th</span> -->
-            </details>
           </li>
-        {/each}
-        <li>
-          ➕
-          <a href="https://svelte-community.netlify.com/admin">
-            Add/Request your event here!
-          </a>
-        </li>
+          <li>
+              🇧🇪Ghent/Antwerp
+              <a href={"https://svelte.camp/"} target="_blank" class="event-name">
+                SvelteCampe Belgium
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://twitter.com/wolfr_2">Johan Ronsse</a></span></li>
+              </ul>
+          </li>
+          <li>
+              🇧🇸Stockholm🇪
+              <a href={"https://www.downtomeet.com/Svelte-Society-Stockholm"} target="_blank" class="event-name">
+                Svelte Society Stockholm
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://twitter.com/kevmodrome">Kevin Åberg Kultalahti</a></span></li>
+              </ul>
+          </li>
+          <li>
+              🇳🇴Bergen
+              <a href={"https://www.downtomeet.com/Svelte-Bergen"} target="_blank" class="event-name">
+                Svelte Bergen
+              </a>
+          </li>
+          <li>
+              🇦🇹Vienna
+              <a href={"https://www.meetup.com/Svelte-Vienna/"} target="_blank" class="event-name">
+                Svelte Vienna
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://twitter.com/quantumjs">Nikos Katsikanis</a></span></li>
+              </ul>
+          </li>
+          <li>
+              🇳🇱Amsterdam
+              <a href={"https://www.meetup.com/nl-NL/Amsterdam-SvelteJS/"} target="_blank" class="event-name">
+                Amsterdam SvelteJS
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://twitter.com/legkoletat">Mikhail Kuznetcov</a></span></li>
+              </ul>
+          </li>
+          <li>
+              🇩🇪Hamburg
+              <a href={"https://www.meetup.com/de-DE/Svelte-js-Meetup-Hamburg/"} target="_blank" class="event-name">
+                Svelte js Meetup Hamburg
+              </a>
+          </li>
+          <li>
+              🇷🇺Moscow
+              <a href={"https://www.downtomeet.com/Svelte-Russia-Meetups"} target="_blank" class="event-name">
+                Svelte Russia Meetups
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://twitter.com/PaulMaly">Pavel Malyshev</a></span></li>
+              </ul>
+          </li>
+      </ul>
+    </Box>
+
+    <Box color="#ededed">
+      <h2>North America</h2>
+      <ul>
+          <li>
+              🗽New York
+              <a href={"https://www.downtomeet.com/Svelte-Society-NYC"} target="_blank" class="event-name">
+                Svelte Society NYC
+              </a>
+              <!-- <span class="date">, November 4th</span> -->
+          </li>
+          <li>
+              🌉Los Gatos
+              <a href={"https://downtomeet.com/bayareasvelte"} target="_blank" class="event-name">
+                Bay Area Svelte
+              </a>
+              <ul>
+                <li><span class="date">Organizer: <a href="https://profullstack.com">Anthony Ettinger</a></span></li>
+              </ul>
+          </li>
       </ul>
     </Box>
   </div>
