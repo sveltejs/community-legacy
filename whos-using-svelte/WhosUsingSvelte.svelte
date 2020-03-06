@@ -112,5 +112,6 @@
 	<a target="_blank" rel="noopener" href="https://zevvle.com/"><img src="organisations/zevvle.svg" alt="Zevvle logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.etherbit.dev/"><img src="organisations/etherbit-dev.svg" alt="Etherbit Dev logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.superchargify.com/"><img src="organisations/superchargify.svg" alt="Superchargify logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://vrstugan.se" style="background-color: #0f1f4c;"><img src="organisations/vrstugan.svg" alt="VRstugan logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
