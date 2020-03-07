@@ -65,18 +65,34 @@
     text-align: right;
   }
   .container {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 32px;
 
     align-items: start;
     max-width: 120rem;
     margin: 10rem auto;
     padding: 0 var(--side-nav);
   }
+
   .text {
-    width: 90rem;
+    grid-row: 2;
   }
+
+  @media (min-width: 800px) {
+  .container {
+    grid-template-columns: 2fr 1fr;
+  }
+  .text {
+    grid-row: 1;
+  }
+  .search {
+    position: sticky;
+    top: 40px;
+  }
+}
   .resource {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     list-style: none;
   }
   input {
@@ -87,10 +103,6 @@
     box-sizing: border-box;
     border: 1px solid #ccc;
     border-radius: 2px;
-  }
-  .search {
-    position: sticky;
-    top: 40px;
   }
 </style>
 
