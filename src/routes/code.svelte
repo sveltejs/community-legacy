@@ -13,6 +13,7 @@
   import Resource from "components/Resource.svelte";
   import TwoColumns from "components/TwoColumns.svelte";
   import Tag from "components/Tag.svelte";
+  import ClearTagsButton from "components/ClearTagsButton.svelte";
   import { transformResourceData } from "resources/transformResourceData.js";
   import { filterResourcesByTags } from "resources/helpers.js";
   import { createQueryParamSet } from "location/queryParams.js";
@@ -138,8 +139,7 @@
           toggle={selectedTags.toggle} />
       {/each}
       {#if $selectedTags.size}
-        <!-- TODO this should be styled distinctly, maybe just a different color, or removed if the UX changes -->
-        <Tag name="🞩 clear selected tags" toggle={selectedTags.clear} />
+        <ClearTagsButton clear={selectedTags.clear} />
       {/if}
     </div>
   </div>
