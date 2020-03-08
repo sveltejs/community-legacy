@@ -13,6 +13,7 @@
   import Box from "components/Box.svelte";
   import Resource from "components/Resource.svelte";
   import Tag from "components/Tag.svelte";
+  import TwoColumns from 'components/TwoColumns.svelte';
   import { transformResourceData } from "resources/transformResourceData.js";
   import { filterResourcesByTags } from "resources/helpers.js";
   import { createQueryParamSet } from "location/queryParams.js";
@@ -64,33 +65,6 @@
     flex: 1;
     text-align: right;
   }
-  .container {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-gap: 32px;
-
-    align-items: start;
-    max-width: 120rem;
-    margin: 10rem auto;
-    padding: 0 var(--side-nav);
-  }
-
-  .text {
-    grid-row: 2;
-  }
-
-  @media (min-width: 800px) {
-  .container {
-    grid-template-columns: 2fr 1fr;
-  }
-  .text {
-    grid-row: 1;
-  }
-  .search {
-    position: sticky;
-    top: 40px;
-  }
-}
   .resource {
     margin-bottom: 2em;
     list-style: none;
@@ -116,8 +90,8 @@
   outline="svelte-logo-outline.svg"
   logotype="community-logotype.svg" />
 
-<div class="container">
-  <div class="text">
+<TwoColumns stickySidebar>
+  <div class="text" slot="content">
     <h2>
       Resources
       <div class="selected-count">{selectedResources.length}</div>
@@ -139,7 +113,7 @@
         </li> -->
     </ul>
   </div>
-  <div class="boxes search">
+  <div class="boxes search" slot="sidebar">
     <Box color="#ededed">
       <div>
         <h3>Add A Resource!</h3>
@@ -169,4 +143,4 @@
       {/if}
     </div>
   </div>
-</div>
+</TwoColumns>
