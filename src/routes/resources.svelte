@@ -13,6 +13,7 @@
   import Box from "components/Box.svelte";
   import Resource from "components/Resource.svelte";
   import Tag from "components/Tag.svelte";
+  import TwoColumns from 'components/TwoColumns.svelte';
   import { transformResourceData } from "resources/transformResourceData.js";
   import { filterResourcesByTags } from "resources/helpers.js";
   import { createQueryParamSet } from "location/queryParams.js";
@@ -64,19 +65,8 @@
     flex: 1;
     text-align: right;
   }
-  .container {
-    display: flex;
-
-    align-items: start;
-    max-width: 120rem;
-    margin: 10rem auto;
-    padding: 0 var(--side-nav);
-  }
-  .text {
-    width: 90rem;
-  }
   .resource {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
     list-style: none;
   }
   input {
@@ -87,10 +77,6 @@
     box-sizing: border-box;
     border: 1px solid #ccc;
     border-radius: 2px;
-  }
-  .search {
-    position: sticky;
-    top: 40px;
   }
 </style>
 
@@ -104,8 +90,8 @@
   outline="svelte-logo-outline.svg"
   logotype="community-logotype.svg" />
 
-<div class="container">
-  <div class="text">
+<TwoColumns stickySidebar>
+  <div class="text" slot="content">
     <h2>
       Resources
       <div class="selected-count">{selectedResources.length}</div>
@@ -127,7 +113,7 @@
         </li> -->
     </ul>
   </div>
-  <div class="boxes search">
+  <div class="boxes search" slot="sidebar">
     <Box color="#ededed">
       <div>
         <h3>Add A Resource!</h3>
@@ -157,4 +143,4 @@
       {/if}
     </div>
   </div>
-</div>
+</TwoColumns>
