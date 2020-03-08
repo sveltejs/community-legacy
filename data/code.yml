@@ -1695,3 +1695,15 @@ resources:
       - components and libraries
       - time and date
     stars: 5
+  - name: '`@sveltejs/pancake`'
+    url: 'https://github.com/Rich-Harris/pancake'
+    description: Experimental charting library for Svelte
+    tags:
+      - components and libraries
+      - charts
+  - name: '`layercake`'
+    url: 'https://github.com/mhkeller/layercake'
+    description: a framework for mostly-reusable graphics with Svelte
+    tags:
+      - components and libraries
+      - charts
