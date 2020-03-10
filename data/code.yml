@@ -900,7 +900,6 @@ resources:
     last_updated: '2020-02-16T20:01:50Z'
   - name: pyoner/svelte-typescript
     url: 'https://github.com/pyoner/svelte-typescript'
-    description: 'Typescript monorepo for Svelte v3 (preprocess, template, types)'
     tags:
       - templates
     stars: 161
@@ -1415,6 +1414,15 @@ resources:
     stars: 425
     last_updated: '2020-02-23T13:27:54Z'
     downloads: 27768
+  - name: '`svelte-preprocessor-fetch`'
+    url: 'https://github.com/kevmodrome/svelte-preprocessor-fetch'
+    description: A preprocessor for Svelte that can be used to fetch data before components are compiled.
+    tags:
+      - integrations
+      - preprocessors
+    stars: 0
+    last_updated: '2020-03-10T15:27:54Z'
+    downloads: 0
   - name: '`mdsvex`'
     url: 'https://github.com/pngwn/MDsveX'
     description: A markdown preprocessor for Svelte
