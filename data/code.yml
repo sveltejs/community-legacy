@@ -900,6 +900,7 @@ resources:
     last_updated: '2020-02-16T20:01:50Z'
   - name: pyoner/svelte-typescript
     url: 'https://github.com/pyoner/svelte-typescript'
+    description: 'Typescript monorepo for Svelte v3 (preprocess, template, types)'
     tags:
       - templates
     stars: 161
