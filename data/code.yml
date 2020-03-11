@@ -129,6 +129,12 @@ resources:
     stars: 32
     last_updated: '2020-02-22T15:04:23Z'
     downloads: 394
+  - name: '`minna-ui`'
+    url: 'https://github.com/WeAreGenki/minna-ui'
+    description: A fast, friendly, and fun web UI kit for everyone
+    tags:
+      - components and libraries
+      - component sets
   - name: '`@zooplus/zoo-web-components`'
     url: 'https://github.com/zooplus/zoo-web-components'
     description: Web-components library built with Svelte
