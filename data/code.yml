@@ -102,9 +102,9 @@ resources:
     stars: 233
     last_updated: '2020-02-24T00:45:30Z'
     downloads: 4048
-  - name: '`svelte-ui`'
-    url: 'https://github.com/vikignt/svelte-ui'
-    description: Simple Svelte 3 UI components
+  - name: '`svelte-mui`'
+    url: 'https://github.com/vikignt/svelte-mui'
+    description: A set of Svelte UI components inspired by Google's Material Design
     tags:
       - components and libraries
       - component sets
