@@ -33,7 +33,7 @@ resources:
     description: Svelte implementation of the Carbon Design System
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     downloads: 2025
     stars: 82
     last_updated: '2020-02-20T23:24:27Z'
@@ -42,7 +42,7 @@ resources:
     description: Bulma components for Svelte
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 229
     last_updated: '2020-02-23T05:18:30Z'
     downloads: 724
@@ -51,7 +51,7 @@ resources:
     description: Material design components for Svelte using Tailwind CSS
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 322
     last_updated: '2020-02-23T09:41:00Z'
     downloads: 2780
@@ -62,7 +62,7 @@ resources:
       specification
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 52
     last_updated: '2020-02-24T14:03:59Z'
     downloads: 2222
@@ -71,7 +71,7 @@ resources:
     description: Svelte Material UI Components
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 649
     last_updated: '2020-02-24T10:38:16Z'
     downloads: 1661
@@ -80,7 +80,7 @@ resources:
     description: Material components library for Svelte using the stylesheet of Vuetify
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 24
     last_updated: '2020-01-31T18:43:32Z'
     downloads: 6
@@ -89,7 +89,7 @@ resources:
     description: Fomantic-UI components for Svelte 3
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 36
     last_updated: '2020-02-20T06:09:12Z'
     downloads: 14
@@ -98,7 +98,7 @@ resources:
     description: Bootstrap 4 components for Svelte
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 233
     last_updated: '2020-02-24T00:45:30Z'
     downloads: 4048
@@ -107,7 +107,7 @@ resources:
     description: Simple Svelte 3 UI components
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 102
     last_updated: '2020-02-22T19:52:23Z'
     downloads: 19
@@ -116,7 +116,7 @@ resources:
     description: 'Easy-to-use, Customizable Material Design components for Svelte'
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 5
     last_updated: '2020-01-27T20:08:37Z'
     downloads: 9
@@ -125,7 +125,7 @@ resources:
     description: Svelte UI components based on super lightweight chota CSS framework.
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
     stars: 32
     last_updated: '2020-02-22T15:04:23Z'
     downloads: 394
@@ -1646,7 +1646,7 @@ resources:
       Published as web app too.
     tags:
       - components and libraries
-      - ui component sets
+      - component sets
       - web component sets
       - templates
       - mobile
