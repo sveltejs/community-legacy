@@ -176,6 +176,12 @@ resources:
     stars: 199
     last_updated: '2020-02-24T18:17:51Z'
     downloads: 869
+  - name: '`svelte-data-grid`'
+    url: 'https://github.com/bsssshhhhhhh/svelte-data-grid'
+    description: 'A grid for displaying and editing any amount of data'
+    tags:
+      - components and libraries
+      - layout and structure
   - name: '`svelte-sortable-list`'
     url: 'https://github.com/brunomolteni/svelte-sortable-list'
     description: A list with animated drag-n-drop functionality
