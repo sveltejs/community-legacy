@@ -195,7 +195,7 @@ resources:
     tags:
       - other lists and resources
       - communities
-  - name: '`Real World Svelte and Google Cloud Masterclass`'
+  - name: 'Real World Svelte and Google Cloud Masterclass'
     url: 'https://www.youtube.com/playlist?list=PLCrwuqjmVebK08Cwz_XB55cNKFfFYOMGo'
     description: >-
       A video series taking you through the Real World Svelte app tied in with a
