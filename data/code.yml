@@ -3,8 +3,7 @@ resources:
     url: 'https://github.com/henriquehbr/svelte-typewriter'
     description: A simple and reusable typewriter effect for your Svelte applications
     tags:
-      - svelte
-      - typewriter-effect
+      - components and libraries
     stars: 28
     downloads: 422
     last_updated: '2020-02-12T04:57:03Z'
