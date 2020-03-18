@@ -154,6 +154,11 @@ resources:
     tags:
       - media
       - podcasts and other videos
+  - name: Software Engineering Radio - Rich Harris on the Svelte Javascript Framework
+    url: "https://www.se-radio.net/2020/03/episode-402-rich-harris-on-the-svelte-javascript-framework/"
+    tags:
+      - media
+      - podcasts and other videos
   - name: awesome-svelte
     url: 'https://github.com/CalvinWalzel/awesome-svelte'
     description: A curated list of awesome things related to Svelte (includes v2 resources)
