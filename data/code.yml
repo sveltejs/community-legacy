@@ -1728,3 +1728,10 @@ resources:
     tags:
       - components and libraries
       - charts
+  - name: '`@egjs/svelte-infinitegrid`'
+    url: 'https://github.com/naver/egjs-infinitegrid/blob/master/packages/svelte-infinitegrid/README.md'
+    description: A module used to arrange card elements including content infinitely according to various layout types
+    tags:
+      - infinitegrid
+      - masonry
+      - layout
