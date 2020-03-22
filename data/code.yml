@@ -1735,7 +1735,6 @@ resources:
       - layout and structure
   - name: '`@easylogic/svelte-summernote`'
     url: 'https://github.com/easylogic/svelte-summernote'
-    description: summernote extension for Svelte
+    description: summernote extension for Svelte, a wysiwyg editor
     tags:
       - components and libraries
-      - wysiwyg editor 
