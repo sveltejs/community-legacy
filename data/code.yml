@@ -1738,3 +1738,4 @@ resources:
     description: summernote extension for Svelte, a wysiwyg editor
     tags:
       - components and libraries
+      - inputs and widgets
