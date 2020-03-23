@@ -178,11 +178,6 @@ resources:
     description: 'A collection of blog posts, videos, and other Svelte resources'
     tags:
       - other lists and resources
-  - name: Svelte Status
-    url: 'http://www.sveltestatus.com/'
-    description: Weekly curated blogs and tools for Svelte developers
-    tags:
-      - other lists and resources
   - name: Svelte news&links newsletter
     url: 'https://shershen08.github.io/sveltejsnews/'
     description: >-
