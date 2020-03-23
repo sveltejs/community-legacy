@@ -1739,11 +1739,12 @@ resources:
     tags:
       - components and libraries
       - inputs and widgets
-  - name: '`svelte-storez`'
+  - name: '`storez`'
     url: 'https://github.com/plrenaudin/svelte-storez'
-    description: Add features to your Svelte writable store
+    description: A writable store with extra features
     tags:
       - components and libraries
+      - stores and state
     downloads: 46
     stars: 1
     last_updated: '2020-03-22T13:11:14Z'
