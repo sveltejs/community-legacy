@@ -517,6 +517,14 @@ resources:
     stars: 43
     last_updated: '2020-02-20T17:24:41Z'
     downloads: 906
+  - name: '`svelte-favicon-badge`'
+    url: 'https://github.com/kevmodrome/svelte-favicon-badge'
+    description: A custom component that adds a favicon and a badge that you can use to show for example number of unread messages.
+    tags:
+      - components and libraries
+    stars: 0
+    last_updated: '2020-03-25T17:24:41Z'
+    downloads: 0
   - name: '`echarts-for-svelte`'
     url: 'https://github.com/liyuanqiu/echarts-for-svelte'
     description: Baidu Echarts(v3.0 & v4.0) components for Svelte wrapper
