@@ -286,6 +286,12 @@ resources:
     stars: 30
     last_updated: '2020-02-19T04:07:23Z'
     downloads: 368
+  - name: '`svelte-table`'
+    url: 'https://github.com/dasDaniel/svelte-table'
+    description: A table with sorting and filtering
+    tags:
+      - components and libraries
+      - layout and structure
   - name: '`@sveltejs/svelte-repl`'
     url: 'https://github.com/sveltejs/svelte-repl'
     description: The `<Repl>` component used on the Svelte website
