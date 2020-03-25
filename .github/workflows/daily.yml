@@ -2,7 +2,7 @@
 on:
   schedule:
     - cron:  '0 8 * * *' # every day at 8am
-name: Pull Data and Save it
+name: (Daily Cronjob) Update GitHub Stats For all Code repos
 jobs:
   build:
     runs-on: ubuntu-latest
