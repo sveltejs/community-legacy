@@ -17,4 +17,4 @@ jobs:
         GH_CLIENT_SECRET: ${{ secrets.GH_CLIENT_SECRET }}
     - uses: mikeal/publish-to-github-action@master
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
+        GITHUB_TOKEN: ${{ secrets.SWYX_TOKEN_FOR_COMMITING }} # we used to use GITHUB_TOKEN, but it had permissions issues
