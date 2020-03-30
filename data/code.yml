@@ -712,6 +712,12 @@ resources:
     stars: 17
     last_updated: '2020-03-27T11:30:05Z'
     downloads: 637
+  - name: '`query-store`'
+    url: 'https://github.com/buhrmi/query-store'
+    description: 'Writable store that syncs with the browser's search params'
+    tags:
+      - components and libraries
+      - stores and state
   - name: '`@sveltejs/gestures`'
     url: 'https://github.com/sveltejs/gestures'
     description: Svelte actions for cross-platform gesture detection (work in progress)
