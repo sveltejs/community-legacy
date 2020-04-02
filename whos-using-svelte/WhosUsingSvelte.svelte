@@ -111,6 +111,7 @@
 	<a target="_blank" rel="noopener" href="https://nytimes.com"><img src="organisations/nyt.svg" alt="The New York Times logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://tsh.io"><img src="organisations/tsh.svg" alt="The Software House logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://thunderdome.dev"><img src="organisations/thunderdome.svg" alt="Thunderdome logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://tt.edu.au"><img src="organisations/tradie-training.png" alt="Tradie Training logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://m.tokopedia.com"><img src="organisations/tokopedia.svg" alt="Tokopedia logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://vipfy.store"><img src="organisations/VIPFY.svg" alt="VIPFY logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://vrstugan.se" style="background-color: #0f1f4c;"><img src="organisations/vrstugan.svg" alt="VRstugan logo" loading="lazy"></a>
