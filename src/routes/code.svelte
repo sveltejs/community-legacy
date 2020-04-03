@@ -42,11 +42,11 @@
   let searchResults = null;
   $: {
     if (searchterm) {
-      var options = {
+      const options = {
         keys: ["name", "url", "tags", "description"]
       };
       scrollToTop();
-      var fuse = new Fuse(selectedResources, options);
+      const fuse = new Fuse(selectedResources, options);
       searchResults = fuse.search(searchterm);
     } else {
       searchResults = null;
