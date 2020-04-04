@@ -119,8 +119,28 @@ sites:
     url: 'https://tsh.io/typerunner'
     imageUrl: 'https://tsh.io/wp-content/uploads/2019/12/opengraph-typerunner.png'
     description: >-
-      A simple typing game, which has 2-4 human players compete against each 
+      A simple typing game, which has 2-4 human players compete against each
       other. The one to first type out the entire block of text wins.
     tags:
       - Demo App
     last_updated: '2020-01-07T20:45:01Z'
+  - name: Agrimatco
+    source: https://github.com/Jaspero/agrimatco
+    url: 'https://agrimatco.hr/'
+    imageUrl: 'https://agrimatco.hr/home-proizvodi/sjeme-povrca.jpg'
+    description: >-
+      A website built on svelte and sapper.
+    tags:
+      - Production App
+    stars: 0
+    last_updated: '2020-03-30T01:20:00Z'
+  - name: Genos Glyco
+    source: https://github.com/Jaspero/genos-glyco
+    url: 'https://genos-glyco.com'
+    imageUrl: 'https://genos-glyco.com/assets/images/section-publications.jpg'
+    tags:
+      - Production App
+    stars: 2
+    last_updated: '2020-04-01T15:23:00Z'
+    description: >-
+      A website built on svelte and sapper.
