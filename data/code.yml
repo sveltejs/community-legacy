@@ -1,5 +1,5 @@
 resources:
-  - name: Sapper - Webpack, TailwindCSS, PostCSS, PurgeCSS
+  - name: Sapper (Webpack) + TailwindCSS Template
     url: 'https://github.com/deanpress/sapper-tailwind-webpack-starter'
     description: Starter Webpack template for Sapper apps using tailwindcss, postcss, purgecss, and svelte-preprocess.
     tags:
