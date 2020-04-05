@@ -1799,12 +1799,12 @@ resources:
     downloads: 494
     stars: 2
     last_updated: '2020-04-02T14:02:49Z'
-  - name: '`Sapper - PostCSS, Tailwind CSS, PurgeCSS, cssnano`'
+  - name: Sapper - PostCSS, Tailwind CSS, PurgeCSS, cssnano
     url: 'https://github.com/nhristov/sapper-template-rollup'
     description: Starter Rollup template for Sapper apps using postcss, purgecss, cssnano, tailwindcss and svelte-preprocess
     tags:
       - templates
-  - name: '`Sapper - Firebase functions`'
+  - name: Sapper - Firebase functions
     url: 'https://github.com/nhristov/sapper-template-firebase'
     description: Starter Rollup template for Sapper apps with Firebase functions
     tags:
