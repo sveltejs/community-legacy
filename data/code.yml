@@ -1816,3 +1816,12 @@ resources:
       - templates
     stars: 2
     last_updated: '2020-04-06T07:47:18Z'
+  - name: '`svelte-atoms`'
+    url: 'https://gitlab.com/az67128/svelte-atoms'
+    description: Svelte UI kit based on Atol design
+    tags:
+      - components and libraries
+      - component sets
+    stars: 5
+    last_updated: '2020-04-04T20:31:39Z'
+    downloads: 1696
