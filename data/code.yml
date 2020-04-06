@@ -1799,7 +1799,7 @@ resources:
     downloads: 494
     stars: 2
     last_updated: '2020-04-02T14:02:49Z'
-- name: '`svelte-atoms`'
+  - name: '`svelte-atoms`'
     url: 'https://gitlab.com/az67128/svelte-atoms'
     description: Svelte UI kit based on Atol design
     tags:
