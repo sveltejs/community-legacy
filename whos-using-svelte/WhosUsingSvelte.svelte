@@ -45,7 +45,6 @@
 </style>
 
 <div class="logos">
-	<a target="_blank" rel="noopener" href="https://www.steembeem.com"><img src="organisations/steembeem.png" alt="SteemBeem logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://1password.com"><img src="organisations/1password.png" alt="1Password logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ablab.de"><img src="organisations/ablab.svg" alt="ABLab logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://absoluteweb.com"><img src="organisations/absoluteweb.svg" alt="Absolute Web logo" loading="lazy"></a>
@@ -56,10 +55,10 @@
 	<a target="_blank" rel="noopener" href="https://buydotstar.com"><img src="organisations/buydotstar.svg" alt="buy.* logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cashfree.com/"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: rgb(49,46,43);"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://cracss.com"><img src="organisations/cracss.svg" alt="craCSS.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://app.cliniciannexus.com/"><img src="organisations/cliniciannexus.png" alt="Clinician Nexus logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://comigosaude.com.br"><img src="organisations/comigo.svg" alt="Comigo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://convincely.com/"><img src="organisations/convincely.svg" alt="Convincely logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://cracss.com"><img src="organisations/cracss.svg" alt="craCSS.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://db.nomics.world" style="background-color: rgb(15,39,47);"><picture><source type="image/webp" srcset="organisations/dbnomics.webp"><img src="organisations/dbnomics.jpg" alt="DBNomics logo" loading="lazy"></picture></a>
 	<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
@@ -105,6 +104,7 @@
 	<a target="_blank" rel="noopener" href="https://sp.nl"><img src="organisations/socialist-party.svg" alt="Socialist Party logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.softmus.com.br/"><img src="organisations/softmus.png" alt="Softmus Tecnologia logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://sqltribe.com"><img src="organisations/sqltribe.svg" alt="SQL Tribe logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.steembeem.com"><img src="organisations/steembeem.png" alt="SteemBeem logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.stone.co"><img src="organisations/stone.svg" alt="Stone Payments logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.strixengine.com"><img src="organisations/strixcloud.svg" alt="Strix Cloud logo" loading="lazy"><span>Strix Cloud</span></a>
 	<a target="_blank" rel="noopener" href="https://sucuri.net" style="background-color: rgb(93, 93, 93);"><img src="organisations/sucuri.png" alt="Sucuri logo" loading="lazy"></a>
@@ -113,8 +113,8 @@
 	<a target="_blank" rel="noopener" href="https://nytimes.com"><img src="organisations/nyt.svg" alt="The New York Times logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://tsh.io"><img src="organisations/tsh.svg" alt="The Software House logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://thunderdome.dev"><img src="organisations/thunderdome.svg" alt="Thunderdome logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://tt.edu.au"><img src="organisations/tradie-training.png" alt="Tradie Training logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://m.tokopedia.com"><img src="organisations/tokopedia.svg" alt="Tokopedia logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://tt.edu.au"><img src="organisations/tradie-training.png" alt="Tradie Training logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://vipfy.store"><img src="organisations/VIPFY.svg" alt="VIPFY logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://vrstugan.se" style="background-color: #0f1f4c;"><img src="organisations/vrstugan.svg" alt="VRstugan logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://webdesq.net"><img src="organisations/webdesq.svg" alt="Webdesq logo" loading="lazy"></a>
