@@ -1834,3 +1834,13 @@ resources:
     stars: 5
     last_updated: '2020-04-04T20:31:39Z'
     downloads: 353
+  - name: Vime
+    url: 'https://github.com/vime-js/vime'
+    description: Focused on making embedding and using media elements for the web simple.
+    tags:
+      - video
+      - audio
+      - components and libraries
+      - inputs and widgets
+    stars: 3
+    last_updated: '2020-04-10T03:21:00Z'
