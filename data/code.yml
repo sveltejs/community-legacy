@@ -1842,3 +1842,9 @@ resources:
       - inputs and widgets
     stars: 8
     last_updated: '2020-04-10T07:49:54Z'
+  - name: '`svelte-heatmap`'
+    url: 'https://github.com/scottbedard/svelte-heatmap'
+    description: Customizable version of GitHub's contribution graph
+    tags:
+      - components and libraries
+      - time and date
