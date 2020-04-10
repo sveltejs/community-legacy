@@ -884,7 +884,6 @@ resources:
     description: Use Svelte components with Vue and React
     tags:
       - components and libraries
-      - other components and libraries
     stars: 136
     last_updated: '2020-04-01T13:37:21Z'
     downloads: 138
@@ -895,7 +894,6 @@ resources:
       there's a way?
     tags:
       - components and libraries
-      - other components and libraries
     stars: 76
     last_updated: '2020-04-08T18:30:33Z'
     downloads: 521
