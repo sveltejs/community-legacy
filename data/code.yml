@@ -1851,3 +1851,9 @@ resources:
     downloads: 217
     stars: 18
     last_updated: '2020-04-10T15:37:48Z'
+  - name: '`select-madu`'
+    url: 'https://github.com/pavish/select-madu'
+    description: A replacement for the select menu with searching, multiple selections, async data loading etc.,
+    tags:
+      - components and libraries
+      - inputs and widgets
