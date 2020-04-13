@@ -1851,3 +1851,12 @@ resources:
     downloads: 233
     stars: 19
     last_updated: '2020-04-11T14:09:12Z'
+  - name: '`svelte-flex`'
+    url: 'https://github.com/himynameisdave/svelte-flex'
+    description: A simple and reusable flexbox component for Svelte
+    tags:
+      - components and libraries
+      - layout and structure
+    downloads: 213
+    stars: 0
+    last_updated: '2020-04-11T14:09:12Z'
