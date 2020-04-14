@@ -79,9 +79,10 @@
 	<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color:#343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>	
+	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color:#343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://mail.ru"><img src="organisations/mailru.svg" alt="Mail.ru" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.mentorcv.com"><img src="organisations/mentorcv.png" alt="Mentor CV logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.metrovias.com.ar/"><img src="organisations/metrovias.svg" alt="Metrovias logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="http://mustlab.ru"><img src="organisations/mustlab.png" alt="Mustlab logo" loading="lazy"></a>
