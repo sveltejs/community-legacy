@@ -1869,7 +1869,7 @@ resources:
     downloads: 225
     stars: 13
     last_updated: '2020-04-13T15:56:13Z'  
-  - name: '`svelte-urql`'
+  - name: '`@urql/svelte`'
     url: 'https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql'
     description: Svelte integration for FormidableLabs URQL
     tags:
