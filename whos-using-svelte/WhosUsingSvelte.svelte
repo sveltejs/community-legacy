@@ -88,6 +88,7 @@
 	<a target="_blank" rel="noopener" href="https://www.nesta.org.uk"><img src="organisations/nesta.svg" alt="Nesta logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nzz.ch"><img src="organisations/nzz.svg" alt="Neue Zürcher Zeitung logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nonkositelecoms.com"><img src="organisations/nonkosi.svg" alt="Nonkosi Telecoms logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://app.nootiz.com"><img src="organisations/nootiz.svg" alt="nootiz logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://noppo.pro"><img src="organisations/noppo.png" alt="Noppo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://oberonspace.xyz"><img src="organisations/oberonspace.svg" alt="OberonSPACE logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ofof.nl"><img src="organisations/ofof.png" alt="Ofof logo" loading="lazy"></a>
@@ -99,6 +100,7 @@
 	<a target="_blank" rel="noopener" href="https://www.playpilot.com/"><img src="organisations/playpilot.svg" alt="Playpilot logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://en.plentyofplans.app"><img src="organisations/plentyofplans.png" alt="PlentyOfPlans logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pqina.nl"><img src="organisations/pqina.svg" alt="PQINA logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://profullstack.com"><img src="organisations/profullstack.svg" alt="Profullstack logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://global.rakuten.com/corp/"><img src="organisations/rakuten.svg" alt="Rakuten logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://santiment.net"><img src="organisations/santiment.svg" alt="Santiment logo" loading="lazy"></a>
