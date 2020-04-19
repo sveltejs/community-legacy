@@ -1868,4 +1868,11 @@ resources:
       - layout and structure
     downloads: 235
     stars: 13
-    last_updated: '2020-04-13T15:56:13Z'
+    last_updated: '2020-04-13T15:56:13Z'  
+  - name: '`@urql/svelte`'
+    url: 'https://github.com/FormidableLabs/urql/tree/master/packages/svelte-urql'
+    description: Svelte integration for FormidableLabs URQL
+    tags:
+      - components and libraries
+      - stores and state
+      - graphql
