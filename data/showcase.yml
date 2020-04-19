@@ -1,4 +1,16 @@
 sites:
+  - name: OmniaWrite
+    source: https://github.com/TorstenDittmann/OmniaWrite
+    url: 'https://omniawrite.com'
+    imageUrl: 'https://user-images.githubusercontent.com/1759475/79346780-0b6d6600-7f33-11ea-80a3-7e3646c8a6df.png'
+    tags:
+      - Production App
+      - PWA
+      - Electron
+    stars: 2
+    last_updated: '2020-04-15T16:08:00Z'
+    description: >-
+      A text editor engineered for creative writing.
   - name: Convos IRC Client
     source: 'https://github.com/Nordaaker/convos'
     url: 'https://convos.by/2019/10/26/convos-one-point-oh.html'
