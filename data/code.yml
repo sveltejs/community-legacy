@@ -786,6 +786,50 @@ resources:
     stars: 11
     last_updated: '2020-04-16T18:12:50Z'
     downloads: 31
+  - name: '`svelte-asyncable`'
+    url: 'https://github.com/PaulMaly/svelte-asyncable'
+    description: Asyncable store for Svelte 3 which is store a value as promise.
+    tags:
+      - store
+      - async data
+    stars: 12
+    last_updated: '2020-03-10T18:12:50Z'
+    downloads: 58
+  - name: '`svelte-pathfinder`'
+    url: 'https://github.com/PaulMaly/svelte-pathfinder'
+    description: State-based router for Svelte 3.
+    tags:
+      - routers
+      - store
+    stars: 14
+    last_updated: '2020-04-09T18:12:50Z'
+    downloads: 46
+  - name: '`svelte-imask`'
+    url: 'https://github.com/PaulMaly/svelte-imask'
+    description: IMask input component and action for Svelte 3.
+    tags:
+      - masked
+      - components and libraries
+      - imask
+    stars: 33
+    last_updated: '2020-04-01T18:12:50Z'
+    downloads: 207
+  - name: '`svelte-image-compare`'
+    url: 'https://github.com/PaulMaly/svelte-image-compare'
+    description: Simple Svelte component to compare two images using slider.
+    tags:
+      - components and libraries
+    stars: 10
+    last_updated: '2019-08-25T18:12:50Z'
+    downloads: 55
+  - name: '`svelte-ticker`'
+    url: 'https://github.com/PaulMaly/svelte-ticker'
+    description: Simple Svelte component which automatically makes its contents scrollable ticker-style if it's necessary.
+    tags:
+      - components and libraries
+    stars: 1
+    last_updated: '2019-12-16T18:12:50Z'
+    downloads: 10
   - name: '`@beyonk/svelte-google-analytics`'
     url: 'https://github.com/beyonk-adventures/svelte-google-analytics'
     description: Google Analytics tracking module for Svelte / Sapper
