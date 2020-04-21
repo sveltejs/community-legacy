@@ -19,7 +19,8 @@
     "start": "ssg dev",
     "build": "ssg export",
     "update-github-stats": "node scripts/updateGithubStats.js",
+    "update-gitlab-stats": "node scripts/updateGitlabStats.js",
     "update-npm-stats": "node scripts/updateNpmStats.js",
-    "githubGetAllData": "npm run update-npm-stats && npm run update-github-stats"
+    "githubGetAllData": "npm run update-npm-stats && npm run update-github-stats && npm run update-gitlab-stats"
   }
 }
