@@ -18,6 +18,7 @@
   "scripts": {
     "start": "ssg dev",
     "build": "ssg export",
+    "sort-repositories": "node scripts/sortRepositories.js",
     "update-github-stats": "node scripts/updateGithubStats.js",
     "update-gitlab-stats": "node scripts/updateGitlabStats.js",
     "update-npm-stats": "node scripts/updateNpmStats.js",
