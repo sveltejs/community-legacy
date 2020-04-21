@@ -8,6 +8,12 @@ resources:
       - templates
     stars: 3
     last_updated: '2020-04-06T10:24:36Z'
+  - name: '`svelteml`'
+    url: 'https://github.com/john--kane/svelteml'
+    description: Simple package that makes ML more accessible
+    tags:
+      - components and libraries
+    last_updated: '2020-04-21T20:39:17Z'
   - name: '`svelte-typewriter`'
     url: 'https://github.com/henriquehbr/svelte-typewriter'
     description: A simple and reusable typewriter effect for your Svelte applications
