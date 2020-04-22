@@ -1941,3 +1941,10 @@ resources:
     stars: 6
     last_updated: '2020-04-13T21:33:06Z'
     downloads: 581
+  - name: '`svelte-accessible-dialog`'
+    url: 'https://github.com/reecelucas/svelte-accessible-dialog'
+    description: An accessible dialog component for Svelte apps
+    tags:
+      - components and libraries
+    stars: 0
+    last_updated: '2020-04-22T15:21:47Z'
