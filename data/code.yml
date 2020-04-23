@@ -1941,3 +1941,11 @@ resources:
     stars: 6
     last_updated: '2020-04-13T21:33:06Z'
     downloads: 581
+  - name: '`tinro`'
+    url: 'https://github.com/AlexxNB/tinro'
+    description: Highly declarative, very tiny (~3.8 Kb), dependency free router
+    tags:
+      - routers
+    stars: 9
+    last_updated: '2020-04-18T13:33:00Z'
+    downloads: 151
