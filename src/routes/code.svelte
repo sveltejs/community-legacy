@@ -81,10 +81,6 @@
   }
 </style>
 
-<svelte:head>
-  <title>Code • Sapper Community</title>
-</svelte:head>
-
 <Hero
   title="Community Code"
   tagline="Code"

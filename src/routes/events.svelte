@@ -47,10 +47,6 @@
   }
 </style>
 
-<svelte:head>
-  <title>Events • Sapper Community</title>
-</svelte:head>
-
 <Hero
   title="Community Events"
   tagline="Events"

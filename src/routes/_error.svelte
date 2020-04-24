@@ -1,12 +1,25 @@
 <script>
-	export let error;
-	export let status;
+  export let error;
+  export let status;
 </script>
 
-<h1>{status}</h1>
+<style>
+  .container {
+    width: 100%;
+    text-align: center;
+    padding: 10%;
+  }
+  pre {
+    text-align: left;
+  }
+</style>
 
-<p>{error.message}</p>
+<div class="container">
+  <h1>{status}</h1>
 
-{#if process.env.NODE_ENV === 'development'}
-	<pre>{error.stack}</pre>
-{/if}
+  <p>{error.message}</p>
+
+  {#if process.env.NODE_ENV === 'development'}
+    <pre>{error.stack}</pre>
+  {/if}
+</div>

@@ -3,6 +3,8 @@
   import { Icons, Icon, Nav, NavItem } from "@sveltejs/site-kit";
   export let segment;
   const { page } = stores();
+
+  import Head from "../node_modules/components/Head.svelte";
 </script>
 
 <style>
@@ -23,6 +25,7 @@
   }
 </style>
 
+<Head path={$page.path} />
 <Icons />
 
 <Nav {segment} {page} logo="svelte-logo-horizontal.svg">

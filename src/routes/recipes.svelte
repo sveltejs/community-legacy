@@ -6,10 +6,6 @@
 
 </style>
 
-<svelte:head>
-  <title>Recipes • Sapper Community</title>
-</svelte:head>
-
 <Hero
   title="Svelte Community"
   tagline="Recipes"
