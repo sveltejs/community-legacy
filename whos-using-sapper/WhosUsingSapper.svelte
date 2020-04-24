@@ -45,5 +45,4 @@
 </style>
 
 <div class="logos">
-<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-sapper/WhosUsingSapper.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
