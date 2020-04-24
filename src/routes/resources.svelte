@@ -81,10 +81,6 @@
   }
 </style>
 
-<svelte:head>
-  <title>Resources • Svelte Community</title>
-</svelte:head>
-
 <Hero
   title="Community Resources"
   tagline="Resources"

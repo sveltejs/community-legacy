@@ -17,12 +17,6 @@
 
 </style>
 
-<svelte:head>
-  <title>
-    Svelte Community • Events, Site Showcase, Packages, Resources, Recipes
-  </title>
-</svelte:head>
-
 <Hero
   title="Svelte Community"
   tagline="Events, Site Showcase, Packages, Resources, Recipes"
