@@ -1956,3 +1956,12 @@ resources:
       - components and libraries
     stars: 1
     last_updated: '2020-04-22T15:21:47Z'
+  - name: '`aovi-svelte`'
+    url: 'https://github.com/AlexxNB/aovi-svelte'
+    description: Easy use Aovi to validate forms or values in your components
+    tags:
+      - forms and validation
+      - components and libraries
+    stars: 0
+    last_updated: '2020-04-23T07:17:00Z'
+    downloads: 309
