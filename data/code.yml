@@ -1407,6 +1407,15 @@ resources:
     stars: 212
     last_updated: '2020-04-20T21:29:11Z'
     downloads: 8778
+  - name: '`svelte-input-mask`'
+    url: 'https://github.com/xnimorz/svelte-input-mask'
+    description: Input masking component for Svelte (credit cards, phones, dates, numbers, etc.)
+    tags:
+      - components and libraries
+      - inputs and widgets      
+    stars: 33
+    last_updated: '2020-03-15T22:29:11Z'
+    downloads: 198
   - name: '`svelte-awesome`'
     url: 'https://github.com/RobBrazier/svelte-awesome'
     description: 'Awesome SVG icon component for Svelte JS, built with Font Awesome icons'
