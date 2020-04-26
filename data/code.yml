@@ -177,7 +177,7 @@ resources:
     description: A Facebook customer chat integration for Svelte / Sapper
     tags:
       - components and libraries
-      - social and other 3rd party services
+      - third party services
     stars: 0
     last_updated: '2019-05-25T17:04:08Z'
     downloads: 6
@@ -186,7 +186,7 @@ resources:
     description: A Facebook pixel module for Svelte / Sapper
     tags:
       - components and libraries
-      - social and other 3rd party services
+      - third party services
     stars: 2
     last_updated: '2020-04-09T17:22:05Z'
     downloads: 274
@@ -195,7 +195,7 @@ resources:
     description: Google Analytics tracking module for Svelte / Sapper
     tags:
       - components and libraries
-      - social and other 3rd party services
+      - third party services
     stars: 4
     last_updated: '2020-04-09T17:20:48Z'
     downloads: 13
@@ -249,7 +249,7 @@ resources:
     description: Trustpilot Trustboxes for Svelte / Sapper
     tags:
       - components and libraries
-      - social and other 3rd party services
+      - third party services
     stars: 1
     last_updated: '2019-12-11T08:09:03Z'
     downloads: 170
