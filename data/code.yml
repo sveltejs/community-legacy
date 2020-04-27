@@ -1138,9 +1138,8 @@ resources:
     url: 'https://github.com/PaulMaly/svelte-imask'
     description: IMask input component and action for Svelte 3.
     tags:
-      - masked
       - components and libraries
-      - imask
+      - inputs and widgets
     stars: 33
     last_updated: '2020-04-01T18:12:50Z'
     downloads: 674
