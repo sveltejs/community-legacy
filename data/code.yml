@@ -127,7 +127,7 @@ resources:
     description: Svelte store with a websocket backend
     tags:
       - components and libraries
-      - store
+      - stores and state
     downloads: 149
     stars: 18
     last_updated: '2020-04-19T10:07:28Z'
