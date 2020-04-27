@@ -1612,7 +1612,7 @@ resources:
     url: 'https://github.com/sveltejs/gl'
     description: A (very experimental) project to bring WebGL to Svelte
     tags:
-      - experiments
+      - webgl
     stars: 321
     last_updated: '2020-04-20T03:10:59Z'
     downloads: 6166
