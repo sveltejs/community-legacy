@@ -7,6 +7,13 @@ meetups, packages, resources, recipes, and showcase websites.
 In time this may become the home for a meetup site
 and other community information.
 
+## Maintenance mode
+
+we are now working on a new site: https://github.com/svelte-society/site
+
+this site will keep up to date for content, but as far as code and design goes, the new site is the future
+
+
 ## Add an event
 
 To add an event make a PR to [`data/events.yml`](data/events.yml).
