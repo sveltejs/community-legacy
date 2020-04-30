@@ -1976,3 +1976,11 @@ resources:
     stars: 6
     last_updated: '2020-04-27T13:22:50Z'
     downloads: 651
+  - name: '`svelte-navigator`'
+    url: 'https://github.com/mefechoel/svelte-navigator'
+    description: Simple, declarative routing for single page apps built with Svelte
+    tags:
+      - routers
+    stars: 0
+    last_updated: '2020-04-27T15:28:34Z'
+    downloads: 212
