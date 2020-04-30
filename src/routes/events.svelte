@@ -224,6 +224,17 @@
             </li>
           </ul>
         </li>
+        <li>
+          🇺🇦Ukraine
+          <ul>
+            <li>
+              <span class="date">
+                Organizer:
+                <a href="https://twitter.com/ValPaliy">Val Paliy</a>
+              </span>
+            </li>
+          </ul>
+        </li>
       </ul>
     </Box>
 
