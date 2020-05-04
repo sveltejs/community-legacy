@@ -1,4 +1,11 @@
 resources:
+  - name: '`svelte-ie11`'
+    url: 'https://github.com/elsonigo/svelte-ie11'
+    description: svelte template with basic babel setup for ie11 compatibility
+    tags:
+      - template
+    stars: 0
+    last_updated: '2020-05-04T17:17:00Z'
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
