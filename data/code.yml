@@ -1,11 +1,4 @@
 resources:
-  - name: '`svelte-ie11`'
-    url: 'https://github.com/elsonigo/svelte-ie11'
-    description: svelte template with basic babel setup for ie11 compatibility
-    tags:
-      - template
-    stars: 0
-    last_updated: '2020-05-04T17:17:00Z'
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
@@ -472,6 +465,13 @@ resources:
     stars: 7
     last_updated: '2019-12-19T06:39:54Z'
     downloads: 52460
+  - name: '`svelte-ie11`'
+    url: 'https://github.com/elsonigo/svelte-ie11'
+    description: svelte template with basic babel setup for ie11 compatibility
+    tags:
+      - template
+    stars: 0
+    last_updated: '2020-05-04T17:17:00Z'
   - name: '`svelte-routing`'
     url: 'https://github.com/EmilTholin/svelte-routing'
     description: A declarative Svelte routing library with SSR support
@@ -885,6 +885,14 @@ resources:
     stars: 14
     last_updated: '2020-03-27T11:25:18Z'
     downloads: 21
+  - name: '`@lottiefiles/svelte-lottie-player`'
+    url: 'https://github.com/LottieFiles/svelte-lottie-player'
+    description: Lottie player component for use with Svelte for viewing Lottie animations.
+    tags:
+      - components and libraries
+    stars: 0
+    last_updated: '2020-05-04T01:34:07Z'
+    downloads: 0
   - name: lpshanley/svelte-phonegap
     url: 'https://github.com/lpshanley/svelte-phonegap'
     description: Template for building phonegap hybrid applications with Svelte
@@ -2000,11 +2008,3 @@ resources:
     stars: 6
     last_updated: '2020-05-02T10:18:29Z'
     downloads: 812
-  - name: '`@lottiefiles/svelte-lottie-player`'
-    url: 'https://github.com/LottieFiles/svelte-lottie-player'
-    description: Lottie player component for use with Svelte for viewing Lottie animations. 
-    tags:
-      - components and libraries
-    stars: 0
-    last_updated: '2020-05-04T01:34:07Z'
-    downloads: 0
