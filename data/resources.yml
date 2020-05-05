@@ -203,3 +203,10 @@ resources:
     tags:
       - media
       - podcasts and other videos
+  - name: 'Svelte Interview Questions'
+    url: 'https://github.com/iamsaeeddev/svelte-interview-questions'
+    description: >-
+      Concepts and Questions related to Svelte
+    tags:
+       - other lists and resources
+       - communities
