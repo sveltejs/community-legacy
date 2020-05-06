@@ -2008,3 +2008,29 @@ resources:
     stars: 6
     last_updated: '2020-05-02T10:18:29Z'
     downloads: 812
+  - name: '`svelte-infinite-scroll`'
+    url: 'https://github.com/andrelmlins/svelte-infinite-scroll'
+    description: Infinite Scroll Component to Svelte
+    tags:
+      - components and libraries
+    stars: 32
+    last_updated: '2020-04-21T16:55:07Z'
+    downloads: 1213
+  - name: '`svelte-grid-responsive`'
+    url: 'https://github.com/andrelmlins/svelte-grid-responsive'
+    description: Responsive grid system based on Bootstrap for Svelte
+    tags:
+      - components and libraries
+      - layout and structure
+    stars: 3
+    last_updated: '2020-04-20T12:41:10Z'
+    downloads: 260
+  - name: '`svelte-fullscreen`'
+    url: 'https://github.com/andrelmlins/svelte-fullscreen'
+    description: Component that performs fullscreen in DOM Elements
+    tags:
+      - components and libraries
+      - layout and structure
+    stars: 5
+    last_updated: '2020-04-13T18:12:56Z'
+    downloads: 501
