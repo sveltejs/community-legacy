@@ -111,6 +111,7 @@
 	<a target="_blank" rel="noopener" href="https://sp.nl"><img src="organisations/socialist-party.svg" alt="Socialist Party logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.softmus.com.br/"><img src="organisations/softmus.png" alt="Softmus Tecnologia logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://sqltribe.com"><img src="organisations/sqltribe.svg" alt="SQL Tribe logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.stakingrewards.com"><img src="organisations/stakingrewards.svg" alt="Staking Rewards logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.steembeem.com"><img src="organisations/steembeem.png" alt="SteemBeem logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.stone.co"><img src="organisations/stone.svg" alt="Stone Payments logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.strixengine.com"><img src="organisations/strixcloud.svg" alt="Strix Cloud logo" loading="lazy"><span>Strix Cloud</span></a>
