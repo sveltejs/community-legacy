@@ -159,13 +159,6 @@ resources:
     tags:
       - media
       - podcasts and other videos
-  - name: awesome-svelte
-    url: 'https://github.com/CalvinWalzel/awesome-svelte'
-    description: A curated list of awesome things related to Svelte (includes v2 resources)
-    tags:
-      - other lists and resources
-    stars: 470
-    last_updated: '2020-02-24T10:24:29Z'
   - name: svelte-sapper-community
     url: 'https://github.com/mindrones/svelte-sapper-community'
     description: Svelte/Sapper community map
