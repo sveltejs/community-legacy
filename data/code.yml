@@ -1864,23 +1864,15 @@ resources:
     stars: 152
     last_updated: '2020-04-20T09:12:33Z'
     downloads: 21992
-  - name: '`svelte-language-server`'
-    url: 'https://github.com/UnwrittenFun/svelte-language-server'
-    description: A WIP language server for Svelte
+  - name: '`language-tools`'
+    url: 'https://github.com/sveltejs/language-tools'
+    description: A language server and VSCode extension for Svelte
     tags:
       - integrations
       - editor tools
-    stars: 96
-    last_updated: '2020-04-13T06:22:32Z'
-    downloads: 540
-  - name: svelte-vscode
-    url: 'https://github.com/UnwrittenFun/svelte-vscode'
-    description: Svelte language support for VS Code
-    tags:
-      - integrations
-      - editor tools
-    stars: 198
-    last_updated: '2020-04-18T09:37:14Z'
+    stars: 155
+    last_updated: '2020-05-11T16:41:00Z'
+    downloads: 1410
   - name: '`svelte-grid`'
     url: 'https://github.com/vaheqelyan/svelte-grid'
     description: 'A responsive, draggable and resizable grid layout, for Svelte'
