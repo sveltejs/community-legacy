@@ -304,5 +304,28 @@
         </li>
       </ul>
     </Box>
+
+    <Box color="#ededed">
+      <h2>South America</h2>
+      <ul>
+        <li>
+          🇧🇷Brazil
+          <a
+            href={'https://www.sympla.com.br/meetup-svelte-brasil__850420'}
+            target="_blank"
+            class="event-name">
+            SvelteJS Brazil
+          </a>
+          <ul>
+            <li>
+              <span class="date">
+                Organizer:
+                <a href="https://twitter.com/DemysCota">Demys Lima</a>
+              </span>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </Box>
   </div>
 </div>
