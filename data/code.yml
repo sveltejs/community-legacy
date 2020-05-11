@@ -2034,3 +2034,11 @@ resources:
     stars: 6
     last_updated: '2020-05-02T10:18:29Z'
     downloads: 812
+  - name: '`svelte-webpack-babel-scss`'
+    url: 'https://github.com/markoboy/svelte-webpack-babel-scss'
+    description: Svelte template with webpack, babel, eslint and scss. Using browserslist with corejs for legacy browser support
+    tags:
+      - templates
+    stars: 0
+    last_updated: '2020-05-10T18:30:07Z'
+    downloads: 0
