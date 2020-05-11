@@ -117,3 +117,11 @@ EventsList:
     twitter: 'https://twitter.com/PaulMaly'
     type: Meetup
     url: 'https://www.downtomeet.com/Svelte-Russia-Meetups'
+  - city: Brasilia
+    country: Brazil
+    date: ''
+    desc: Svelte meetup in Brazil
+    eventName: Meetup Svelte Brasil
+    organizer: 'Demys Lima  https://twitter.com/DemysCota'
+    type: Meetup
+    url: 'https://www.sympla.com.br/meetup-svelte-brasil__850420'
