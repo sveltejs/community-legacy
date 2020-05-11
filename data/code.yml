@@ -1866,7 +1866,7 @@ resources:
     downloads: 21992
   - name: '`language-tools`'
     url: 'https://github.com/sveltejs/language-tools'
-    description: A language server and VSCode extension for Svelte
+    description: A language server and VSCode extension for Svelte, useful for TypeScript support in templates
     tags:
       - integrations
       - editor tools
