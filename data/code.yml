@@ -2040,7 +2040,7 @@ resources:
     downloads: 812
   - name: '`svelte-credit-cards`'
     url: 'https://github.com/CharlyJazz/svelte-credit-card'
-    description: A component to render a credit card preview, useful for ecommerces.
+    description: A component to render a credit card preview - useful for ecommerce.
     tags:
       - components and libraries
     stars: 6
