@@ -348,6 +348,14 @@ resources:
     stars: 53
     last_updated: '2020-04-20T13:56:38Z'
     downloads: 1216
+  - name: '`svelte-credit-cards`'
+    url: 'https://github.com/CharlyJazz/svelte-credit-card'
+    description: A component to render a credit card preview - useful for ecommerce.
+    tags:
+      - components and libraries
+    stars: 6
+    last_updated: '2020-05-12T17:30:00Z'
+    downloads: 0
   - name: chuanqisun/svelte-electron-template
     url: 'https://github.com/chuanqisun/svelte-electron-template'
     description: The bare minimum boilerplate to use Svelte in electron
@@ -2038,11 +2046,3 @@ resources:
     stars: 6
     last_updated: '2020-05-11T18:35:41Z'
     downloads: 812
-  - name: '`svelte-credit-cards`'
-    url: 'https://github.com/CharlyJazz/svelte-credit-card'
-    description: A component to render a credit card preview - useful for ecommerce.
-    tags:
-      - components and libraries
-    stars: 6
-    last_updated: '2020-05-12T17:30:00Z'
-    downloads: 0
