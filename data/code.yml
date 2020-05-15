@@ -1576,6 +1576,14 @@ resources:
       - templates
     stars: 3
     last_updated: '2019-08-29T13:09:21Z'
+  - name: '`svelte-monetization`'
+    url: 'https://github.com/sorxrob/svelte-monetization'
+    description: A minimal and lightweight wrapper for the Web Monetization API
+    tags:
+      - components and libraries
+    stars: 4
+    last_updated: '2020-05-15T00:58:06.606Z'
+    downloads: 53
   - name: '`@spaceavocado/svelte-form`'
     url: 'https://github.com/spaceavocado/svelte-form'
     description: Simple Svelte form model handler and input validations
@@ -2046,11 +2054,3 @@ resources:
     stars: 6
     last_updated: '2020-05-11T18:35:41Z'
     downloads: 812
-  - name: '`svelte-monetization`'
-    url: 'https://github.com/sorxrob/svelte-monetization'
-    description: A minimal and lightweight wrapper for the Web Monetization API
-    tags:
-      - components and libraries
-    stars: 4
-    last_updated: '2020-05-15T00:58:06.606Z'
-    downloads: 53
