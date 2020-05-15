@@ -2046,3 +2046,11 @@ resources:
     stars: 6
     last_updated: '2020-05-11T18:35:41Z'
     downloads: 812
+  - name: '`svelte-monetization`'
+    url: 'https://github.com/sorxrob/svelte-monetization'
+    description: A minimal and lightweight wrapper for the Web Monetization API
+    tags:
+      - components and libraries
+    stars: 4
+    last_updated: '2020-05-15T00:58:06.606Z'
+    downloads: 53
