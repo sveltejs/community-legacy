@@ -164,3 +164,13 @@ sites:
     last_updated: "2020-04-01T15:23:00Z"
     description: >-
       A website built on svelte and sapper.
+  - name: Coder Stats
+    source: https://github.com/sorxrob/coderstats
+    url: "https://coderstats.now.sh"
+    imageUrl: "https://i.imgur.com/2qU4oC3.png"
+    tags:
+      - Production App
+    stars: 2
+    last_updated: "2020-05-16T01:27:40.954Z"
+    description: >-
+      📊 Data visualizations of your top languages, starred repositories and top repos.
