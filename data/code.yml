@@ -2053,4 +2053,13 @@ resources:
       - component sets
     stars: 6
     last_updated: '2020-05-11T18:35:41Z'
-    downloads: 812
+    downloads: 812  
+  - name: '`MDBSvelte`'
+    url: 'https://github.com/SauravKanchan/mdbsvelte'
+    description: Svelte Bootstrap with Material Design
+    tags:
+      - components and libraries
+      - component sets
+    stars: 19
+    last_updated: '2020-05-17T15:12:48.127Z'
+    downloads: 578
