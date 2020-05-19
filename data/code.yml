@@ -1517,6 +1517,15 @@ resources:
     stars: 22
     last_updated: '2020-04-09T08:36:03Z'
     downloads: 666
+  - name: '`MDBSvelte`'
+    url: 'https://github.com/SauravKanchan/mdbsvelte'
+    description: Svelte Bootstrap with Material Design
+    tags:
+      - components and libraries
+      - component sets
+    stars: 19
+    last_updated: '2020-05-17T15:12:48.127Z'
+    downloads: 578
   - name: '`multicarousel`'
     url: 'https://github.com/sciactive/multicarousel'
     description: A dependency free multiple item JavaScript carousel
@@ -2051,15 +2060,6 @@ resources:
     tags:
       - components and libraries
       - component sets
-    stars: 6
+    stars: 7
     last_updated: '2020-05-11T18:35:41Z'
-    downloads: 812  
-  - name: '`MDBSvelte`'
-    url: 'https://github.com/SauravKanchan/mdbsvelte'
-    description: Svelte Bootstrap with Material Design
-    tags:
-      - components and libraries
-      - component sets
-    stars: 19
-    last_updated: '2020-05-17T15:12:48.127Z'
-    downloads: 578
+    downloads: 812
