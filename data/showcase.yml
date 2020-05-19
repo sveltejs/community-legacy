@@ -174,3 +174,12 @@ sites:
     last_updated: "2020-05-16T01:27:40.954Z"
     description: >-
       📊 Data visualizations of your top languages, starred repositories and top repos.
+  - name: tweak
+    url: "https://tweak-extension.com"
+    imageUrl: "https://i.imgur.com/P5m9eS2.png"
+    tags:
+      - Browser Extension
+      - Dev Tool
+    last_updated: "2020-05-19T01:39:00Z"
+    description: >-
+      tweak your HTTP requests to test, develop and demo your web application
