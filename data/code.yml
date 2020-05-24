@@ -2063,3 +2063,12 @@ resources:
     stars: 8
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: 'electron-svelte-boilerplate'
+    url: 'https://github.com/kwangure/electron-svelte-boilerplate'
+    description: A base for building electron apps with secure and reasonable defaults
+    tags:
+      - templates
+      - electron
+    stars: 0
+    last_updated: '2020-05-25T23:00:07Z'
+    downloads: 0
