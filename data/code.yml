@@ -2072,3 +2072,17 @@ resources:
     stars: 8
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-formly`'
+    url: 'https://github.com/arabdevelop/svelte-formly'
+    description: Generate dynamic forms for sveltejs / Sapper js
+    tags:
+      - svelte-form
+      - svelte-formly
+      - saper-form
+      - sapper-formly
+      - form
+      - forms
+      - formly
+    stars: 42
+    last_updated: '2020-04-30T22:22:00Z'
+    downloads: 1633
