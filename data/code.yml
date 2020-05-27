@@ -2086,3 +2086,11 @@ resources:
     stars: 42
     last_updated: '2020-04-30T22:22:00Z'
     downloads: 1633
+  - name: '`svelte-inview`'
+    url: "https://github.com/maciekgrzybek/svelte-inview"
+    description: A Svelte component that monitors an element enters or leaves the viewport.🔥
+    tags:
+      - components and libraries
+      - async loading
+      - intersection observer
+      - viewport
