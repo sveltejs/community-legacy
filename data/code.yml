@@ -2086,3 +2086,11 @@ resources:
     stars: 8
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-copyright`'
+    url: 'https://github.com/himynameisdave/svelte-copyright'
+    description: A Svelte component to format and display a copyright notice.
+    tags:
+      - components and libraries
+    stars: 0
+    last_updated: '2020-05-30T13:16:25Z'
+    downloads: 0
