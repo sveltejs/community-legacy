@@ -103,6 +103,7 @@
 	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.playpilot.com/"><img src="organisations/playpilot-logo.svg" alt="Playpilot logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://en.plentyofplans.app"><img src="organisations/plentyofplans.svg" alt="PlentyOfPlans logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.pureinteractive.pl"><img src="organisations/pure_interactive.svg" alt="Pure Interactive logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pqina.nl"><img src="organisations/pqina.svg" alt="PQINA logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://profullstack.com"><img src="organisations/profullstack.svg" alt="Profullstack logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://global.rakuten.com/corp/"><img src="organisations/rakuten.svg" alt="Rakuten logo" loading="lazy"></a>
