@@ -10,10 +10,10 @@ jobs:
     - uses: actions/checkout@master
     - name: Build
       run: npm install
-    - name: Scrape
-      run: npm run githubGetAllData 
     - name: Sort
-      run: npm run sort-repositories 
+      run: npm run sort-repositories
+    - name: Scrape
+      run: npm run githubGetAllData
       env:
         GH_CLIENT_ID: ${{ secrets.GH_CLIENT_ID }} # get this from a github oauth app you set up
         GH_CLIENT_SECRET: ${{ secrets.GH_CLIENT_SECRET }}
