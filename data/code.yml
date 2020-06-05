@@ -2094,3 +2094,12 @@ resources:
     stars: 8
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`s-offline`'
+    url: 'https://github.com/vinayakkulkarni/s-offline'
+    description: 🔌 Simple Svelte component to detect offline & online changes.
+    tags:
+      - offline and online detection
+      - network events
+    stars: 2
+    last_updated: '2020-06-04T12:50:00Z'
+    downloads: 678
