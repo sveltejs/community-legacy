@@ -187,6 +187,15 @@ resources:
     stars: 351
     last_updated: '2020-06-20T14:44:58Z'
     downloads: 3328
+  - name: '`svelte-file-dropzone`'
+    url: 'https://github.com/thecodejack/svelte-file-dropzone'
+    description: Svelte component for file upload and file dropzone.
+    tags:
+      - components and libraries
+      - inputs and widgets
+    stars: 0
+    last_updated: '2020-06-20T14:44:58Z'
+    downloads: 10
   - name: '`@beyonk/gdpr-cookie-consent-banner`'
     url: 'https://github.com/beyonk-adventures/gdpr-cookie-consent-banner'
     description: A GDPR compliant cookie consent banner implementation
