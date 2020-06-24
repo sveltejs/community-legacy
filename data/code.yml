@@ -2115,3 +2115,9 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`generator-svelte`'
+    url: "https://github.com/Samuel-Martineau/generator-svelte"
+    description: Yeoman generator generating a boilerplate Svelte.js app with all of svelte-preprocess' options
+    tags:
+      - templates
+      - preprocessors
