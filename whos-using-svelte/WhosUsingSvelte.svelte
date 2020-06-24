@@ -60,6 +60,7 @@
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://app.cliniciannexus.com/"><img src="organisations/cliniciannexus.png" alt="Clinician Nexus logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://comigosaude.com.br"><img src="organisations/comigo.svg" alt="Comigo logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://constellationanalytics.com"><img src="organisations/constellation.svg" alt="Constellation Analytics logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://convincely.com/"><img src="organisations/convincely.svg" alt="Convincely logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cracss.com" style="background-color: #ff7000;"><img src="organisations/cracss.svg" alt="craCSS.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
@@ -81,6 +82,7 @@
 	<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color: #343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
@@ -107,6 +109,7 @@
 	<a target="_blank" rel="noopener" href="https://www.pureinteractive.pl"><img src="organisations/pure_interactive.svg" alt="Pure Interactive logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pqina.nl"><img src="organisations/pqina.svg" alt="PQINA logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://profullstack.com"><img src="organisations/profullstack.svg" alt="Profullstack logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.qconcursos.com/"><img src="organisations/qconcursos.svg" alt="Qconcursos logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://global.rakuten.com/corp/"><img src="organisations/rakuten.svg" alt="Rakuten logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://santiment.net"><img src="organisations/santiment.svg" alt="Santiment logo" loading="lazy"></a>
@@ -132,5 +135,6 @@
 	<a target="_blank" rel="noopener" href="https://zevvle.com/"><img src="organisations/zevvle.svg" alt="Zevvle logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://gbit.lt/"><img src="organisations/gbit-logo.svg" alt="Gbit" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.redlabelabrasives.com/"><img src="organisations/red-label-logo.png" alt="Red Label Abrasives" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
