@@ -2115,3 +2115,33 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-jsx`'
+    url: 'https://github.com/kenoxa/svelte-jsx'
+    description: JSX for svelte to simplify testing
+    tags:
+      - components and libraries
+      - testing
+      - jsx
+    stars: 1
+    last_updated: '2020-06-24T08:04:47Z'
+    downloads: 1
+  - name: '`svelte-htm`'
+    url: 'https://github.com/kenoxa/svelte-htm'
+    description: Tagged Template syntax for svelte to simplify testing
+    tags:
+      - components and libraries
+      - testing
+      - jsx
+    stars: 1
+    last_updated: '2020-06-24T08:04:47Z'
+    downloads: 1
+  - name: '`svelte-fragment-component`'
+    url: 'https://github.com/kenoxa/svelte-fragment-component'
+    description: Component that renders its children with lifecycle hooks to simplify testing
+    tags:
+      - components and libraries
+      - testing
+      - jsx
+    stars: 1
+    last_updated: '2020-06-24T08:04:47Z'
+    downloads: 1
