@@ -2147,3 +2147,12 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`vite-plugin-svelte`'
+    url: 'https://github.com/intrnl/vite-plugin-svelte'
+    description: Vite plugin for compiling Svelte components
+    tags:
+      - integrations
+      - bundler plugins
+    stars: 15
+    last_updated: '2020-06-23T10:31:04.000Z'
+    downloads: 447
