@@ -131,12 +131,12 @@
 	<a target="_blank" rel="noopener" href="https://tt.edu.au"><img src="organisations/tradie-training.png" alt="Tradie Training logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://vipfy.store"><img src="organisations/VIPFY.svg" alt="VIPFY logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://vrstugan.se" style="background-color: #0f1f4c;"><img src="organisations/vrstugan.svg" alt="VRstugan logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://wait.nu" style="background-color: #00152A;"><img src="organisations/wait.svg" alt="Wait" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://webdesq.net"><img src="organisations/webdesq.svg" alt="Webdesq logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://zeo.org/tr/"><img src="organisations/zeoagency.svg" alt="Zeo Agency logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://zevvle.com/"><img src="organisations/zevvle.svg" alt="Zevvle logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://gbit.lt/"><img src="organisations/gbit-logo.svg" alt="Gbit" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.redlabelabrasives.com/"><img src="organisations/red-label-logo.png" alt="Red Label Abrasives" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://wait.nu" style="background-color: #00152A;"><img src="organisations/wait.svg" alt="Wait" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
