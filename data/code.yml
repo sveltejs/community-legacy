@@ -2156,3 +2156,21 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelta`'
+    url: 'https://github.com/Parables/svelta'
+    description: Style it your way UI components with dynamic Form Builder.
+    tags:
+      - components and libraries
+      - templates
+      - inputs and widgets
+      - forms and validation
+      - component sets
+      - layout and structure
+      - form
+      - formly
+      - forms
+      - svelte-form
+      - svelte-formly
+      - template
+    stars: 1
+    last_updated: '2020-07-04T04:39:30Z'
