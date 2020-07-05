@@ -137,5 +137,6 @@
 	<a target="_blank" rel="noopener" href="https://gbit.lt/"><img src="organisations/gbit-logo.svg" alt="Gbit" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.redlabelabrasives.com/"><img src="organisations/red-label-logo.png" alt="Red Label Abrasives" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://wait.nu" style="background-color: #00152A;"><img src="organisations/wait.svg" alt="Wait" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
