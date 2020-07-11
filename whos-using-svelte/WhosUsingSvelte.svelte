@@ -86,6 +86,7 @@
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color: #343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.lessondesk.com"><img src="organisations/lessondesk.svg" alt="Lesson Desk logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://mail.ru"><img src="organisations/mailru.svg" alt="Mail.ru" loading="lazy"></a>
