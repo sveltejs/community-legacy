@@ -71,6 +71,7 @@
 	<a target="_blank" rel="noopener" href="https://www.entriwise.com/"><img src="organisations/entriwise.png" alt="Entriwise logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.entur.org/about-entur/" style="background-color: #191954;"><img src="organisations/entur.svg" alt="Entur logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.etherbit.dev/"><img src="organisations/etherbit-dev.svg" alt="Etherbit Dev logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.factry.io/"><img src="organisations/factry.png" alt="Factry logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://farmbox.ae/"><img src="organisations/farmbox.svg" alt="Farmbox logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://from-now-on.com"><img src="organisations/from-now-on.png" alt="From-Now-On logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://frontendbastards.nl" style="background-color: black;"><img src="organisations/frontend_bastards.svg" alt="Frontend Bastards logo" loading="lazy"></a>
