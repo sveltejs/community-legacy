@@ -86,6 +86,7 @@
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color: #343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.lessondesk.com"><img src="organisations/lessondesk.svg" alt="Lesson Desk logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
@@ -142,6 +143,5 @@
 	<a target="_blank" rel="noopener" href="https://gbit.lt/"><img src="organisations/gbit-logo.svg" alt="Gbit" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.redlabelabrasives.com/"><img src="organisations/red-label-logo.png" alt="Red Label Abrasives" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
