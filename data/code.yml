@@ -2174,3 +2174,12 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-compare-image-slider`'
+    url: 'https://github.com/johnwalley/compare-image-slider'
+    description: A simple tool for comparing two images.
+    tags:
+      - components and libraries
+      - images
+    stars: 3
+    last_updated: '2020-07-15T20:38:00Z'
+    downloads: 61
