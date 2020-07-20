@@ -174,3 +174,11 @@ sites:
     last_updated: "2020-05-16T01:27:40.954Z"
     description: >-
       📊 Data visualizations of your top languages, starred repositories and top repos.
+  - name: Svelte MQTT Monitor 
+    url: "https://github.com/4refr0nt/svelte-mqtt-monitor"
+    imageUrl: "https://raw.githubusercontent.com/4refr0nt/svelte-mqtt-monitor/master/image.png"
+    description: >-
+      A simple MQTT client for watching messages in browser. JSON prettify and syntax highlighting.
+    tags:
+      - Demo App
+    last_updated: "2020-07-19T17:40:00Z"
