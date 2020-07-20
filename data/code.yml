@@ -6,8 +6,7 @@ resources:
       work on scroll with Svelte
     tags:
       - components and libraries
-      - animation
-      - animate on scroll
+      - interaction
     stars: 0
     last_updated: '2020-07-12T18:49:35Z'
     downloads: 0
