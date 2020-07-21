@@ -2183,3 +2183,12 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-tree`'
+    url: 'https://github.com/esinx/svelte-tree'
+    description: Tree view component for svelte
+    tags:
+      - component
+      - tree
+    stars: 1
+    last_updated: '2020-06-01T00:00:00Z'
+    downloads: 62
