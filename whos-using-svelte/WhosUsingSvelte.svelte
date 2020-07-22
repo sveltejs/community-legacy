@@ -50,6 +50,7 @@
 	<a target="_blank" rel="noopener" href="https://absoluteweb.com"><img src="organisations/absoluteweb.svg" alt="Absolute Web logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://aedge.dev"><img src="organisations/aedge.svg" alt="Ædge logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.andcru.io"><img src="organisations/andcru.svg" alt="&Cru logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyowi.com"><img src="organisations/beyowi.svg" alt="Beyowi logo" loading="lazy"></a>
@@ -80,6 +81,7 @@
 	<a target="_blank" rel="noopener" href="https://godaddy.com"><img src="organisations/godaddy.svg" alt="GoDaddy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.grainger.com"><img src="organisations/grainger.svg" alt="Grainger logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="http://healthtree.org/"><img src="organisations/healthtree.png" alt="HealthTree logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://higsch.com/"><img src="organisations/higsch.svg" alt="Higsch logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ifings.com"><img src="organisations/ifings.svg" alt="iFings logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://in1.pl"><img src="organisations/in1.svg" alt="in1 logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://iota.org"><img src="organisations/iota.svg" alt="IOTA logo" loading="lazy"></a>
