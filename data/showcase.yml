@@ -20,6 +20,15 @@ sites:
       - Production App
     stars: 553
     last_updated: "2019-10-10T00:20:42Z"
+  - name: Elder Guide
+    url: "https://elderguide.com/"
+    imageUrl: "https://user-images.githubusercontent.com/534488/69898733-72f88f80-135d-11ea-86fd-4a22014a6b69.jpg"
+    description: "Production SEO site built with Svelte. Designed to help families make informed decisions around choosing elder care."
+    tags:
+      - Production App
+      - SEO
+    stars: 0
+    last_updated: "2020-07-22T00:20:42Z"
   - name: hn.svelte.dev
     source: "https://github.com/sveltejs/hn.svelte.dev"
     url: "https://hn.svelte.dev"
