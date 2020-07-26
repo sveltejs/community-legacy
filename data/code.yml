@@ -2192,3 +2192,18 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: Zimtir/SENT-template
+    url: 'https://github.com/Zimtir/SENT-template'
+    description: Skip setup and start code with SENT (Sapper.js, Express.js, Node.js, Typescript) and other tools template
+    tags:
+      - templates
+    stars: 26
+    last_updated: '2020-07-26T08:59:15Z'
+  - name: '`svelte-item-list`'
+    url: 'https://github.com/Zimtir/svelte-item-list'
+    description: Svelte item list with pagination 
+    tags:
+      - components and libraries
+      - component sets
+    stars: 0
+    last_updated: '2020-06-30T21:51:19Z'
