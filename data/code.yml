@@ -1299,7 +1299,7 @@ resources:
     url: 'https://github.com/PaulMaly/svelte-asyncable'
     description: Asyncable store for Svelte 3 which is store a value as promise.
     tags:
-      - store
+      - stores and state
       - async data
     stars: 24
     last_updated: '2020-06-29T21:08:58Z'
@@ -1345,7 +1345,7 @@ resources:
     description: State-based router for Svelte 3.
     tags:
       - routers
-      - store
+      - stores and state
     stars: 26
     last_updated: '2020-06-17T13:30:47Z'
     downloads: 77
