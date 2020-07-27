@@ -1407,16 +1407,17 @@ resources:
     last_updated: '2020-07-05T04:47:11Z'
     downloads: 13
   - name: '`svelte-webext-storage-adapter`'
-    url: 'https://github.com/PikadudeNo1/svelte-webext-storage-adapter'
+    url: 'https://github.com/PixievoltNo1/svelte-webext-storage-adapter'
     description: Writable stores for Firefox/Chrome extensions using `chrome.storage`
     tags:
       - components and libraries
       - stores and state
+      - integrations
     stars: 6
     last_updated: '2020-07-25T06:18:56Z'
     downloads: 190
   - name: '`svelte-writable-derived`'
-    url: 'https://github.com/PikadudeNo1/svelte-writable-derived'
+    url: 'https://github.com/PixievoltNo1/svelte-writable-derived'
     description: Two-way data-transforming stores
     tags:
       - components and libraries
