@@ -98,6 +98,7 @@
 	<a target="_blank" rel="noopener" href="https://www.mentorcv.com"><img src="organisations/mentorcv.png" alt="Mentor CV logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.metrovias.com.ar/" style="background-color: #606463;"><img src="organisations/metrovias.svg" alt="Metrovias logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="http://mustlab.ru"><img src="organisations/mustlab.png" alt="Mustlab logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://name-coach.com"><img src="organisations/namecoach.svg" alt="NameCoach logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nesta.org.uk"><img src="organisations/nesta.svg" alt="Nesta logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nzz.ch"><img src="organisations/nzz.svg" alt="Neue Zürcher Zeitung logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.nonkositelecoms.com"><img src="organisations/nonkosi.svg" alt="Nonkosi Telecoms logo" loading="lazy"></a>
