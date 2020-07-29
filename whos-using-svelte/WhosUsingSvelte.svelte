@@ -87,6 +87,7 @@
 	<a target="_blank" rel="noopener" href="https://iota.org"><img src="organisations/iota.svg" alt="IOTA logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://jetruby.com"><img src="organisations/jetruby.svg" alt="JetRuby logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
