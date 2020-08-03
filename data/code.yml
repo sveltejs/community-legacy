@@ -1,4 +1,17 @@
 resources:
+  - name: "`svelte-template`"
+    url: "https://github.com/NazimAli2017/svelte-template"
+    description: Modern build process with Svelte, WebPack, PurgeCSS, code splitting, lazy loading...etc
+    tags:
+      - components and libraries
+      - templates
+      - testing
+      - typescript
+      - code splitting
+      - lazy loading
+      - webpack
+      - preprocessors
+    last_updated: "2020-08-02T23:30:55:04Z"
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
