@@ -49,6 +49,7 @@
 	<a target="_blank" rel="noopener" href="https://ablab.de"><img src="organisations/ablab.svg" alt="ABLab logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://absoluteweb.com"><img src="organisations/absoluteweb.svg" alt="Absolute Web logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://aedge.dev"><img src="organisations/aedge.svg" alt="Ædge logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.alaskaair.com/" style="background-color: #01426a;"><img src="organisations/alaskaairlines.svg" alt="Alaska Airlines logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.andcru.io"><img src="organisations/andcru.svg" alt="&Cru logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
