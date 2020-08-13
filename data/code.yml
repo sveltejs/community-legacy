@@ -2243,6 +2243,32 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`generator-svelte`'
+    url: "https://github.com/Samuel-Martineau/generator-svelte"
+    description: Yeoman generator generating a boilerplate Svelte.js app with all of svelte-preprocess' options
+    tags:
+      - templates
+      - preprocessors
+  - name: '`svelte-jsx`'
+    url: 'https://github.com/kenoxa/svelte-jsx'
+    description: JSX for svelte to simplify testing
+    tags:
+      - components and libraries
+      - testing
+      - jsx
+    stars: 1
+    last_updated: '2020-06-24T08:04:47Z'
+    downloads: 1
+  - name: '`svelte-htm`'
+    url: 'https://github.com/kenoxa/svelte-htm'
+    description: Tagged Template syntax for svelte to simplify testing
+    tags:
+      - components and libraries
+      - testing
+      - jsx
+    stars: 1
+    last_updated: '2020-06-24T08:04:47Z'
+    downloads: 1
   - name: '`svelte-page-progress`'
     url: 'https://github.com/NomanGul/svelte-page-progress'
     description: Svelte Component that tracks a users progress through a page as they scroll
