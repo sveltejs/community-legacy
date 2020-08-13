@@ -20,6 +20,15 @@ sites:
       - Production App
     stars: 553
     last_updated: "2019-10-10T00:20:42Z"
+  - name: Elder Guide
+    url: "https://elderguide.com/"
+    imageUrl: "https://user-images.githubusercontent.com/3580879/88181290-a5ad0c00-cbfc-11ea-9eed-a7152652c1b1.png"
+    description: "Production SEO site built with Svelte. Designed to help families make informed decisions around choosing elder care."
+    tags:
+      - Production App
+      - SEO
+    stars: 0
+    last_updated: "2020-07-22T00:20:42Z"
   - name: hn.svelte.dev
     source: "https://github.com/sveltejs/hn.svelte.dev"
     url: "https://hn.svelte.dev"
@@ -174,3 +183,11 @@ sites:
     last_updated: "2020-05-16T01:27:40.954Z"
     description: >-
       📊 Data visualizations of your top languages, starred repositories and top repos.
+  - name: Svelte MQTT Monitor 
+    url: "https://github.com/4refr0nt/svelte-mqtt-monitor"
+    imageUrl: "https://raw.githubusercontent.com/4refr0nt/svelte-mqtt-monitor/master/image.png"
+    description: >-
+      A simple MQTT client for watching messages in browser. JSON prettify and syntax highlighting.
+    tags:
+      - Demo App
+    last_updated: "2020-07-19T17:40:00Z"

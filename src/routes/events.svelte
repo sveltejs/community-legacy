@@ -323,6 +323,16 @@
                 <a href="https://twitter.com/DemysCota">Demys Lima</a>
               </span>
             </li>
+            <li>
+              <span class="date">
+                <a href="https://discord.gg/jKaWQC">Discord</a>
+              </span>
+            </li>
+            <li>
+              <span class="date">
+                <a href="https://t.me/sveltebrasil">Telegram</a>
+              </span>
+            </li>
           </ul>
         </li>
       </ul>

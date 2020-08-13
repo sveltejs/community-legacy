@@ -210,3 +210,10 @@ resources:
     tags:
       - media
       - podcasts and other videos
+  - name: daily.dev
+    url: "https://daily.dev/topic/svelte"
+    description: >-
+      A browser extension that shows the latest Svelte news in your new tab
+    tags:
+      - other lists and resources
+      - communities
