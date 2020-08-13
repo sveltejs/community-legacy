@@ -77,6 +77,7 @@
   <a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.factry.io/"><img src="organisations/factry.png" alt="Factry logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://farmbox.ae/"><img src="organisations/farmbox.svg" alt="Farmbox logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://filestar.com/"><img src="organisations/filestar.svg" alt="Filestar logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://from-now-on.com"><img src="organisations/from-now-on.png" alt="From-Now-On logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://frontendbastards.nl" style="background-color: black;"><img src="organisations/frontend_bastards.svg" alt="Frontend Bastards logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://fusioncharts.com"><img src="organisations/fusioncharts.svg" alt="FusionCharts logo" loading="lazy"></a>
