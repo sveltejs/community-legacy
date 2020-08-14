@@ -75,7 +75,7 @@
 	<a target="_blank" rel="noopener" href="https://www.entriwise.com/"><img src="organisations/entriwise.png" alt="Entriwise logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.entur.org/about-entur/" style="background-color: #191954;"><img src="organisations/entur.svg" alt="Entur logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.etherbit.dev/"><img src="organisations/etherbit-dev.svg" alt="Etherbit Dev logo" loading="lazy"></a>
-  <a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
+  	<a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.factry.io/"><img src="organisations/factry.png" alt="Factry logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://farmbox.ae/"><img src="organisations/farmbox.svg" alt="Farmbox logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://filestar.com/"><img src="organisations/filestar.svg" alt="Filestar logo" loading="lazy"></a>
@@ -130,6 +130,7 @@
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://santiment.net"><img src="organisations/santiment.svg" alt="Santiment logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://SendGrowth.com"><img src="organisations/sendgrowth.svg" alt="SendGrowth logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://shipbit.de"><img src="organisations/shipbit.svg" alt="ShipBit logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://sp.nl"><img src="organisations/socialist-party.svg" alt="Socialist Party logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.softmus.com.br/"><img src="organisations/softmus.png" alt="Softmus Tecnologia logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://sqltribe.com"><img src="organisations/sqltribe.svg" alt="SQL Tribe logo" loading="lazy"></a>
@@ -156,6 +157,6 @@
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://budgetbranders.com/"><img src="organisations/budget-branders-logo.svg" alt="Budget Branders" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cakcuk.io"><img src="organisations/cakcuk.svg" alt="Cakcuk logo" loading="lazy"></a>
-  <a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
+  	<a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
