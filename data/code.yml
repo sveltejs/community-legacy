@@ -2297,7 +2297,7 @@ resources:
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
   - name: '`svelte-range-slider-pips`'
-    url: svelte-range-slider-pips
+    url: 'https://github.com/simeydotme/svelte-range-slider-pips'
     description: 'Range Slider Input, with Multi-handle and Pips features'
     tags:
       - components and libraries
