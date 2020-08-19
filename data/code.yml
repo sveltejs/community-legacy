@@ -1,4 +1,12 @@
 resources:
+  - name: '`attractions`'
+    url: 'https://github.com/illright/attractions'
+    description: A pretty cool UI kit for Svelte
+    tags:
+      - components and libraries
+    stars: 2
+    last_updated: '2020-08-12T14:25:26Z'
+    downloads: 5
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
