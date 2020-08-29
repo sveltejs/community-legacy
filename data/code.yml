@@ -2314,3 +2314,12 @@ resources:
     stars: 9
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-layout-resizable`'
+    url: 'https://github.com/milahu/svelte-layout-resizable'
+    description: resizable layout component for svelte
+    tags:
+      - components and libraries
+      - layout and structure
+    stars: 0
+    last_updated: '2020-08-29T12:38:38Z'
+    downloads: 0
