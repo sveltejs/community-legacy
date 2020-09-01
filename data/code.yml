@@ -2323,3 +2323,12 @@ resources:
     stars: 10
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`svelte-preval`'
+    url: 'https://github.com/milahu/svelte-preval'
+    description: compile time eval for svelte components
+    tags:
+      - preprocessors
+      - ssr
+    downloads: 0
+    stars: 0
+    last_updated: '2020-09-01T14:57:34Z'
