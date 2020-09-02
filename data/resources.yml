@@ -217,3 +217,17 @@ resources:
     tags:
       - other lists and resources
       - communities
+  - name: svelte-it-will-scale
+    url: "https://github.com/halfnelson/svelte-it-will-scale"
+    description: >-
+      Will Svelte scale? Finding Svelte's nflection point.
+    tags:
+      - other lists and resources
+      - talks
+  - name: SvelteScaling
+    url: "http://svelte-scaling.acmion.com"
+    description: >-
+      Does Svelte Scale? Analyzing the relationship between component source size and bundle size.
+    tags:
+      - other lists and resources
+      - talks
