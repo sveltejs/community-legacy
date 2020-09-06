@@ -2340,7 +2340,7 @@ resources:
     stars: 3
     last_updated: '2020-09-05T23:27:31Z'
     downloads: 284
- - name: svelte-ts-snowpack-vscode
+  - name: svelte-ts-snowpack-vscode
     url: 'https://github.com/processtract/svelte-ts-snowpack-vscode'
     description: Svelte + Snowpack, TypeScript, SCSS, Jest with tight VSCode debugging
     tags:
