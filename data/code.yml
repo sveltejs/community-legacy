@@ -2332,3 +2332,11 @@ resources:
     stars: 10
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`@bjornlu/svelte-router`'
+    url: 'https://github.com/bluwy/svelte-router'
+    description: An easy-to-use SPA router for Svelte
+    tags:
+      - routers
+    stars: 3
+    last_updated: '2020-09-05T23:27:31Z'
+    downloads: 284
