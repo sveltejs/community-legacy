@@ -2349,3 +2349,11 @@ resources:
     stars: 10
     last_updated: '2020-05-22T15:18:25Z'
     downloads: 812
+  - name: '`overmind-svelte`'
+    url: 'https://overmindjs.org'
+    description: frictionless state management
+    tags:
+      - stores and state
+    stars: 1000
+    last_updated: '2020-09-08T15:28:37Z'
+    downloads: 1941
