@@ -54,7 +54,7 @@
 	<a target="_blank" rel="noopener" href="https://www.alaskaair.com/" style="background-color: #01426a;"><img src="organisations/alaskaairlines.svg" alt="Alaska Airlines logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.andcru.io"><img src="organisations/andcru.svg" alt="&Cru logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
-  <a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
+  	<a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://appditto.com" style="background-color: #4c6aff;"><img src="organisations/appditto.svg" alt="Appditto logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
