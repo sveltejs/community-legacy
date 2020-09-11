@@ -92,6 +92,7 @@
 	<a target="_blank" rel="noopener" href="https://higsch.com/"><img src="organisations/higsch.svg" alt="Higsch logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ifings.com"><img src="organisations/ifings.svg" alt="iFings logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://in1.pl"><img src="organisations/in1.svg" alt="in1 logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://in1.pl"><img src="organisations/infomax.svg" alt="Infomax Insurance Brokers logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://iota.org"><img src="organisations/iota.svg" alt="IOTA logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
