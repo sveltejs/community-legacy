@@ -101,6 +101,7 @@
 	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color: #343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://media.lesechos.fr/infographie"><img src="organisations/les-echos.svg" alt="Les Echos" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.lessondesk.com"><img src="organisations/lessondesk.svg" alt="Lesson Desk logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
@@ -119,7 +120,7 @@
 	<a target="_blank" rel="noopener" href="https://ofof.nl"><img src="organisations/ofof.png" alt="Ofof logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://omniawrite.com/" style="background-color: #5c3552;"><img src="organisations/omniawrite.svg" alt="OmniaWrite" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://opensols.com.co/"><img src="organisations/opensols.svg" alt="OpenSols" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://openstate.eu"><img src="organisations/open-state-foundation.svg" alt="Open State Foundation logo" loading="lazy"></a>	
+	<a target="_blank" rel="noopener" href="https://openstate.eu"><img src="organisations/open-state-foundation.svg" alt="Open State Foundation logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://panascais.net"><img src="organisations/panascais.svg" alt="Panascais logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
