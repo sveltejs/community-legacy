@@ -170,5 +170,6 @@
 	<a target="_blank" rel="noopener" href="https://gieson.com/Library/projects/utilities/timetrek/" style="background-color:#4774b3;"><img src="organisations/gieson.svg" alt="Gieson TimeTrek Logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://iwillcodeit.io"><img src="https://iwillcodeit.io/images/logo-letters-only.svg" alt="I Will Code It EURL" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://alphaweb.gap.im"><img src="organisations/gap.png" alt="Gap Messenger" loading="lazy"/></a>
+	<a target="_blank" rel="noopener" href="https://zencity.io"><img src="organisations/zencity.svg" alt="Zencity" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
