@@ -2357,3 +2357,13 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-particles`'
+    url: 'https://github.com/matteobruni/tsparticles'
+    description: Svelte component to easily add highly configurable particles animations to websites
+    tags:
+      - components and libraries
+      - component sets
+      - web component sets
+    stars: 0
+    last_updated: '2020-09-30T15:27:00Z'
+    downloads: 0
