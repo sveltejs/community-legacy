@@ -11,6 +11,13 @@ sites:
     last_updated: "2020-04-15T16:08:00Z"
     description: >-
       A text editor engineered for creative writing.
+  - name: BlurPage
+    url: "https://blur.page"
+    imageUrl: "https://blur.page/images/blurpage.png"
+    description: "The official website of BlurPage, a browser extension to hide sensitive information on a web page"
+    tags:
+      - Browser Extension
+    last_updated: "2019-01-10T00:07:00Z"
   - name: Convos IRC Client
     source: "https://github.com/Nordaaker/convos"
     url: "https://convos.by/2019/10/26/convos-one-point-oh.html"
