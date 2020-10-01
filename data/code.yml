@@ -2367,3 +2367,11 @@ resources:
     stars: 0
     last_updated: '2020-09-30T15:27:00Z'
     downloads: 0
+  - name: '`@elderjs/elderjs`'
+    url: 'https://github.com/Elderjs/elderjs'
+    description: Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
+    tags:
+      - components and libraries
+    stars: 0
+    last_updated: '2020-09-30T15:27:00Z'
+    downloads: 0
