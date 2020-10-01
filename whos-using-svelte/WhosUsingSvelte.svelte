@@ -171,5 +171,6 @@
 	<a target="_blank" rel="noopener" href="https://iwillcodeit.io"><img src="https://iwillcodeit.io/images/logo-letters-only.svg" alt="I Will Code It EURL" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://alphaweb.gap.im"><img src="organisations/gap.png" alt="Gap Messenger" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://zencity.io"><img src="organisations/zencity.svg" alt="Zencity" loading="lazy"/></a>
+	<a target="_blank" rel="noopener" href="https://strollyn.com"><img src="organisations/strollyn.svg" alt="STROLLÿN" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
