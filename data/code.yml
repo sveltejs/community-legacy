@@ -2359,7 +2359,9 @@ resources:
     downloads: 1941
   - name: '`svelte-particles`'
     url: 'https://github.com/matteobruni/tsparticles'
-    description: Svelte component to easily add highly configurable particles animations to websites
+    description: >-
+      Svelte component to easily add highly configurable particles animations to
+      websites
     tags:
       - components and libraries
       - component sets
@@ -2369,9 +2371,11 @@ resources:
     downloads: 0
   - name: '`@elderjs/elderjs`'
     url: 'https://github.com/Elderjs/elderjs'
-    description: Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
+    description: >-
+      Elder.js is an opinionated static site generator and web framework for
+      Svelte built with SEO in mind.
     tags:
       - components and libraries
-    stars: 0
+    stars: 496
     last_updated: '2020-09-30T15:27:00Z'
     downloads: 0
