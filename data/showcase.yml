@@ -20,6 +20,12 @@ sites:
       - Production App
     stars: 553
     last_updated: "2019-10-10T00:20:42Z"
+  - name: FormValidation
+    source: https://github.com/phuoc-ng/formvalidation.io
+    url: "http://formvalidation.io"
+    imageUrl: "https://formvalidation.io/images/screenshot.png"
+    description: "The official website of FormValidation, the best validation library for JavaScript."
+    last_updated: "2020-09-27T00:07:00Z"
   - name: Elder Guide
     url: "https://elderguide.com/"
     imageUrl: "https://user-images.githubusercontent.com/3580879/88181290-a5ad0c00-cbfc-11ea-9eed-a7152652c1b1.png"
