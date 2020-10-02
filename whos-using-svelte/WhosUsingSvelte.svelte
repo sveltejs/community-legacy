@@ -136,6 +136,7 @@
 	<a target="_blank" rel="noopener" href="https://profullstack.com"><img src="organisations/profullstack.svg" alt="Profullstack logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.qconcursos.com/"><img src="organisations/qconcursos.svg" alt="Qconcursos logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://global.rakuten.com/corp/"><img src="organisations/rakuten.svg" alt="Rakuten logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.rewe-digital.com/en/"><img src="organisations/rewe-digital-logo.svg" alt="REWE digital logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://santiment.net"><img src="organisations/santiment.svg" alt="Santiment logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://SendGrowth.com"><img src="organisations/sendgrowth.svg" alt="SendGrowth logo" loading="lazy"></a>
