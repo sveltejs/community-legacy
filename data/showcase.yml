@@ -18,6 +18,13 @@ sites:
     tags:
       - Browser Extension
     last_updated: "2019-01-10T00:07:00Z"
+  - name: Check Browsers Support
+    url: "https://checkbrowsers.support"
+    imageUrl: "https://checkbrowsers.support/images/screenshot.png"
+    description: "The official website of Check Browsers Support, a browser extension to check browser compatibility without leaving tab. It's powered by Svelte 3 and Sapper"
+    tags:
+      - Browser Extension
+    last_updated: "2020-10-01T00:07:00Z"
   - name: Convos IRC Client
     source: "https://github.com/Nordaaker/convos"
     url: "https://convos.by/2019/10/26/convos-one-point-oh.html"
