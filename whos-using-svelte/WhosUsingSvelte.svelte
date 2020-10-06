@@ -174,4 +174,6 @@
 	<a target="_blank" rel="noopener" href="https://zencity.io"><img src="organisations/zencity.svg" alt="Zencity" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://strollyn.com"><img src="organisations/strollyn.svg" alt="STROLLÿN" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
+	<a target="_blank" rel="noopener" href="https://seagage.com"><img src="https://static.wixstatic.com/media/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.png/v1/fill/w_192,h_38,al_c,q_85,usm_0.66_1.00_0.01/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.webp" alt="Seagage Inc" loading="lazy"/></a>
+
 </div>
