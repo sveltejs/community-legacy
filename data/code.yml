@@ -2391,3 +2391,22 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`yasp-modals`'
+    url: 'https://github.com/dievardump/yasp-modals'
+    description: Highly customizable and easy to use modal system
+    tags:
+      - components and libraries
+      - modals
+    stars: 2
+    last_updated: '2020-08-23T15:59:11.367Z'
+    downloads: 30
+  - name: '`yasp-router`'
+    url: 'https://github.com/dievardump/yasp-router'
+    description: Very flexible router
+    tags:
+      - components and libraries
+      - routers
+    stars: 2
+    last_updated: '2020-08-23T15:51:24.067Z'
+    downloads: 19
+
