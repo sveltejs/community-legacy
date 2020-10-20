@@ -72,64 +72,64 @@
 	<a target="_blank" rel="noopener" href="https://cracss.com" style="background-color: #ff7000;"><img src="organisations/cracss.svg" alt="craCSS.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://db.nomics.world" style="background-color: #0f272f;"><picture><source type="image/webp" srcset="organisations/dbnomics.webp"><img src="organisations/dbnomics.jpg" alt="DBNomics logo" loading="lazy"></picture></a>
-		<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://dextra.com.br/pt/"><img src="organisations/dextra.png" alt="Dextra logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://elderguide.com/"><img src="organisations/elderguide.svg" alt="Elder Guide logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.entriwise.com/"><img src="organisations/entriwise.png" alt="Entriwise logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.entur.org/about-entur/" style="background-color: #191954;"><img src="organisations/entur.svg" alt="Entur logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="http://www.ergonweb.de"><img src="organisations/ergon.png" alt="ERGON logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.etherbit.dev/"><img src="organisations/etherbit-dev.svg" alt="Etherbit Dev logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.factry.io/"><img src="organisations/factry.png" alt="Factry logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://farmbox.ae/"><img src="organisations/farmbox.svg" alt="Farmbox logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://filestar.com/"><img src="organisations/filestar.svg" alt="Filestar logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://from-now-on.com"><img src="organisations/from-now-on.png" alt="From-Now-On logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://frontendbastards.nl" style="background-color: black;"><img src="organisations/frontend_bastards.svg" alt="Frontend Bastards logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://fusioncharts.com"><img src="organisations/fusioncharts.svg" alt="FusionCharts logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.gojek.io/"><img src="organisations/gojek.svg" alt="Gojek logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://godaddy.com"><img src="organisations/godaddy.svg" alt="GoDaddy logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.grainger.com"><img src="organisations/grainger.svg" alt="Grainger logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="http://healthtree.org/"><img src="organisations/healthtree.png" alt="HealthTree logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://higsch.com/"><img src="organisations/higsch.svg" alt="Higsch logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://ifings.com"><img src="organisations/ifings.svg" alt="iFings logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://in1.pl"><img src="organisations/in1.svg" alt="in1 logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.infomax.gr"><img src="organisations/infomax.svg" alt="Infomax Insurance Brokers logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://iota.org"><img src="organisations/iota.svg" alt="IOTA logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://jetruby.com"><img src="organisations/jetruby.svg" alt="JetRuby logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color: #343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://media.lesechos.fr/infographie"><img src="organisations/les-echos.svg" alt="Les Echos" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.lessondesk.com"><img src="organisations/lessondesk.svg" alt="Lesson Desk logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://lyty.dev/"><img src="organisations/lyty-dev.svg" alt="Lyty.dev logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://mail.ru"><img src="organisations/mailru.svg" alt="Mail.ru" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.mentorcv.com"><img src="organisations/mentorcv.png" alt="Mentor CV logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.metrovias.com.ar/" style="background-color: #606463;"><img src="organisations/metrovias.svg" alt="Metrovias logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="http://mustlab.ru"><img src="organisations/mustlab.png" alt="Mustlab logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://name-coach.com"><img src="organisations/namecoach.svg" alt="NameCoach logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.nesta.org.uk"><img src="organisations/nesta.svg" alt="Nesta logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.nzz.ch"><img src="organisations/nzz.svg" alt="Neue Zürcher Zeitung logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.nonkositelecoms.com"><img src="organisations/nonkosi.svg" alt="Nonkosi Telecoms logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://app.nootiz.com"><img src="organisations/nootiz.svg" alt="nootiz logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://noppo.pro"><img src="organisations/noppo.png" alt="Noppo logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://oberonspace.xyz"><img src="organisations/oberonspace.svg" alt="OberonSPACE logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://ofof.nl"><img src="organisations/ofof.png" alt="Ofof logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://omniawrite.com/" style="background-color: #5c3552;"><img src="organisations/omniawrite.svg" alt="OmniaWrite" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://opensols.com.co/"><img src="organisations/opensols.svg" alt="OpenSols" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://openstate.eu"><img src="organisations/open-state-foundation.svg" alt="Open State Foundation logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://panascais.net"><img src="organisations/panascais.svg" alt="Panascais logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://phellowseven.com"><img src="organisations/phellowseven.svg" alt="phellow seven logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.philips.co.uk"><img src="organisations/philips.svg" alt="Philips logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://www.playpilot.com/"><img src="organisations/playpilot-logo.svg" alt="Playpilot logo" loading="lazy"></a>
-		<a target="_blank" rel="noopener" href="https://en.plentyofplans.app"><img src="organisations/plentyofplans.svg" alt="PlentyOfPlans logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://dextra.com.br/pt/"><img src="organisations/dextra.png" alt="Dextra logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://elderguide.com/"><img src="organisations/elderguide.svg" alt="Elder Guide logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.entriwise.com/"><img src="organisations/entriwise.png" alt="Entriwise logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.entur.org/about-entur/" style="background-color: #191954;"><img src="organisations/entur.svg" alt="Entur logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="http://www.ergonweb.de"><img src="organisations/ergon.png" alt="ERGON logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.etherbit.dev/"><img src="organisations/etherbit-dev.svg" alt="Etherbit Dev logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.factry.io/"><img src="organisations/factry.png" alt="Factry logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://farmbox.ae/"><img src="organisations/farmbox.svg" alt="Farmbox logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://filestar.com/"><img src="organisations/filestar.svg" alt="Filestar logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://from-now-on.com"><img src="organisations/from-now-on.png" alt="From-Now-On logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://frontendbastards.nl" style="background-color: black;"><img src="organisations/frontend_bastards.svg" alt="Frontend Bastards logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://fusioncharts.com"><img src="organisations/fusioncharts.svg" alt="FusionCharts logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.gojek.io/"><img src="organisations/gojek.svg" alt="Gojek logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://godaddy.com"><img src="organisations/godaddy.svg" alt="GoDaddy logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.grainger.com"><img src="organisations/grainger.svg" alt="Grainger logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="http://healthtree.org/"><img src="organisations/healthtree.png" alt="HealthTree logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://higsch.com/"><img src="organisations/higsch.svg" alt="Higsch logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://ifings.com"><img src="organisations/ifings.svg" alt="iFings logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://in1.pl"><img src="organisations/in1.svg" alt="in1 logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.infomax.gr"><img src="organisations/infomax.svg" alt="Infomax Insurance Brokers logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://iota.org"><img src="organisations/iota.svg" alt="IOTA logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://itslearning.com"><img src="organisations/itslearning.svg" alt="itslearning logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://jetruby.com"><img src="organisations/jetruby.svg" alt="JetRuby logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://koodoo.io" style="background-color: #343463;"><img src="organisations/koodoo.svg" alt="Koodoo logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://media.lesechos.fr/infographie"><img src="organisations/les-echos.svg" alt="Les Echos" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.lessondesk.com"><img src="organisations/lessondesk.svg" alt="Lesson Desk logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://lyty.dev/"><img src="organisations/lyty-dev.svg" alt="Lyty.dev logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://mail.ru"><img src="organisations/mailru.svg" alt="Mail.ru" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.mentorcv.com"><img src="organisations/mentorcv.png" alt="Mentor CV logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.metrovias.com.ar/" style="background-color: #606463;"><img src="organisations/metrovias.svg" alt="Metrovias logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="http://mustlab.ru"><img src="organisations/mustlab.png" alt="Mustlab logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://name-coach.com"><img src="organisations/namecoach.svg" alt="NameCoach logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.nesta.org.uk"><img src="organisations/nesta.svg" alt="Nesta logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.nzz.ch"><img src="organisations/nzz.svg" alt="Neue Zürcher Zeitung logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.nonkositelecoms.com"><img src="organisations/nonkosi.svg" alt="Nonkosi Telecoms logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://app.nootiz.com"><img src="organisations/nootiz.svg" alt="nootiz logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://noppo.pro"><img src="organisations/noppo.png" alt="Noppo logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://oberonspace.xyz"><img src="organisations/oberonspace.svg" alt="OberonSPACE logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://ofof.nl"><img src="organisations/ofof.png" alt="Ofof logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://omniawrite.com/" style="background-color: #5c3552;"><img src="organisations/omniawrite.svg" alt="OmniaWrite" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://opensols.com.co/"><img src="organisations/opensols.svg" alt="OpenSols" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://openstate.eu"><img src="organisations/open-state-foundation.svg" alt="Open State Foundation logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://panascais.net"><img src="organisations/panascais.svg" alt="Panascais logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://phellowseven.com"><img src="organisations/phellowseven.svg" alt="phellow seven logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.philips.co.uk"><img src="organisations/philips.svg" alt="Philips logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.playpilot.com/"><img src="organisations/playpilot-logo.svg" alt="Playpilot logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://en.plentyofplans.app"><img src="organisations/plentyofplans.svg" alt="PlentyOfPlans logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://postlight.com/"><img src="organisations/postlight.svg" alt="Postlight logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.pureinteractive.pl"><img src="organisations/pure_interactive.svg" alt="Pure Interactive logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pqina.nl"><img src="organisations/pqina.svg" alt="PQINA logo" loading="lazy"></a>
