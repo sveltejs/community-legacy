@@ -58,10 +58,10 @@
 	<a target="_blank" rel="noopener" href="https://appditto.com" style="background-color: #4c6aff;"><img src="organisations/appditto.svg" alt="Appditto logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://beyowi.com"><img src="organisations/beyowi.svg" alt="Beyowi logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.budibase.com"><img src="organisations/budibase.svg" alt="Budibase logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://blockvigil.com/"><img src="organisations/blockvigil.png" alt="BlockVigil logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://buydotstar.com"><img src="organisations/buydotstar.svg" alt="buy.* logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cashfree.com/" style="background-color: #4d3475;"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
@@ -79,7 +79,7 @@
 	<a target="_blank" rel="noopener" href="https://www.entur.org/about-entur/" style="background-color: #191954;"><img src="organisations/entur.svg" alt="Entur logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="http://www.ergonweb.de"><img src="organisations/ergon.png" alt="ERGON logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.etherbit.dev/"><img src="organisations/etherbit-dev.svg" alt="Etherbit Dev logo" loading="lazy"></a>
-  	<a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.extensive-it.com/appsystem"><img src="organisations/extensive-it.svg" alt="Extensive-IT logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.factry.io/"><img src="organisations/factry.png" alt="Factry logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://farmbox.ae/"><img src="organisations/farmbox.svg" alt="Farmbox logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://filestar.com/"><img src="organisations/filestar.svg" alt="Filestar logo" loading="lazy"></a>
@@ -127,6 +127,7 @@
 	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://phellowseven.com"><img src="organisations/phellowseven.svg" alt="phellow seven logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.philips.co.uk"><img src="organisations/philips.svg" alt="Philips logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.playpilot.com/"><img src="organisations/playpilot-logo.svg" alt="Playpilot logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://en.plentyofplans.app"><img src="organisations/plentyofplans.svg" alt="PlentyOfPlans logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://postlight.com/"><img src="organisations/postlight.svg" alt="Postlight logo" loading="lazy"></a>
