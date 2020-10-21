@@ -2409,3 +2409,15 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`saos`'
+    url: 'https://github.com/shiryel/saos'
+    description: >- 
+      Svelte Animation on Scroll - A small component to make your CSS animations
+      work on scroll with Svelte
+    tags:
+      - components and libraries
+      - interaction
+      - intersection observer
+    stars: 4
+    last_updated: '2020-09-09T18:49:35Z'
+    downloads: 453
