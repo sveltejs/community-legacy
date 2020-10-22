@@ -61,7 +61,6 @@
 	<a target="_blank" rel="noopener" href="https://www.budibase.com"><img src="organisations/budibase.svg" alt="Budibase logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://blockvigil.com/"><img src="organisations/blockvigil.png" alt="BlockVigil logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://buydotstar.com"><img src="organisations/buydotstar.svg" alt="buy.* logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cashfree.com/" style="background-color: #4d3475;"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
