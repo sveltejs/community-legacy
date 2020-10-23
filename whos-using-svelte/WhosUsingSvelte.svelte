@@ -61,7 +61,6 @@
 	<a target="_blank" rel="noopener" href="https://www.budibase.com"><img src="organisations/budibase.svg" alt="Budibase logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://blockvigil.com/"><img src="organisations/blockvigil.png" alt="BlockVigil logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://buydotstar.com"><img src="organisations/buydotstar.svg" alt="buy.* logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cashfree.com/" style="background-color: #4d3475;"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
@@ -125,6 +124,7 @@
 	<a target="_blank" rel="noopener" href="https://panascais.net"><img src="organisations/panascais.svg" alt="Panascais logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://parthpatel.net"><img src="organisations/parthpatel.jpg" alt="Parth Patel logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://phellowseven.com"><img src="organisations/phellowseven.svg" alt="phellow seven logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.philips.co.uk"><img src="organisations/philips.svg" alt="Philips logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
