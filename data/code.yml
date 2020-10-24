@@ -832,6 +832,14 @@ resources:
     stars: 61
     last_updated: '2020-08-17T17:39:10Z'
     downloads: 84
+  - name: '`routve`'
+    url: 'https://github.com/routve/routve'
+    description: Routve is an advanced unofficial Svelte 3 router. 
+    tags:
+      - routers
+    stars: 12
+    last_updated: '2020-10-24T18:28:47Z'
+    downloads: 284
   - name: '`svelte-pick-a-place`'
     url: 'https://github.com/jimutt/svelte-pick-a-place'
     description: Svelte component for position and area selection with Leaflet
