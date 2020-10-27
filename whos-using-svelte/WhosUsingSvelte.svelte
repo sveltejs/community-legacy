@@ -45,6 +45,7 @@
 </style>
 
 <div class="logos">
+	<a target="_blank" rel="noopener" href="https://maddevs.io"><img src="organisations/maddevs.svg" alt="Mad Devs" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://1password.com"><img src="organisations/1password.png" alt="1Password logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.9kawin.co.th"><img src="organisations/9kawin.svg" alt="9Kawin logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ablab.de"><img src="organisations/ablab.svg" alt="ABLab logo" loading="lazy"></a>
@@ -55,7 +56,7 @@
 	<a target="_blank" rel="noopener" href="https://www.andcru.io"><img src="organisations/andcru.svg" alt="&Cru logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://animus.coop"><img src="organisations/animus-coop.svg" alt="ANIMUS coop" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
-  	<a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://appditto.com" style="background-color: #4c6aff;"><img src="organisations/appditto.svg" alt="Appditto logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
