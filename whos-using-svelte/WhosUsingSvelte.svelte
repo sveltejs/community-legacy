@@ -94,6 +94,7 @@
 	<a target="_blank" rel="noopener" href="http://healthtree.org/"><img src="organisations/healthtree.png" alt="HealthTree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://higsch.com/"><img src="organisations/higsch.svg" alt="Higsch logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://ifings.com"><img src="organisations/ifings.svg" alt="iFings logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.ilscipio.com"><img src="organisations/ilscipio.svg" alt="Ilscipio logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://in1.pl"><img src="organisations/in1.svg" alt="in1 logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.infomax.gr"><img src="organisations/infomax.svg" alt="Infomax Insurance Brokers logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://iota.org"><img src="organisations/iota.svg" alt="IOTA logo" loading="lazy"></a>
