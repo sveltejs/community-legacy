@@ -211,3 +211,14 @@ sites:
     tags:
       - Demo App
     last_updated: "2020-07-19T17:40:00Z"
+  - name: Mélodie
+    source: https://github.com/feugy/melodie
+    url: https://feugy.github.io/melodie/
+    imageUrl: https://feugy.github.io/melodie/images/screenshot-ui-en.png
+    tags:
+      - Music
+      - Production App
+      - Electron
+    last_updated: "2020-10-31T22:15:00.000Z"
+    description: >-
+      Mélodie is an intuitive, portable and open source music player.
