@@ -72,3 +72,12 @@ We run two scripts - `updateGithubStats` and `updateNpmStats`. You dont need cre
 GH_CLIENT_ID= # e.g. 1234c7cce43a8bfd6e5e
 GH_CLIENT_SECRET= # e.g. abcd0bf9fb26048089874dae9ff09f91a0ef6528
 ```
+
+## Add your company logo
+
+* Fork this repo, and clone your fork
+* Create a branch called e.g. `add-myorganisation-logo`
+* Make changes to `WhosUsingSvelte.svelte` file
+* Add the logo to the `organisations` directory (preferably SVG)
+* Add a new `<a>` tag in this component, in **alphabetical order**
+* Create a pull request. Thanks!
