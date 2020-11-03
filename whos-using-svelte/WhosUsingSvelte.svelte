@@ -55,13 +55,13 @@
 	<a target="_blank" rel="noopener" href="https://www.andcru.io"><img src="organisations/andcru.svg" alt="&Cru logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://animus.coop"><img src="organisations/animus-coop.svg" alt="ANIMUS coop" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
-  	<a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
+  <a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://appditto.com" style="background-color: #4c6aff;"><img src="organisations/appditto.svg" alt="Appditto logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://www.budibase.com"><img src="organisations/budibase.svg" alt="Budibase logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://blockvigil.com/"><img src="organisations/blockvigil.png" alt="BlockVigil logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.bluehive.com"><img src="organisations/bluehive.svg" alt="BlueHive logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.budibase.com"><img src="organisations/budibase.svg" alt="Budibase logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://buydotstar.com"><img src="organisations/buydotstar.svg" alt="buy.* logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cashfree.com/" style="background-color: #4d3475;"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
@@ -88,8 +88,8 @@
 	<a target="_blank" rel="noopener" href="https://from-now-on.com"><img src="organisations/from-now-on.png" alt="From-Now-On logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://frontendbastards.nl" style="background-color: black;"><img src="organisations/frontend_bastards.svg" alt="Frontend Bastards logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://fusioncharts.com"><img src="organisations/fusioncharts.svg" alt="FusionCharts logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://www.gojek.io/"><img src="organisations/gojek.svg" alt="Gojek logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://godaddy.com"><img src="organisations/godaddy.svg" alt="GoDaddy logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.gojek.io/"><img src="organisations/gojek.svg" alt="Gojek logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.grainger.com"><img src="organisations/grainger.svg" alt="Grainger logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="http://healthtree.org/"><img src="organisations/healthtree.png" alt="HealthTree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://higsch.com/"><img src="organisations/higsch.svg" alt="Higsch logo" loading="lazy"></a>
@@ -158,6 +158,7 @@
 	<a target="_blank" rel="noopener" href="https://www.superchargify.com/"><img src="organisations/superchargify.svg" alt="Superchargify logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://swissdevjobs.ch/jobs/JavaScript/All" style="background-color: #1776d2;"><img src="organisations/swissdev-javascript-jobs.png" alt="SwissDev JavaScript Jobs" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://nytimes.com"><img src="organisations/nyt.svg" alt="The New York Times logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://that.us"><img src="organisations/THAT-Full-Wide.svg" alt="THAT Conference logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://tsh.io"><img src="organisations/tsh.svg" alt="The Software House logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://thunderdome.dev"><img src="organisations/thunderdome.svg" alt="Thunderdome logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://m.tokopedia.com"><img src="organisations/tokopedia.svg" alt="Tokopedia logo" loading="lazy"></a>
@@ -173,7 +174,7 @@
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://budgetbranders.com/"><img src="organisations/budget-branders-logo.svg" alt="Budget Branders" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cakcuk.io"><img src="organisations/cakcuk.svg" alt="Cakcuk logo" loading="lazy"></a>
-  	<a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
+  <a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://gieson.com/Library/projects/utilities/timetrek/" style="background-color:#4774b3;"><img src="organisations/gieson.svg" alt="Gieson TimeTrek Logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://iwillcodeit.io"><img src="https://iwillcodeit.io/images/logo-letters-only.svg" alt="I Will Code It EURL" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://alphaweb.gap.im"><img src="organisations/gap.png" alt="Gap Messenger" loading="lazy"/></a>
