@@ -108,6 +108,7 @@
 	<a target="_blank" rel="noopener" href="https://librelingo.app/"><img src="organisations/librelingo.svg" alt="LibreLingo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://luigi-project.io"><img src="organisations/luigi.png" alt="Luigi logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://lyty.dev/"><img src="organisations/lyty-dev.svg" alt="Lyty.dev logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://maddevs.io"><img src="organisations/maddevs.svg" alt="Mad Devs logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://mail.ru"><img src="organisations/mailru.svg" alt="Mail.ru" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.mentorcv.com"><img src="organisations/mentorcv.png" alt="Mentor CV logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.metrovias.com.ar/" style="background-color: #606463;"><img src="organisations/metrovias.svg" alt="Metrovias logo" loading="lazy"></a>
