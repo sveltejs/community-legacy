@@ -93,9 +93,9 @@
         <div class="SiteCard-Metadata">
           <div class="SiteCard-Metadata-Desc">{site.description}</div>
           <div class="SiteCard-Metadata-Labels">
-            {#each site.tags as tag}
-              <span>{tag}</span>
-            {/each}
+            {#if Array.isArray(sites.tags)}
+              {#each site.tags as tag}<span>{tag}</span>{/each}
+            {/if}
           </div>
           <div class="SiteCard-Metadata-Links">
             {#if site.source}
