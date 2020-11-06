@@ -2429,3 +2429,10 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-slimscroll`'
+    url: 'https://github.com/MelihAltintas/svelte-slimscroll'
+    description: svelte-slimscroll is a action for Svelte.js, which can transforms any div into a scrollable area with a nice scrollbar.
+    tags:
+      - components and libraries
+      - component sets
+    last_updated: '2020-11-05T119:28:37Z'
