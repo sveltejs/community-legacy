@@ -55,7 +55,7 @@
 	<a target="_blank" rel="noopener" href="https://www.andcru.io"><img src="organisations/andcru.svg" alt="&Cru logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://animus.coop"><img src="organisations/animus-coop.svg" alt="ANIMUS coop" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
-  <a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
+  	<a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://appditto.com" style="background-color: #4c6aff;"><img src="organisations/appditto.svg" alt="Appditto logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
@@ -102,6 +102,7 @@
 	<a target="_blank" rel="noopener" href="https://jacoux.com"><img src="organisations/jacoux.png" alt="Jacoux logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jetruby.com"><img src="organisations/jetruby.svg" alt="JetRuby logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://jingmnt.co.za"><img src="organisations/jingmnt.png" alt="Jingmnt logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://jolojo.com/" style="background-color: #000;"><img src="organisations/jolojo.png" alt="Jolojo CMS" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://kitchefs.github.io"><img src="organisations/kitchefs.svg" alt="Kitchefs logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://klicat.com"><img src="organisations/klicat.svg" alt="Klicat logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://koj.co"><img src="organisations/koj.svg" alt="Koj" loading="lazy"></a>
@@ -174,7 +175,7 @@
 	<a target="_blank" rel="noopener" href="https://www.fibretiger.co.za"><img src="organisations/fibre-tiger.png" alt="Fibre Tiger" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://budgetbranders.com/"><img src="organisations/budget-branders-logo.svg" alt="Budget Branders" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cakcuk.io"><img src="organisations/cakcuk.svg" alt="Cakcuk logo" loading="lazy"></a>
-  <a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
+  	<a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://gieson.com/Library/projects/utilities/timetrek/" style="background-color:#4774b3;"><img src="organisations/gieson.svg" alt="Gieson TimeTrek Logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://iwillcodeit.io"><img src="https://iwillcodeit.io/images/logo-letters-only.svg" alt="I Will Code It EURL" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://alphaweb.gap.im"><img src="organisations/gap.png" alt="Gap Messenger" loading="lazy"/></a>
@@ -184,7 +185,7 @@
 	<a target="_blank" rel="noopener" href="https://tproger.ru"><img src="organisations/tproger.svg" alt="Tproger («Типичный программист»)" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://transloadit.com"><img src="organisations/transloadit.svg" alt="Transloadit" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://seagage.com"><img src="https://static.wixstatic.com/media/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.png/v1/fill/w_192,h_38,al_c,q_85,usm_0.66_1.00_0.01/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.webp" alt="Seagage Inc" loading="lazy"/></a>
-  <a target="_blank" rel="noopener" href="https://www.creative-tim.com/templates/svelte?ref=svelte.dev"><img src="organisations/ct-logo-text-black.png" alt="Creative Tim" loading="lazy"/></a>
+  	<a target="_blank" rel="noopener" href="https://www.creative-tim.com/templates/svelte?ref=svelte.dev"><img src="organisations/ct-logo-text-black.png" alt="Creative Tim" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 
 </div>
