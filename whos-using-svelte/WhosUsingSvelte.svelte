@@ -131,6 +131,7 @@
 	<a target="_blank" rel="noopener" href="https://pankod.com"><img src="organisations/pankod.svg" alt="Pankod logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://paperform.co"><img src="organisations/paperform.svg" alt="Paperform logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://parthpatel.net"><img src="organisations/parthpatel.jpg" alt="Parth Patel logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://persona.guide"><img src="organisations/persona-guide.svg" alt="Persona Guide logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://phellowseven.com"><img src="organisations/phellowseven.svg" alt="phellow seven logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.philips.co.uk"><img src="organisations/philips.svg" alt="Philips logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.phonerefer.com"><img src="organisations/phonerefer.png" alt="PhoneRefer logo" loading="lazy"></a>
