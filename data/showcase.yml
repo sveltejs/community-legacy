@@ -222,3 +222,12 @@ sites:
     last_updated: "2020-10-31T22:15:00.000Z"
     description: >-
       Mélodie is an intuitive, portable and open source music player.
+  - name: Persona Guide
+    url: "https://persona.guide/"
+    imageUrl: "https://persona.guide/public-site/screenshot/pg-screenshot.jpg"
+    description: "User persona template and generator tools, tied to optional scenarios and empathy maps"
+    tags:
+      - Production App
+      - UX
+      - Productivity
+    last_updated: "2020-11-06T00:20:44Z"
