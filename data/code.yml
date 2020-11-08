@@ -26,8 +26,8 @@ resources:
       - components and libraries
       - inputs and widgets
     downloads: 170
-    stars: 79
-    last_updated: '2020-11-05T19:36:33Z'
+    stars: 81
+    last_updated: '2020-11-07T18:09:49Z'
   - name: '`sveltedoc-parser`'
     url: 'https://github.com/alexprey/sveltedoc-parser'
     description: Generate a JSON documentation for a Svelte component
@@ -184,8 +184,8 @@ resources:
     tags:
       - components and libraries
       - component sets
-    stars: 456
-    last_updated: '2020-11-07T06:48:09Z'
+    stars: 457
+    last_updated: '2020-11-07T23:54:20Z'
     downloads: 3328
   - name: '`@beyonk/gdpr-cookie-consent-banner`'
     url: 'https://github.com/beyonk-adventures/gdpr-cookie-consent-banner'
@@ -341,8 +341,8 @@ resources:
       - components and libraries
       - layout and structure
     downloads: 53
-    stars: 93
-    last_updated: '2020-10-29T14:11:02Z'
+    stars: 94
+    last_updated: '2020-11-07T20:23:42Z'
   - name: '`query-store`'
     url: 'https://github.com/buhrmi/query-store'
     description: Writable store that syncs with the browser's search params
@@ -350,16 +350,16 @@ resources:
       - components and libraries
       - stores and state
     downloads: 39
-    stars: 17
-    last_updated: '2020-08-31T17:38:49Z'
+    stars: 18
+    last_updated: '2020-11-08T01:08:49Z'
   - name: '`svelma`'
     url: 'https://github.com/c0bra/svelma'
     description: Bulma components for Svelte
     tags:
       - components and libraries
       - component sets
-    stars: 357
-    last_updated: '2020-10-31T14:51:34Z'
+    stars: 358
+    last_updated: '2020-11-07T23:37:33Z'
     downloads: 994
   - name: '`svelte-forms`'
     url: 'https://github.com/chainlist/svelte-forms'
@@ -437,8 +437,8 @@ resources:
       - components and libraries
       - layout and structure
     downloads: 633
-    stars: 105
-    last_updated: '2020-11-07T04:21:08Z'
+    stars: 106
+    last_updated: '2020-11-07T17:18:29Z'
   - name: '`svelte-moveable`'
     url: 'https://github.com/daybrush/moveable/tree/master/packages/svelte-moveable'
     description: >-
@@ -546,8 +546,8 @@ resources:
       Svelte built with SEO in mind.
     tags:
       - components and libraries
-    stars: 780
-    last_updated: '2020-11-06T23:00:59Z'
+    stars: 784
+    last_updated: '2020-11-08T03:15:00Z'
     downloads: 0
   - name: '`svelte-ie11`'
     url: 'https://github.com/elsonigo/svelte-ie11'
@@ -561,8 +561,8 @@ resources:
     description: A declarative Svelte routing library with SSR support
     tags:
       - routers
-    stars: 1097
-    last_updated: '2020-11-06T02:38:08Z'
+    stars: 1098
+    last_updated: '2020-11-07T11:03:58Z'
     downloads: 10848
   - name: '`svelte-rate-it`'
     url: 'https://github.com/emrekara37/svelte-rate-it'
@@ -667,17 +667,17 @@ resources:
     description: Svelte controlling native components via Nativescript
     tags:
       - native
-    stars: 720
-    last_updated: '2020-11-06T16:30:47Z'
+    stars: 721
+    last_updated: '2020-11-07T23:58:25Z'
     downloads: 943
   - name: '`svelte-typewriter`'
     url: 'https://github.com/henriquehbr/svelte-typewriter'
     description: A simple and reusable typewriter effect for your Svelte applications
     tags:
       - components and libraries
-    stars: 65
+    stars: 66
     downloads: 428
-    last_updated: '2020-11-05T21:59:55Z'
+    last_updated: '2020-11-07T17:51:07Z'
   - name: '`svb`'
     url: 'https://github.com/himynameisdave/svb'
     description: A zero-config CLI to bundle Svelte apps (WIP)
@@ -727,16 +727,16 @@ resources:
     description: A small starter template to get up and running with Svelte v3
     tags:
       - templates
-    stars: 35
-    last_updated: '2020-08-17T21:23:41Z'
+    stars: 36
+    last_updated: '2020-11-08T07:24:55Z'
   - name: '`svelte-material-ui`'
     url: 'https://github.com/hperrin/svelte-material-ui'
     description: Svelte Material UI Components
     tags:
       - components and libraries
       - component sets
-    stars: 1276
-    last_updated: '2020-11-06T16:02:47Z'
+    stars: 1277
+    last_updated: '2020-11-07T09:00:16Z'
     downloads: 2014
   - name: '`carbon-components-svelte`'
     url: 'https://github.com/IBM/carbon-components-svelte'
@@ -745,8 +745,8 @@ resources:
       - components and libraries
       - component sets
     downloads: 1307
-    stars: 420
-    last_updated: '2020-11-06T23:14:38Z'
+    stars: 421
+    last_updated: '2020-11-07T20:25:18Z'
   - name: '`attractions`'
     url: 'https://github.com/illright/attractions'
     description: A pretty cool UI kit for Svelte
@@ -781,8 +781,8 @@ resources:
       deploy to production, Open Source, MIT license
     tags:
       - templates
-    stars: 228
-    last_updated: '2020-11-07T07:18:12Z'
+    stars: 229
+    last_updated: '2020-11-08T04:39:40Z'
   - name: '`svelte-flatpickr`'
     url: 'https://github.com/jacobmischka/svelte-flatpickr'
     description: Flatpickr component for Svelte
@@ -807,8 +807,8 @@ resources:
       - integrations
       - bundler plugins
     downloads: 441
-    stars: 303
-    last_updated: '2020-11-01T00:18:12Z'
+    stars: 305
+    last_updated: '2020-11-08T07:42:36Z'
   - name: '`@jamen/svelte-router`'
     url: 'https://github.com/jamen/svelte-router'
     description: Svelte router using a store and components
@@ -847,8 +847,8 @@ resources:
     tags:
       - components and libraries
       - layout and structure
-    stars: 62
-    last_updated: '2020-10-18T18:32:59Z'
+    stars: 63
+    last_updated: '2020-11-07T19:09:07Z'
     downloads: 593
   - name: '`svelteml`'
     url: 'https://github.com/john--kane/svelteml'
@@ -906,7 +906,7 @@ resources:
       - components and libraries
       - internationalization
     stars: 366
-    last_updated: '2020-11-06T14:57:29Z'
+    last_updated: '2020-11-07T15:02:24Z'
     downloads: 8440
   - name: '`svelte-loadable`'
     url: 'https://github.com/kaisermann/svelte-loadable'
@@ -923,8 +923,8 @@ resources:
     tags:
       - integrations
       - preprocessors
-    stars: 852
-    last_updated: '2020-11-07T02:34:05Z'
+    stars: 855
+    last_updated: '2020-11-08T06:17:19Z'
     downloads: 39025
   - name: '`svero`'
     url: 'https://github.com/kazzkiq/svero'
@@ -1116,8 +1116,8 @@ resources:
     tags:
       - integrations
       - cli tools
-    stars: 2969
-    last_updated: '2020-11-02T18:02:20Z'
+    stars: 2968
+    last_updated: '2020-11-07T19:14:43Z'
     downloads: 1478
   - name: LunaTK/svelte-web-component-builder
     url: 'https://github.com/LunaTK/svelte-web-component-builder'
@@ -1131,8 +1131,8 @@ resources:
     description: Easy router for Svelte framework
     tags:
       - routers
-    stars: 76
-    last_updated: '2020-11-05T22:12:19Z'
+    stars: 77
+    last_updated: '2020-11-07T20:58:44Z'
   - name: '`svelte-inview`'
     url: 'https://github.com/maciekgrzybek/svelte-inview'
     description: "A Svelte component that monitors an element enters or leaves the viewport.\U0001F525"
@@ -1170,8 +1170,8 @@ resources:
       - components and libraries
       - component sets
       - web component sets
-    stars: 1263
-    last_updated: '2020-11-06T23:43:46Z'
+    stars: 1266
+    last_updated: '2020-11-08T05:07:56Z'
     downloads: 0
   - name: '`svelte-particles`'
     url: 'https://github.com/matteobruni/tsparticles'
@@ -1182,8 +1182,8 @@ resources:
       - components and libraries
       - component sets
       - web component sets
-    stars: 1263
-    last_updated: '2020-11-06T23:43:46Z'
+    stars: 1266
+    last_updated: '2020-11-08T05:07:56Z'
     downloads: 0
   - name: '`smelte`'
     url: 'https://github.com/matyunya/smelte'
@@ -1191,8 +1191,8 @@ resources:
     tags:
       - components and libraries
       - component sets
-    stars: 688
-    last_updated: '2020-11-06T09:03:50Z'
+    stars: 691
+    last_updated: '2020-11-07T23:41:44Z'
     downloads: 1187
   - name: '`svelte-image`'
     url: 'https://github.com/matyunya/svelte-image'
@@ -1218,16 +1218,16 @@ resources:
     tags:
       - components and libraries
       - forms and validation
-    stars: 136
-    last_updated: '2020-10-31T21:42:19Z'
+    stars: 137
+    last_updated: '2020-11-07T17:14:59Z'
     downloads: 1638
   - name: '`svelte-navigator`'
     url: 'https://github.com/mefechoel/svelte-navigator'
     description: 'Simple, declarative routing for single page apps built with Svelte'
     tags:
       - routers
-    stars: 57
-    last_updated: '2020-11-04T13:57:41Z'
+    stars: 58
+    last_updated: '2020-11-07T18:22:37Z'
     downloads: 308
   - name: '`svelte-slimscroll`'
     url: 'https://github.com/MelihAltintas/svelte-slimscroll'
@@ -1237,7 +1237,7 @@ resources:
     tags:
       - components and libraries
       - component sets
-    last_updated: '2020-11-06T22:53:32Z'
+    last_updated: '2020-11-07T19:36:59Z'
     stars: 4
   - name: Svelte for Meteor
     url: 'https://github.com/meteor-svelte/meteor-svelte'
@@ -1335,7 +1335,7 @@ resources:
       - ssr
       - templates
     stars: 14
-    last_updated: '2020-11-05T07:17:17Z'
+    last_updated: '2020-11-08T03:33:32Z'
   - name: 'Sapper - PostCSS, Tailwind CSS, PurgeCSS, cssnano'
     url: 'https://github.com/nhristov/sapper-template-rollup'
     description: >-
@@ -1344,7 +1344,7 @@ resources:
     tags:
       - templates
     stars: 20
-    last_updated: '2020-11-05T07:16:21Z'
+    last_updated: '2020-11-08T02:54:42Z'
   - name: nitro52/svelte-typescript-sass-template
     url: 'https://github.com/nitro52/svelte-typescript-sass-template'
     description: 'Template with Typescript, Sass, Storybook, Webpack'
@@ -1406,8 +1406,8 @@ resources:
       PostCSS, Jest, and .Env
     tags:
       - templates
-    stars: 189
-    last_updated: '2020-11-04T15:35:54Z'
+    stars: 191
+    last_updated: '2020-11-08T00:00:57Z'
   - name: '`svelte-intl`'
     url: 'https://github.com/Panya/svelte-intl'
     description: Internationalize your Svelte apps using format-message and Intl object
@@ -1457,8 +1457,8 @@ resources:
     description: A base for building Svelte component library
     tags:
       - templates
-    stars: 45
-    last_updated: '2020-11-07T02:01:03Z'
+    stars: 46
+    last_updated: '2020-11-07T18:11:10Z'
   - name: '`svelte-asyncable`'
     url: 'https://github.com/PaulMaly/svelte-asyncable'
     description: Asyncable store for Svelte 3 which is store a value as promise.
@@ -1510,8 +1510,8 @@ resources:
     tags:
       - routers
       - stores and state
-    stars: 40
-    last_updated: '2020-11-07T06:24:59Z'
+    stars: 42
+    last_updated: '2020-11-07T09:43:48Z'
     downloads: 77
   - name: '`svelte-ticker`'
     url: 'https://github.com/PaulMaly/svelte-ticker'
@@ -1604,8 +1604,8 @@ resources:
     tags:
       - integrations
       - preprocessors
-    stars: 539
-    last_updated: '2020-11-06T07:24:03Z'
+    stars: 540
+    last_updated: '2020-11-08T00:39:37Z'
     downloads: 6490
   - name: '`svelte-adapter`'
     url: 'https://github.com/pngwn/svelte-adapter'
@@ -1741,8 +1741,8 @@ resources:
       - components and libraries
       - charts
     downloads: 3065
-    stars: 561
-    last_updated: '2020-11-05T00:35:43Z'
+    stars: 562
+    last_updated: '2020-11-07T12:05:31Z'
   - name: Rich-Harris/svelte-template-electron
     url: 'https://github.com/Rich-Harris/svelte-template-electron'
     description: A template for building Electron apps with Svelte (**VERSION 2**)
@@ -1853,8 +1853,8 @@ resources:
     tags:
       - components and libraries
       - layout and structure
-    stars: 127
-    last_updated: '2020-11-05T16:37:01Z'
+    stars: 128
+    last_updated: '2020-11-07T18:44:29Z'
     downloads: 373
   - name: '`@slick-for/svelte`'
     url: 'https://github.com/shavyg2/slick-for-svelte'
@@ -1901,8 +1901,8 @@ resources:
       - inputs and widgets
       - forms and validation
       - interaction
-    stars: 8
-    last_updated: '2020-10-14T14:29:17Z'
+    stars: 9
+    last_updated: '2020-11-07T23:48:33Z'
   - name: '`svelte-infinite-loading`'
     url: 'https://github.com/Skayo/svelte-infinite-loading'
     description: An infinite scroll component for Svelte apps
@@ -1986,8 +1986,8 @@ resources:
     description: UI component dev & test
     tags:
       - testing
-    stars: 54625
-    last_updated: '2020-11-07T07:53:31Z'
+    stars: 54644
+    last_updated: '2020-11-08T08:04:24Z'
   - name: '`svelte-toolbox`'
     url: 'https://github.com/svelte-toolbox/svelte-toolbox'
     description: >-
@@ -2005,16 +2005,16 @@ resources:
     tags:
       - routers
       - ssr
-    stars: 899
-    last_updated: '2020-11-06T20:56:30Z'
+    stars: 900
+    last_updated: '2020-11-07T13:59:53Z'
     downloads: 478
   - name: sveltejs/component-template
     url: 'https://github.com/sveltejs/component-template'
     description: A base for building shareable Svelte components
     tags:
       - templates
-    stars: 318
-    last_updated: '2020-11-03T23:11:04Z'
+    stars: 320
+    last_updated: '2020-11-08T06:20:56Z'
   - name: '`@sveltejs/gestures`'
     url: 'https://github.com/sveltejs/gestures'
     description: Svelte actions for cross-platform gesture detection (work in progress)
@@ -2056,8 +2056,8 @@ resources:
     tags:
       - integrations
       - bundler plugins
-    stars: 406
-    last_updated: '2020-10-31T06:05:30Z'
+    stars: 407
+    last_updated: '2020-11-08T00:37:44Z'
     downloads: 52811
   - name: '`@sveltejs/svelte-repl`'
     url: 'https://github.com/sveltejs/svelte-repl'
@@ -2074,8 +2074,8 @@ resources:
     tags:
       - components and libraries
       - layout and structure
-    stars: 139
-    last_updated: '2020-11-01T14:54:10Z'
+    stars: 140
+    last_updated: '2020-11-07T10:05:41Z'
     downloads: 1043
   - name: '`@sveltejs/svelte-subdivide`'
     url: 'https://github.com/sveltejs/svelte-subdivide'
@@ -2102,8 +2102,8 @@ resources:
     description: Template for building basic applications with Svelte with rollup
     tags:
       - templates
-    stars: 845
-    last_updated: '2020-11-06T22:08:40Z'
+    stars: 847
+    last_updated: '2020-11-08T07:09:25Z'
   - name: sveltejs/template-custom-element
     url: 'https://github.com/sveltejs/template-custom-element'
     description: Template for building basic applications with Svelte and custom elements
@@ -2285,8 +2285,8 @@ resources:
     tags:
       - components and libraries
       - component sets
-    stars: 206
-    last_updated: '2020-11-01T11:59:01Z'
+    stars: 207
+    last_updated: '2020-11-07T16:34:17Z'
     downloads: 360
   - name: Vime
     url: 'https://github.com/vime-js/vime'
@@ -2296,8 +2296,8 @@ resources:
       - audio
       - components and libraries
       - inputs and widgets
-    stars: 1261
-    last_updated: '2020-11-07T05:36:34Z'
+    stars: 1263
+    last_updated: '2020-11-07T22:54:40Z'
   - name: '`s-offline`'
     url: 'https://github.com/vinayakkulkarni/s-offline'
     description: "\U0001F50C Simple Svelte component to detect offline & online changes."
