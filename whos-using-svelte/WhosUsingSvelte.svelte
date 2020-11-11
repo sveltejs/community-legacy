@@ -76,7 +76,7 @@
 	<a target="_blank" rel="noopener" href="https://db.nomics.world" style="background-color: #0f272f;"><picture><source type="image/webp" srcset="organisations/dbnomics.webp"><img src="organisations/dbnomics.jpg" alt="DBNomics logo" loading="lazy"></picture></a>
 	<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://dextra.com.br/pt/"><img src="organisations/dextra.png" alt="Dextra logo" loading="lazy"></a>
-	<a target="_blank" rel="noopener" href="https://drywa.dev" style="background-color: #6e3030;"><img src="organisations/drywa.svg" alt="Drywa logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://drywa.dev" style="background-color: #e95454;"><img src="organisations/drywa.svg" alt="Drywa logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://elderguide.com/"><img src="organisations/elderguide.svg" alt="Elder Guide logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.entriwise.com/"><img src="organisations/entriwise.png" alt="Entriwise logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.entur.org/about-entur/" style="background-color: #191954;"><img src="organisations/entur.svg" alt="Entur logo" loading="lazy"></a>
