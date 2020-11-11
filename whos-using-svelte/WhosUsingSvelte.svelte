@@ -71,6 +71,7 @@
 	<a target="_blank" rel="noopener" href="https://convincely.com/"><img src="organisations/convincely.svg" alt="Convincely logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cracss.com" style="background-color: #ff7000;"><img src="organisations/cracss.svg" alt="craCSS.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cygnet.io" style=" background-color: #2481d7; "><img src="organisations/cygnetdigital.svg" alt="Cygnet Digital logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.datacenterjournal.com"><img src="organisations/datacenterjournal.svg" alt="DataCenterJournal logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://db.nomics.world" style="background-color: #0f272f;"><picture><source type="image/webp" srcset="organisations/dbnomics.webp"><img src="organisations/dbnomics.jpg" alt="DBNomics logo" loading="lazy"></picture></a>
 	<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
