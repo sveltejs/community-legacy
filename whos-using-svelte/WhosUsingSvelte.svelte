@@ -151,6 +151,7 @@
 	<a target="_blank" rel="noopener" href="https://www.rewe-digital.com/en/"><img src="organisations/rewe-digital-logo.svg" alt="REWE digital logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://razorpay.com"><img src="organisations/razorpay.svg" alt="Razorpay logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://santiment.net"><img src="organisations/santiment.svg" alt="Santiment logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.se.com" style=" background-color: #3dcd58; "><img src="organisations/Schneider_Electric.svg" alt="Schneider Electric" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://SendGrowth.com"><img src="organisations/sendgrowth.svg" alt="SendGrowth logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://shipbit.de"><img src="organisations/shipbit.svg" alt="ShipBit logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://sp.nl"><img src="organisations/socialist-party.svg" alt="Socialist Party logo" loading="lazy"></a>
