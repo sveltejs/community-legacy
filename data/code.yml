@@ -2439,3 +2439,16 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`sidebar-swipe`'
+    url: 'https://github.com/Anyass3/sidebar-swipe'
+    description: This is a touch swipeable sidebar component made for that can be in any web project or svelte project 
+    tags:
+      - components and libraries
+      - sidebar
+      - swipe
+      - swipeable
+      - mobile
+      - layout and structure
+    stars: 0
+    last_updated: '2020-11-22T01:18:56Z'
+    downloads: 1
