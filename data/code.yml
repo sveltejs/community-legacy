@@ -151,8 +151,8 @@ resources:
   - name: '`sidebar-swipe`'
     url: 'https://github.com/Anyass3/sidebar-swipe'
     description: >-
-      This is a touch swipeable sidebar component made for svelte. But can be used in any
-      web project at the low level or as a custom element.
+      This is a touch swipeable sidebar component made for svelte. 
+      But can be used in any web project at the low level or as a custom element.
     tags:
       - components and libraries
       - sidebar
