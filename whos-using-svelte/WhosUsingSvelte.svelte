@@ -58,6 +58,7 @@
 	<a target="_blank" rel="noopener" href="https://anoram.com"><img src="organisations/anoram.svg" alt="Anoram logo" loading="lazy"></a>
   	<a target="_blank" rel="noopener" href="https://ant-hill.org"><img src="organisations/anthill.svg" alt="Ant Hill logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://appditto.com" style="background-color: #4c6aff;"><img src="organisations/appditto.svg" alt="Appditto logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://avast.com"><img src="organisations/avast.svg" alt="Avast logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://bekchy.com"><img src="organisations/bekchy.png" alt="Bekchy logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://beyonk.com"><img src="organisations/beyonk.svg" alt="Beyonk logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://blockvigil.com/"><img src="organisations/blockvigil.png" alt="BlockVigil logo" loading="lazy"></a>
