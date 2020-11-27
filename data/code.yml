@@ -2453,3 +2453,13 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-reactive-form`'
+    url: 'https://github.com/wetix/svelte-reactive-form'
+    description: A better version of form validation
+    tags:
+      - forms and validation
+      - validation
+      - form
+      - typescript
+    stars: 2
+    last_updated: '2020-11-27T00:00:00Z'
