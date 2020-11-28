@@ -68,6 +68,7 @@
 	<a target="_blank" rel="noopener" href="https://cashfree.com/" style="background-color: #4d3475;"><img src="organisations/cashfree.svg" alt="Cashfree logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://chess.com" style="background-color: #312e2b;"><img src="organisations/chess.svg" alt="Chess.com logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://app.cliniciannexus.com/"><img src="organisations/cliniciannexus.png" alt="Clinician Nexus logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://cloudedots.com"><img src="organisations/cloudedots.png" alt="Cloudedots" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://comigosaude.com.br"><img src="organisations/comigo.svg" alt="Comigo logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://constellationanalytics.com"><img src="organisations/constellation.svg" alt="Constellation Analytics logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://convincely.com/"><img src="organisations/convincely.svg" alt="Convincely logo" loading="lazy"></a>
@@ -195,7 +196,6 @@
 	<a target="_blank" rel="noopener" href="https://seagage.com"><img src="https://static.wixstatic.com/media/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.png/v1/fill/w_192,h_38,al_c,q_85,usm_0.66_1.00_0.01/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.webp" alt="Seagage Inc" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://www.creative-tim.com/templates/svelte?ref=svelte.dev"><img src="organisations/ct-logo-text-black.png" alt="Creative Tim" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://turgensec.com"><img src="organisations/TurgenSec.png" alt="TurgenSec" loading="lazy"/></a>
-	<a target="_blank" rel="noopener" href="https://cloudedots.com"><img src="organisations/cloudedots.png" alt="Cloudedots" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 
 </div>
