@@ -178,6 +178,7 @@
 	<a target="_blank" rel="noopener" href="https://vrstugan.se" style="background-color: #0f1f4c;"><img src="organisations/vrstugan.svg" alt="VRstugan logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://wait.nu" style="background-color: #00152A;"><img src="organisations/wait.svg" alt="Wait" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://webdesq.net"><img src="organisations/webdesq.svg" alt="Webdesq logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://wiresecure.com/"><img src="organisations/wiresecure.svg" alt="WireSecure logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://zeo.org/tr/"><img src="organisations/zeoagency.svg" alt="Zeo Agency logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://zevvle.com/"><img src="organisations/zevvle.svg" alt="Zevvle logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://gbit.lt/"><img src="organisations/gbit-logo.svg" alt="Gbit" loading="lazy"></a>
