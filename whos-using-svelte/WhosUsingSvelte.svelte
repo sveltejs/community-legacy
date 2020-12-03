@@ -169,6 +169,7 @@
 	<a target="_blank" rel="noopener" href="https://www.superchargify.com/"><img src="organisations/superchargify.svg" alt="Superchargify logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://swissdevjobs.ch/jobs/JavaScript/All" style="background-color: #1776d2;"><img src="organisations/swissdev-javascript-jobs.png" alt="SwissDev JavaScript Jobs" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://nytimes.com"><img src="organisations/nyt.svg" alt="The New York Times logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.techempower.com"><img src="organisations/techempower.svg" alt="TechEmpower logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://that.us"><img src="organisations/THAT-Full-Wide.svg" alt="THAT Conference logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://tsh.io"><img src="organisations/tsh.svg" alt="The Software House logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://thunderdome.dev"><img src="organisations/thunderdome.svg" alt="Thunderdome logo" loading="lazy"></a>
