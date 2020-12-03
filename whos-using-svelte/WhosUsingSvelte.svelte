@@ -73,6 +73,7 @@
 	<a target="_blank" rel="noopener" href="https://constellationanalytics.com"><img src="organisations/constellation.svg" alt="Constellation Analytics logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://convincely.com/"><img src="organisations/convincely.svg" alt="Convincely logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cracss.com" style="background-color: #ff7000;"><img src="organisations/cracss.svg" alt="craCSS.com logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://crocodaily.com"><img src="organisations/crocodaily.svg" alt="Crocodaily" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://cygnet.io" style=" background-color: #2481d7; "><img src="organisations/cygnetdigital.svg" alt="Cygnet Digital logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.datacenterjournal.com"><img src="organisations/datacenterjournal.svg" alt="DataCenterJournal logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
@@ -198,8 +199,7 @@
 	<a target="_blank" rel="noopener" href="https://seagage.com"><img src="https://static.wixstatic.com/media/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.png/v1/fill/w_192,h_38,al_c,q_85,usm_0.66_1.00_0.01/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.webp" alt="Seagage Inc" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://www.creative-tim.com/templates/svelte?ref=svelte.dev"><img src="organisations/ct-logo-text-black.png" alt="Creative Tim" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://turgensec.com"><img src="organisations/TurgenSec.png" alt="TurgenSec" loading="lazy"/></a>
-	<a target="_blank" rel="noopener" href="https://crocodaily.com"><img src="organisations/crocodaily.svg" alt="Crocodaily" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
-	
+
 
 </div>
