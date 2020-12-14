@@ -2453,3 +2453,11 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-tiny-virtual-list`'
+    url: 'https://github.com/Skayo/svelte-tiny-virtual-list'
+    description: A tiny but mighty list virtualization library for Svelte, with zero dependencies - Supports variable heights/widths, sticky items, scrolling to index, and more!
+    tags:
+      - components and libraries
+    stars: 3
+    last_updated: '2020-12-14T09:23:00Z'
+    downloads: 0
