@@ -2464,3 +2464,10 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-knob`'
+    url: 'https://github.com/MelihAltintas/svelte-knob'
+    description: Knob control for Svelte.js
+    tags:
+      - components and libraries
+      - component sets
+    stars: 0
