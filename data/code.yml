@@ -2464,3 +2464,13 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`florence`'
+    url: 'https://gitlab.com/spatialnetworkslab/florence'
+    description: Data visualization framework, based on the grammar of graphics.
+    tags:
+      - components and libraries
+      - charts
+      - visualization
+    stars: 0
+    last_updated: '2021-01-05T00:00:00Z'
+    downloads: 193
