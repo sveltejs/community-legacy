@@ -2471,3 +2471,10 @@ resources:
       - components and libraries
       - component sets
     stars: 0
+  - name: '`svelte-types-writer`'
+    url: 'https://github.com/micha-lmxt/svelte-types-writer'
+    description: Export nice typescript types declarations .d.ts files based form .svelte files
+    tags:
+      - typescript
+      - cli tools
+    stars: 6
