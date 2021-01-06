@@ -2472,3 +2472,28 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-knob`'
+    url: 'https://github.com/MelihAltintas/svelte-knob'
+    description: Knob control for Svelte.js
+    tags:
+      - components and libraries
+      - component sets
+    stars: 0
+  - name: '`svelte-types-writer`'
+    url: 'https://github.com/micha-lmxt/svelte-types-writer'
+    description: Export nice typescript types declarations .d.ts files based form .svelte files
+    tags:
+      - typescript
+      - cli tools
+    stars: 6
+  - name: '`svelte-wired-types`'
+    url: 'https://github.com/micha-lmxt/svelte-wired-types'
+    description: Typescript type definition files for wired js, a sketchy web-components library, for Svelte
+    tags:
+      - typescript
+      - web component sets
+  - name: '`sapper-smelte-app`'
+    url: 'https://github.com/micha-lmxt/sapper-smelte-app'
+    description: A template for the use of sapper with smelte
+    tags:
+      - templates
