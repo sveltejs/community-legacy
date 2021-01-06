@@ -2478,3 +2478,8 @@ resources:
       - typescript
       - cli tools
     stars: 6
+  - name: '`svelte-wired-types`'
+    url: 'https://github.com/micha-lmxt/svelte-wired-types'
+    description: Typescript type definition files for wired js, a sketchy web-components library, for Svelte
+    tags:
+      - typescript
