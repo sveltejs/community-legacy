@@ -2483,3 +2483,9 @@ resources:
     description: Typescript type definition files for wired js, a sketchy web-components library, for Svelte
     tags:
       - typescript
+      - web component sets
+  - name: '`sapper-smelte-app`'
+    url: 'https://github.com/micha-lmxt/sapper-smelte-app'
+    description: A template for the use of sapper with smelte
+    tags:
+      - templates
