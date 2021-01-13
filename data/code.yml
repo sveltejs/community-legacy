@@ -1,4 +1,16 @@
 resources:
+  - name: '`svelte-appwrite`'
+    url: 'https://github.com/appwrite/sdk-for-svelte'
+    description: A native Svelte SDK to integrate with the Appwrite BaaS API
+    tags:
+      - third party services
+      - components and libraries
+      - integrations
+      - auth
+      - database
+    stars: 244
+    last_updated: '2021-01-12T09:52:47Z'
+    downloads: 2584
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
