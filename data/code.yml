@@ -2507,3 +2507,10 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`descent-ripple`'
+    url: 'https://github.com/micha-lmxt/descent-ripple'
+    description: A highly customizable ripple-effect animation for buttons.
+    tags:
+      - components and libraries
+      - inputs and widgets
+      - interaction
