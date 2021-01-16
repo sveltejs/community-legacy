@@ -1,16 +1,4 @@
 resources:
-  - name: '`svelte-appwrite`'
-    url: 'https://github.com/appwrite/sdk-for-svelte'
-    description: A native Svelte SDK to integrate with the Appwrite BaaS API
-    tags:
-      - third party services
-      - components and libraries
-      - integrations
-      - auth
-      - database
-    stars: 244
-    last_updated: '2021-01-12T09:52:47Z'
-    downloads: 2584
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
@@ -174,6 +162,18 @@ resources:
     stars: 1
     last_updated: '2021-01-05T00:28:32Z'
     downloads: 1
+  - name: '`svelte-appwrite`'
+    url: 'https://github.com/appwrite/sdk-for-svelte'
+    description: A native Svelte SDK to integrate with the Appwrite BaaS API
+    tags:
+      - third party services
+      - components and libraries
+      - integrations
+      - auth
+      - database
+    stars: 244
+    last_updated: '2021-01-12T09:52:47Z'
+    downloads: 2584
   - name: '`svelte-formly`'
     url: 'https://github.com/arabdevelop/svelte-formly'
     description: Generate dynamic forms for sveltejs / Sapper js
@@ -1298,6 +1298,13 @@ resources:
     downloads: 1345
     stars: 306
     last_updated: '2021-01-14T17:04:51Z'
+  - name: '`descent-ripple`'
+    url: 'https://github.com/micha-lmxt/descent-ripple'
+    description: A highly customizable ripple-effect animation for buttons.
+    tags:
+      - components and libraries
+      - inputs and widgets
+      - interaction
   - name: '`sapper-smelte-app`'
     url: 'https://github.com/micha-lmxt/sapper-smelte-app'
     description: A template for the use of sapper with smelte
@@ -2519,10 +2526,3 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
-  - name: '`descent-ripple`'
-    url: 'https://github.com/micha-lmxt/descent-ripple'
-    description: A highly customizable ripple-effect animation for buttons.
-    tags:
-      - components and libraries
-      - inputs and widgets
-      - interaction
