@@ -80,6 +80,7 @@
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://db.nomics.world" style="background-color: #0f272f;"><picture><source type="image/webp" srcset="organisations/dbnomics.webp"><img src="organisations/dbnomics.jpg" alt="DBNomics logo" loading="lazy"></picture></a>
 	<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.devzonetech.com/"><img src="organisations/devzonetech.png" alt="Devzone tech" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://dextra.com.br/pt/"><img src="organisations/dextra.png" alt="Dextra logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://drywa.dev" style="background-color: #e95454;"><img src="organisations/drywa.svg" alt="Drywa logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://elderguide.com/"><img src="organisations/elderguide.svg" alt="Elder Guide logo" loading="lazy"></a>
