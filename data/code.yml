@@ -2528,3 +2528,11 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-slider`'
+    url: 'https://github.com/bravecow/svelte-slider'
+    description: single and range sliders
+    tags:
+      - components and libraries
+    stars: 7
+    last_updated: '2020-05-20T14:25:37Z'
+    downloads: 77
