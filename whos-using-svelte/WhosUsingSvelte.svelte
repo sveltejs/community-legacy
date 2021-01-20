@@ -78,6 +78,7 @@
 	<a target="_blank" rel="noopener" href="https://cygnet.io" style=" background-color: #2481d7; "><img src="organisations/cygnetdigital.svg" alt="Cygnet Digital logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://www.datacenterjournal.com"><img src="organisations/datacenterjournal.svg" alt="DataCenterJournal logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://datawrapper.de"><img src="organisations/datawrapper.svg" alt="Datawrapper logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://daydream.software"><img src="organisations/daydream.svg" alt="Daydream logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://db.nomics.world" style="background-color: #0f272f;"><picture><source type="image/webp" srcset="organisations/dbnomics.webp"><img src="organisations/dbnomics.jpg" alt="DBNomics logo" loading="lazy"></picture></a>
 	<a target="_blank" rel="noopener" href="https://deck.nl"><img src="organisations/deck.svg" alt="Deck logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://dextra.com.br/pt/"><img src="organisations/dextra.png" alt="Dextra logo" loading="lazy"></a>
