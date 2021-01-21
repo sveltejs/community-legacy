@@ -10,18 +10,19 @@
 `href`, `src`, `alt` are required.
 
 `style` and `picture` are optional.
-```json
+```javascript
 {
-    "href":"https://your-company.com",
-    "src": "organisations/yourCompanyLogo.svg",
-	"alt":"Your Company logo",
+    href: "https://your-company.com",
+    src: "organisations/yourCompanyLogo.svg",
+    alt: "Your Company logo",
     // optional
-	"style":"optional styling",
-    "picture": [
+    style: "optional styling",
+    picture: [
         {
-            "type": "image/webp",
-            "srcset": "organisations/yourCompanyLogo.webp"
-        }
+            type: "image/webp",
+            srcset: "organisations/yourCompanyLogo.webp"
+        },
+        ...
     ]
 }
 ```
