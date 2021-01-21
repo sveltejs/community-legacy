@@ -768,11 +768,6 @@ export const companies = [
 			alt: "Gieson TimeTrek Logo"
 		},
 		{
-			href: "https://iwillcodeit.io",
-			src: "https://iwillcodeit.io/images/logo-letters-only.svg",
-			alt: "I Will Code It EURL"
-		},
-		{
 			href: "https://alphaweb.gap.im",
 			src: "organisations/gap.png",
 			alt: "Gap Messenger" 
@@ -803,11 +798,6 @@ export const companies = [
 			alt: "Transloadit" 
 		},
 		{
-			href: "https://seagage.com",
-			src: "https://static.wixstatic.com/media/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.png/v1/fill/w_192,h_38,al_c,q_85,usm_0.66_1.00_0.01/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.webp",
-			alt: "Seagage Inc" 
-		},
-		{
 			href: "https://www.creative-tim.com/templates/svelte?ref=svelte.dev",
 			src: "organisations/ct-logo-text-black.png",
 			alt: "Creative Tim" 
@@ -816,15 +806,5 @@ export const companies = [
 			href: "https://turgensec.com",
 			src: "organisations/TurgenSec.png",
 			alt: "TurgenSec" 
-		},
-		{
-			href: "https://yatagarasu.vercel.app/",
-			src: "https://yt3.ggpht.com/a/AATXAJy5ifhPq1BR87Hhh3ltx5swo5tn_uylAmsL5ZAQMg=s900-c-k-c0xffffffff-no-rj-mo",
-			alt: "Yatagarasu logo"
-		},
-		{
-			href: "https://oliveoilseason.com",
-			src: "https://static.oliveoilseason.com/g/images/logo/2020/191219_OOS_Logo__120w.png",
-			alt: "Olive Oil Season logo"
 		},
 ];
