@@ -39,7 +39,9 @@
 </style>
 
 <div class="logos">
-	{#each companies as {href, src, alt, style, picture, span}}
+	{#each companies
+		.sort((a, b) => a.alt.localeCompare(b.alt, undefined, { sensitivity: 'base' }))
+		as {href, src, alt, style, picture, span}}
 		<a
 			target="_blank"
 			rel="noopener"

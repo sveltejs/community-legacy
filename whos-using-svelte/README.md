@@ -4,7 +4,8 @@
 * Create a branch called e.g. `add-myorganisation-logo`
 * Make changes to `WhosUsingSvelte.js` file
 * Add the logo to the `organisations` directory (preferably SVG)
-* Add a new entry in **alphabetical order** Create a pull request. Thanks!
+* Add a new entry
+* Create a pull request. Thanks!
 
 ### JSON format
 `href`, `src`, `alt` are required.
