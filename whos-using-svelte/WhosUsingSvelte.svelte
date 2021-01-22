@@ -1,5 +1,11 @@
 <script>
 	import { companies } from './WhosUsingSvelte.js';
+
+	const replacer = ({alt}) => alt.replac('&', 'and');
+
+	const doSort = (a, b) => replacer(a).localeCompare(replacer(b), undefined, { sensitivity: 'base' });
+
+	const sortedCompanies = companies.sort(doSort)
 </script>
 
 <style>
@@ -39,9 +45,7 @@
 </style>
 
 <div class="logos">
-	{#each companies
-		.sort((a, b) => a.alt.localeCompare(b.alt, undefined, { sensitivity: 'base' }))
-		as {href, src, alt, style, picture, span}}
+	{#each sortedCompanies as {href, src, alt, style, picture, span}}
 		<a
 			target="_blank"
 			rel="noopener"
