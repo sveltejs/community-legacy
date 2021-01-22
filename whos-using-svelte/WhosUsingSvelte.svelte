@@ -201,7 +201,7 @@
 	<a target="_blank" rel="noopener" href="https://seagage.com"><img src="https://static.wixstatic.com/media/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.png/v1/fill/w_192,h_38,al_c,q_85,usm_0.66_1.00_0.01/3e1d33_2e8f3c427913446ea9091cdc903cd4fb~mv2.webp" alt="Seagage Inc" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://www.creative-tim.com/templates/svelte?ref=svelte.dev"><img src="organisations/ct-logo-text-black.png" alt="Creative Tim" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://turgensec.com"><img src="organisations/TurgenSec.png" alt="TurgenSec" loading="lazy"/></a>
-	<a target="_blank" rel="noopener" href="https://wetix.my" class="WeTix"><img src="organisations/wetix.svg" alt="WeTix" loading="lazy"/></a>
+	<a target="_blank" rel="noopener" href="https://wetix.my"><img src="organisations/wetix.svg" alt="WeTix" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://yatagarasu.vercel.app/"><img src="https://yt3.ggpht.com/a/AATXAJy5ifhPq1BR87Hhh3ltx5swo5tn_uylAmsL5ZAQMg=s900-c-k-c0xffffffff-no-rj-mo" alt="Yatagarasu logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 
