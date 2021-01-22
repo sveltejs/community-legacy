@@ -1,7 +1,7 @@
 <script>
 	import { companies } from './WhosUsingSvelte.js';
 
-	const replacer = ({alt}) => alt.replac('&', 'and');
+	const replacer = ({alt}) => alt.replace('&', 'and');
 
 	const doSort = (a, b) => replacer(a).localeCompare(replacer(b), undefined, { sensitivity: 'base' });
 
