@@ -807,4 +807,10 @@ export const companies = [
 			src: "organisations/TurgenSec.png",
 			alt: "TurgenSec" 
 		},
+		{
+			href: "https://emakinacee.com/",
+			style: "background-color:#000;",
+			src: "organisations/emakina-cee.svg",
+			alt: "Emakina CEE Logo"
+		},
 ];
