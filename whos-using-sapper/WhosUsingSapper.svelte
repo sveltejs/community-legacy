@@ -45,5 +45,5 @@
 </style>
 
 <div class="logos">
-	<a target="_blank" rel="noopener" href="https://alextomas.com"><img src="organisations/alextomas.png" alt="Alex Tomás - Frontend" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-sapper/WhosUsingSapper.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
