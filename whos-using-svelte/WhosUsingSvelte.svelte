@@ -203,6 +203,7 @@
 	<a target="_blank" rel="noopener" href="https://turgensec.com"><img src="organisations/TurgenSec.png" alt="TurgenSec" loading="lazy"/></a>
 	<a target="_blank" rel="noopener" href="https://yatagarasu.vercel.app/"><img src="https://yt3.ggpht.com/a/AATXAJy5ifhPq1BR87Hhh3ltx5swo5tn_uylAmsL5ZAQMg=s900-c-k-c0xffffffff-no-rj-mo" alt="Yatagarasu logo" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://oliveoilseason.com"><img src="https://static.oliveoilseason.com/g/images/logo/2020/191219_OOS_Logo__120w.png" alt="Olive Oil Season logo" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.alextomas.com"><img src="organisations/alextomas.png" alt="Alex Tomás - Frontend developer" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 
 
