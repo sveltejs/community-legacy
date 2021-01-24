@@ -806,5 +806,11 @@ export const companies = [
 			href: "https://turgensec.com",
 			src: "organisations/TurgenSec.png",
 			alt: "TurgenSec" 
+
+		},		
+    {
+			href: "https://alextomas.com",
+			src: "organisations/alextomas.png",
+			alt: "Alex Tomás - Frontend developer" 
 		},
 ];
