@@ -813,4 +813,10 @@ export const companies = [
 			src: "organisations/alextomas.png",
 			alt: "Alex Tomás - Frontend developer" 
 		},
+		{
+			href: "https://emakinacee.com/",
+			style: "background-color:#000;",
+			src: "organisations/emakina-cee.svg",
+			alt: "Emakina CEE Logo"
+		},
 ];
