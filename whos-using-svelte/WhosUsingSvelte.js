@@ -470,6 +470,11 @@ export const companies = [
 			alt: "Ofof logo"
 		},
 		{
+			href: "https://ogma.app",
+			src: "organisations/ogma.svg",
+			alt: "Ogma logo"
+		},
+		{
 			href: "https://omniawrite.com/",
 			style: "background-color: #5c3552;",
 			src: "organisations/omniawrite.svg",
@@ -758,7 +763,7 @@ export const companies = [
 		},
 		{
 			href: "https://sel-home.us",
-			src:"organisations/sel_home.png",
+			src: "organisations/sel_home.png",
 			alt: "Sel home"
 		},
 		{
@@ -770,48 +775,48 @@ export const companies = [
 		{
 			href: "https://alphaweb.gap.im",
 			src: "organisations/gap.png",
-			alt: "Gap Messenger" 
+			alt: "Gap Messenger"
 		},
 		{
 			href: "https://zencity.io",
 			src: "organisations/zencity.svg",
-			alt: "Zencity" 
+			alt: "Zencity"
 		},
 		{
 			href: "https://strollyn.com",
 			src: "organisations/strollyn.svg",
-			alt: "STROLLÿN" 
+			alt: "STROLLÿN"
 		},
 		{
 			href: "http://agileleaf.com",
 			src: "organisations/agileleaf.svg",
-			alt: "Agile Leaf" 
+			alt: "Agile Leaf"
 		},
 		{
 			href: "https://tproger.ru",
 			src: "organisations/tproger.svg",
-			alt: "Tproger («Типичный программист»)" 
+			alt: "Tproger («Типичный программист»)"
 		},
 		{
 			href: "https://transloadit.com",
 			src: "organisations/transloadit.svg",
-			alt: "Transloadit" 
+			alt: "Transloadit"
 		},
 		{
 			href: "https://www.creative-tim.com/templates/svelte?ref=svelte.dev",
 			src: "organisations/ct-logo-text-black.png",
-			alt: "Creative Tim" 
+			alt: "Creative Tim"
 		},
 		{
 			href: "https://turgensec.com",
 			src: "organisations/TurgenSec.png",
-			alt: "TurgenSec" 
+			alt: "TurgenSec"
 
-		},		
-    {
+		},
+		{
 			href: "https://alextomas.com",
 			src: "organisations/alextomas.png",
-			alt: "Alex Tomás - Frontend developer" 
+			alt: "Alex Tomás - Frontend developer"
 		},
 		{
 			href: "https://emakinacee.com/",
