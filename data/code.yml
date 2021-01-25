@@ -2544,3 +2544,10 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-number-spinner`'
+    url: 'https://github.com/bohnacker/svelte-number-spinner'
+    description: A number input field that can be controlled with mouse and keyboard 
+    tags:
+      - components and libraries
+      - inputs and widgets
+      - interaction
