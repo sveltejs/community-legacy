@@ -2,7 +2,8 @@ export const companies = [
 		{
 			href: "https://1password.com",
 			src: "organisations/1password.png",
-			alt: "1Password logo"
+			alt: "1Password logo",
+			prominent: true,
 		},
 		{
 			href: "https://www.9kawin.co.th",
@@ -38,7 +39,8 @@ export const companies = [
 			href: "https://www.alaskaair.com/",
 			style: "background-color: #01426a;",
 			src: "organisations/alaskaairlines.svg",
-			alt: "Alaska Airlines logo"
+			alt: "Alaska Airlines logo",
+			prominent: true,
 		},
 		{
 			href: "https://www.andcru.io",
@@ -69,7 +71,8 @@ export const companies = [
 		{
 			href: "https://avast.com",
 			src: "organisations/avast.svg",
-			alt: "Avast logo"
+			alt: "Avast logo",
+			prominent: true,
 		},
 		{
 			href: "https://bekchy.com",
@@ -111,7 +114,8 @@ export const companies = [
 			href: "https://chess.com",
 			style: "background-color: #312e2b;",
 			src: "organisations/chess.svg",
-			alt: "Chess.com logo"
+			alt: "Chess.com logo",
+			prominent: true,
 		},
 		{
 			href: "https://chudovo.de",
@@ -268,7 +272,8 @@ export const companies = [
 		{
 			href: "https://fusioncharts.com",
 			src: "organisations/fusioncharts.svg",
-			alt: "FusionCharts logo"
+			alt: "FusionCharts logo",
+			prominent: true,
 		},
 		{
 			href: "https://gilalas.com",
@@ -278,7 +283,8 @@ export const companies = [
 		{
 			href: "https://godaddy.com",
 			src: "organisations/godaddy.svg",
-			alt: "GoDaddy logo"
+			alt: "GoDaddy logo",
+			prominent: true,
 		},
 		{
 			href: "https://www.gojek.io/",
@@ -381,7 +387,8 @@ export const companies = [
 		{
 			href: "https://media.lesechos.fr/infographie",
 			src: "organisations/les-echos.svg",
-			alt: "Les Echos"
+			alt: "Les Echos",
+			prominent: true,
 		},
 		{
 			href: "https://www.lessondesk.com",
@@ -523,7 +530,8 @@ export const companies = [
 		{
 			href: "https://www.philips.co.uk",
 			src: "organisations/philips.svg",
-			alt: "Philips logo"
+			alt: "Philips logo",
+			prominent: true,
 		},
 		{
 			href: "https://www.phonerefer.com",
@@ -573,7 +581,8 @@ export const companies = [
 		{
 			href: "https://global.rakuten.com/corp/",
 			src: "organisations/rakuten.svg",
-			alt: "Rakuten logo"
+			alt: "Rakuten logo",
+			prominent: true,
 		},
 		{
 			href: "https://www.rewe-digital.com/en/",
@@ -583,7 +592,8 @@ export const companies = [
 		{
 			href: "https://razorpay.com",
 			src: "organisations/razorpay.svg",
-			alt: "Razorpay logo"
+			alt: "Razorpay logo",
+			prominent: true,
 		},
 		{
 			href: "https://santiment.net",
@@ -594,7 +604,8 @@ export const companies = [
 			href: "https://www.se.com",
 			style: " background-color: #3dcd58; ",
 			src: "organisations/Schneider_Electric.svg",
-			alt: "Schneider Electric"
+			alt: "Schneider Electric",
+			prominent: true,
 		},
 		{
 			href: "https://SendGrowth.com",
@@ -662,7 +673,8 @@ export const companies = [
 		{
 			href: "https://nytimes.com",
 			src: "organisations/nyt.svg",
-			alt: "The New York Times logo"
+			alt: "The New York Times logo",
+			prominent: true,
 		},
 		{
 			href: "https://www.techempower.com",
@@ -808,7 +820,7 @@ export const companies = [
 			alt: "TurgenSec" 
 
 		},		
-    {
+    	{
 			href: "https://alextomas.com",
 			src: "organisations/alextomas.png",
 			alt: "Alex Tomás - Frontend developer" 
