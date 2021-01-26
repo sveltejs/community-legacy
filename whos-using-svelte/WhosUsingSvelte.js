@@ -384,6 +384,11 @@ export const companies = [
 			alt: "Koodoo logo"
 		},
 		{
+			href: "https://laybuy.com",
+			src: "organisations/laybuy.svg",
+			alt: "Laybuy logo"
+		},
+		{
 			href: "https://media.lesechos.fr/infographie",
 			src: "organisations/les-echos.svg",
 			alt: "Les Echos"
