@@ -157,5 +157,6 @@
 	<a target="_blank" rel="noopener" href="https://budgetbranders.com/"><img src="organisations/budget-branders-logo.svg" alt="Budget Branders" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://cakcuk.io"><img src="organisations/cakcuk.svg" alt="Cakcuk logo" loading="lazy"></a>
   <a target="_blank" rel="noopener" href="https://sel-home.us"><img  src="organisations/sel_home.png"  alt="Sel home" loading="lazy"></a>
+	<a target="_blank" rel="noopener" href="https://www.idealyou.us/"><img src="organisations/ideal-you-logo.svg" alt="Ideal You" loading="lazy"></a>
 	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
 </div>
