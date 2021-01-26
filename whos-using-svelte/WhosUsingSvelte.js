@@ -839,4 +839,10 @@ export const companies = [
 			src: "organisations/emakina-cee.svg",
 			alt: "Emakina CEE Logo"
 		},
+	        {
+			href: "https://www.idealyou.us/",
+			style: "background-color:#000;",
+			src: "organisations/ideal-you-logo.svg",
+			alt: "Ideal You Logo"
+		},
 ];
