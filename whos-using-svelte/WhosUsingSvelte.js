@@ -425,6 +425,11 @@ export const companies = [
 			alt: "Metrovias logo"
 		},
 		{
+			href: "https://moselo.com",
+			src: "organisations/moselo.svg",
+			alt: "Moselo logo"
+		},
+		{
 			href: "http://mustlab.ru",
 			src: "organisations/mustlab.png",
 			alt: "Mustlab logo"
