@@ -171,6 +171,11 @@ export const companies = [
 			alt: "Datawrapper logo"
 		},
 		{
+			href: "https://daydream.software",
+			src: "organisations/daydream.svg",
+			alt: "Daydream logo"
+		},
+		{
 			href: "https://db.nomics.world",
 			style: "background-color: #0f272f;",
 			picture: [
