@@ -1,11 +1,14 @@
 <script>
 	import { companies } from './WhosUsingSvelte.js';
 
-	const replacer = ({alt}) => alt.replace('&', 'and');
+	const randomizer = ({prominent}) =>  Math.random() + !!prominent;
 
-	const doSort = (a, b) => replacer(a).localeCompare(replacer(b), undefined, { sensitivity: 'base' });
+	const doSort = (a, b) => randomizer(b) - randomizer(a);
 
 	const sortedCompanies = companies.sort(doSort)
+
+	let showMore;
+	$: limitCompanies = showMore ? Infinity : 35;
 </script>
 
 <style>
@@ -15,7 +18,7 @@
 		flex-wrap: wrap;
 	}
 
-	a {
+	a, button {
 		height: 40px;
 		margin: 0 0.5em 0.5em 0;
 		display: flex;
@@ -24,6 +27,10 @@
 		padding: 5px 10px;
 		border-radius: 20px;
 		color: var(--text);
+	}
+
+	button {
+		height: 50px;
 	}
 
 	.add-yourself {
@@ -45,27 +52,39 @@
 </style>
 
 <div class="logos">
-	{#each sortedCompanies as {href, src, alt, style, picture, span}}
-		<a
-			target="_blank"
-			rel="noopener"
-			{href}
-			style="{style || ''}">
-			{#if picture}
-				<picture>
-					{#each picture as {type, srcset}}
-						<source {type} {srcset}>
-					{/each}
+	{#each sortedCompanies as {href, src, alt, style, picture, span}, index}
+		{#if index < limitCompanies}
+			<a
+				target="_blank"
+				rel="noopener"
+				{href}
+				style="{style || ''}">
+				{#if picture}
+					<picture>
+						{#each picture as {type, srcset}}
+							<source {type} {srcset}>
+						{/each}
+						<img {src} {alt} loading="lazy">
+					</picture>
+				{:else}
 					<img {src} {alt} loading="lazy">
-				</picture>
-			{:else}
-				<img {src} {alt} loading="lazy">
-				{#if span}
-					<span>{span}</span>
+					{#if span}
+						<span>{span}</span>
+					{/if}
 				{/if}
-			{/if}
-		</a>
+			</a>
+		{/if}
 	{/each}
-
-	<a target="_blank" rel="noopener" href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte" class="add-yourself"><span>+ your company?</span></a>
+	<button
+		on:click={() => showMore = !showMore}
+		class="add-yourself">
+		<span>show {showMore ? 'less' : 'more'}</span>
+	</button>
+	<a
+		target="_blank"
+		rel="noopener"
+		href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte"
+		class="add-yourself">
+		<span>+ your company?</span>
+	</a>
 </div>
