@@ -2551,3 +2551,13 @@ resources:
       - components and libraries
       - inputs and widgets
       - interaction
+  - name: '`@snlab/florence`'
+    url: 'https://gitlab.com/spatialnetworkslab/florence'
+    description: Data visualization framework, based on the grammar of graphics.
+    tags:
+      - components and libraries
+      - charts
+      - visualization
+    stars: 0
+    last_updated: '2021-01-05T00:00:00Z'
+    downloads: 193
