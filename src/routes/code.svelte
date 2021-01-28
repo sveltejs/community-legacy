@@ -6,9 +6,7 @@
 </script>
 
 <script>
-  import { onMount } from "svelte";
-  import { Hero, Blurb } from "@sveltejs/site-kit";
-  import Event from "components/Event.svelte";
+  import { Hero } from "@sveltejs/site-kit";
   import Box from "components/Box.svelte";
   import Resource from "components/Resource.svelte";
   import TwoColumns from "components/TwoColumns.svelte";
@@ -54,6 +52,23 @@
   }
 
   $: results = searchResults || selectedResources;
+
+  const scroll = (ev) => {
+    const wrapper = ev.currentTarget;
+    const sidebar = wrapper.closest('.stickySidebar');
+    const sidebarStyle = document.defaultView.getComputedStyle(sidebar);
+    const isSticky = sidebarStyle.position === 'sticky';
+    const getsStuckAt = parseInt(sidebarStyle.top);
+    const isStuck = isSticky && sidebar.getBoundingClientRect().top === getsStuckAt;
+    if (!isStuck) return;
+    const currentPosition = parseInt(wrapper.style.top || 0);
+    const newPosition = Math.min(0, currentPosition + ev.wheelDeltaY / 2);
+    if (currentPosition === newPosition) return;
+    const lastTagRect = wrapper.querySelector('code:last-of-type').getBoundingClientRect();
+    if (window.innerHeight > lastTagRect.bottom && currentPosition > newPosition) return;
+    ev.preventDefault();
+    wrapper.style.top = `${newPosition}px`;
+  };
 </script>
 
 <style>
@@ -78,6 +93,21 @@
     box-sizing: border-box;
     border: 1px solid #ccc;
     border-radius: 2px;
+  }
+
+  .tags-container,
+  .tags-wrapper {
+    position: relative;
+  }
+  .tags-container {
+    overflow: hidden;
+  }
+
+  .tags-wrapper {
+    max-width: 430px;
+    display: flex;
+    flex-wrap: wrap;
+    transition: all .3s ease-out;
   }
 </style>
 
@@ -126,17 +156,18 @@
         <input bind:value={searchterm} placeholder="fuzzy filter resources" />
       </label>
     </Box>
-    <!-- TODO container needs proper styling -->
-    <div style="max-width: 430px; display: flex; flex-wrap: wrap;">
-      {#each tags as tag}
-        <Tag
-          name={tag}
-          selected={$selectedTags.has(tag)}
-          toggle={selectedTags.toggle} />
-      {/each}
-      {#if $selectedTags.size}
-        <ClearTagsButton clear={selectedTags.clear} />
-      {/if}
+    <div class="tags-container">
+      <div class="tags-wrapper" on:mousewheel={scroll}>
+        {#each tags as tag}
+          <Tag
+            name={tag}
+            selected={$selectedTags.has(tag)}
+            toggle={selectedTags.toggle} />
+        {/each}
+        {#if $selectedTags.size}
+          <ClearTagsButton clear={selectedTags.clear} />
+        {/if}
+      </div>
     </div>
   </div>
 </TwoColumns>
