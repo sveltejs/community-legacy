@@ -6,6 +6,12 @@ export const companies = [
 			prominent: true,
 		},
 		{
+			href: "https://yellowpop.com",
+			src: "organisations/yellowpop.svg",
+			alt: "Yellowpop logo",
+			prominent: true
+		},
+		{
 			href: "https://www.9kawin.co.th",
 			src: "organisations/9kawin.svg",
 			alt: "9Kawin logo"
