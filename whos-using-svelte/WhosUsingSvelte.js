@@ -398,6 +398,7 @@ export const companies = [
 		{
 			href: "https://laybuy.com",
 			src: "organisations/laybuy.svg",
+			style: "background-color: #786DFF; color: white;",
 			alt: "Laybuy logo"
 		},
 		{
