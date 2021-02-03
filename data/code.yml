@@ -2563,3 +2563,12 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`stores-x`'
+    url: 'https://github.com/Anyass3/stores-x'
+    description: use svelte stores like vuex
+    tags:
+      - stores and state
+      - vuex
+    stars: 1
+    last_updated: '2021-02-03T21:22:18.143Z'
+    downloads: 2
