@@ -2572,3 +2572,10 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`Svelte Reactive Debugger`'
+    url: 'https://github.com/unlocomqx/svelte-reactive-debugger'
+    description: A Chrome/Firefox extension that allows monitoring svelte reactive statements
+    tags:
+      - development and documentation
+    stars: 16
+    last_updated: '2021-02-03T17:33:06Z'
