@@ -649,7 +649,6 @@ export const companies = [
       style: "background-color: #22228A;",
       src: "organisations/skillbank.svg",
       alt: "SkillBank.io",
-      prominent: true,
     },
 		{
 			href: "https://sp.nl",
