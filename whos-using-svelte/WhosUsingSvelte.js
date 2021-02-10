@@ -863,4 +863,9 @@ export const companies = [
 			src: "organisations/emakina-cee.svg",
 			alt: "Emakina CEE Logo"
 		},
+		{
+			href: "https://postis.eu/",			
+			src: "organisations/postis.svg",
+			alt: "Postis"
+		},
 ];
