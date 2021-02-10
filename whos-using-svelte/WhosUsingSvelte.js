@@ -860,7 +860,7 @@ export const companies = [
 		{
 			href: "https://www.ibm.com/",
 			src: "organisations/ibm.svg",
-			alt: "IBM logo"
+			alt: "IBM logo",
 			prominent: true
 		},
 ];
