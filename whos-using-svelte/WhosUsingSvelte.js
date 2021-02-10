@@ -864,6 +864,12 @@ export const companies = [
 			alt: "Emakina CEE Logo"
 		},
 		{
+			href: "https://www.ibm.com/",
+			src: "organisations/ibm.svg",
+			alt: "IBM logo",
+			prominent: true
+    },
+    {
 			href: "https://postis.eu/",			
 			src: "organisations/postis.svg",
 			alt: "Postis"
