@@ -644,6 +644,12 @@ export const companies = [
 			src: "organisations/shipbit.svg",
 			alt: "ShipBit logo"
 		},
+    {
+      href: "https://skillbank.io",
+      src: "organisations/skillbank.svg",
+      alt: "SkillBank.io",
+      prominent: true,
+    },
 		{
 			href: "https://sp.nl",
 			src: "organisations/socialist-party.svg",
