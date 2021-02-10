@@ -646,6 +646,7 @@ export const companies = [
 		},
     {
       href: "https://skillbank.io",
+      style: "background-color: #22228A;",
       src: "organisations/skillbank.svg",
       alt: "SkillBank.io",
       prominent: true,
