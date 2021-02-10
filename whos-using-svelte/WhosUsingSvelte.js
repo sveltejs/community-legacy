@@ -644,6 +644,12 @@ export const companies = [
 			src: "organisations/shipbit.svg",
 			alt: "ShipBit logo"
 		},
+    {
+      href: "https://skillbank.io",
+      style: "background-color: #22228A;",
+      src: "organisations/skillbank.svg",
+      alt: "SkillBank.io",
+    },
 		{
 			href: "https://sp.nl",
 			src: "organisations/socialist-party.svg",
@@ -862,5 +868,10 @@ export const companies = [
 			src: "organisations/ibm.svg",
 			alt: "IBM logo",
 			prominent: true
+    },
+    {
+			href: "https://postis.eu/",			
+			src: "organisations/postis.svg",
+			alt: "Postis"
 		},
 ];
