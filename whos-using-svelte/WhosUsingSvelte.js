@@ -219,6 +219,11 @@ export const companies = [
 			alt: "Elder Guide logo"
 		},
 		{
+			href: "https://www.elo7.com.br",
+			src: "organisations/elo7.svg",
+			alt: "Elo7 logo"
+		},
+		{
 			href: "https://www.entriwise.com/",
 			src: "organisations/entriwise.png",
 			alt: "Entriwise logo"
