@@ -870,8 +870,13 @@ export const companies = [
 			prominent: true
     },
     {
-			href: "https://postis.eu/",			
+			href: "https://postis.eu/",
 			src: "organisations/postis.svg",
 			alt: "Postis"
 		},
+		{
+			href: "https://about.smartnews.com/en/",
+			src: "organisations/smartnews.svg",
+			alt: "SmartNews"
+    },
 ];
