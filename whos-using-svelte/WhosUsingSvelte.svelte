@@ -83,7 +83,7 @@
 	<a
 		target="_blank"
 		rel="noopener"
-		href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte"
+		href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.js"
 		class="add-yourself">
 		<span>+ your company?</span>
 	</a>
