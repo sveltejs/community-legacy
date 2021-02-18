@@ -874,4 +874,9 @@ export const companies = [
 			src: "organisations/postis.svg",
 			alt: "Postis"
 		},
+		{
+			href: "https://lost.report/",
+			src: "organisations/lostreport.svg",
+			alt: "Lost.Report Task Tracker"
+		}
 ];
