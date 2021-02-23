@@ -1,4 +1,11 @@
 sites:
+	- name: SPC
+		source: https://github.com/khang-nd/spc
+		imageUrl: https://github.com/khang-nd/spc/raw/master/screenshot.png
+		description: "Inserting special characters made easy"
+		tags:
+			- Browser Extension
+		last_updated: "2021-02-23T00:00:00Z"
   - name: OmniaWrite
     source: https://github.com/TorstenDittmann/OmniaWrite
     url: "https://omniawrite.com"
