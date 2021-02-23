@@ -5,10 +5,21 @@
 
 	const doSort = (a, b) => randomizer(b) - randomizer(a);
 
-	const sortedCompanies = companies.sort(doSort)
+	const sortedCompanies = companies.sort(doSort);
+	const companiesCount = companies.length;
+	const _baseNumber = 35;
+	let limitCompanies = _baseNumber;
 
-	let showMore;
-	$: limitCompanies = showMore ? Infinity : 35;
+	$: allCompaniesShown = limitCompanies >= companiesCount
+
+	const handleShowMore = () => {
+		if (allCompaniesShown) {
+			limitCompanies = _baseNumber;
+			return;
+		}
+
+		limitCompanies += _baseNumber;
+	}
 </script>
 
 <style>
@@ -29,10 +40,6 @@
 		color: var(--text);
 	}
 
-	button {
-		height: 50px;
-	}
-
 	.add-yourself {
 		color: var(--prime);
 	}
@@ -43,7 +50,7 @@
 	}
 
 	@media (min-width: 540px) {
-		a {
+		a, button {
 			height: 60px;
 			padding: 10px 20px;
 			border-radius: 30px;
@@ -76,14 +83,14 @@
 		{/if}
 	{/each}
 	<button
-		on:click={() => showMore = !showMore}
+		on:click={handleShowMore}
 		class="add-yourself">
-		<span>show {showMore ? 'less' : 'more'}</span>
+		<span>show {allCompaniesShown ? 'less' : 'more'}</span>
 	</button>
 	<a
 		target="_blank"
 		rel="noopener"
-		href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.svelte"
+		href="https://github.com/sveltejs/community/blob/master/whos-using-svelte/WhosUsingSvelte.js"
 		class="add-yourself">
 		<span>+ your company?</span>
 	</a>
