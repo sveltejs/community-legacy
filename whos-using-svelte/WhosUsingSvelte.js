@@ -892,7 +892,7 @@ export const companies = [
   },
 	{
 		href: "https://about.smartnews.com/en/",
-		src: "organisations/smartnews.svg",
+		src: "organisations/smartnews.png",
 		alt: "SmartNews"
 	},
 ];
