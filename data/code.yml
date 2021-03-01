@@ -1287,16 +1287,8 @@ resources:
     tags:
       - components and libraries
       - component sets
-    stars: 25
-    last_updated: '2021-02-27T03:27:20Z'
-  - name: '`svelte-knob`'
-    url: 'https://github.com/MelihAltintas/svelte-knob'
-    description: Knob control for Svelte.js
-    tags:
-      - components and libraries
-      - component sets
-    stars: 25
-    last_updated: '2021-02-27T03:27:20Z'
+    stars: 21
+    last_updated: '2021-02-22T14:42:34Z'
   - name: '`svelte-slimscroll`'
     url: 'https://github.com/MelihAltintas/svelte-slimscroll'
     description: >-
