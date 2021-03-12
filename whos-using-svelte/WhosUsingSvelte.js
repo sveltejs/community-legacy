@@ -899,5 +899,11 @@ export const companies = [
 		href: "https://gearid-geo.com/",
 		src: "organisations/gearid-logo.png",
 		alt: "GearID Geo Logo"
+  },
+  {	
+    href: "https://thalasseus.com/",
+		style: "background-color: #000",
+		src: "organisations/thalasseus.svg",
+		alt: "Thalasseus logo"
 	}
 ];
