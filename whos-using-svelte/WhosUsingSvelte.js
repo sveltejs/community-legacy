@@ -1,5 +1,11 @@
 export const companies = [
 	{
+		href: "https://covidlive.app/",
+		src: "assets/covidlive-logo.jpeg",
+		alt: "Covid Live App logo",
+		prominent: true,
+	},
+	{
 		href: "https://1password.com",
 		src: "organisations/1password.png",
 		alt: "1Password logo",
