@@ -900,5 +900,10 @@ export const companies = [
 		style: "background-color: #000",
 		src: "organisations/thalasseus.svg",
 		alt: "Thalasseus logo"
-	}
+	},
+	{
+		href: "https://about.smartnews.com/en/",
+		src: "organisations/smartnews.png",
+		alt: "SmartNews"
+	},
 ];
