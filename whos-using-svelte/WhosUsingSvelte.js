@@ -905,5 +905,5 @@ export const companies = [
 		href: "https://gearid-geo.com/",
 		src: "organisations/gearid-logo.png",
 		alt: "GearID Geo Logo"
-  	}
+  	},
 ];
