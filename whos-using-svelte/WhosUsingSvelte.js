@@ -902,7 +902,12 @@ export const companies = [
 		alt: "Thalasseus logo"
 	},
 	{
-		href: "https://gearid-geo.com/",
+		href: "https://about.smartnews.com/en/",
+		src: "organisations/smartnews.png",
+		alt: "SmartNews"
+	},
+	{
+    	href: "https://gearid-geo.com/",
 		src: "organisations/gearid-logo.png",
 		alt: "GearID Geo Logo"
 	},
