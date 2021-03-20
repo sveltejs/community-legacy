@@ -896,7 +896,7 @@ export const companies = [
 		alt: "enablerr by pier4all"
 	},
 	{
-    	href: "https://thalasseus.com/",
+		href: "https://thalasseus.com/",
 		style: "background-color: #000",
 		src: "organisations/thalasseus.svg",
 		alt: "Thalasseus logo"
@@ -907,7 +907,7 @@ export const companies = [
 		alt: "SmartNews"
 	},
 	{
-    	href: "https://gearid-geo.com/",
+		href: "https://gearid-geo.com/",
 		src: "organisations/gearid-logo.png",
 		alt: "GearID Geo Logo"
 	},
