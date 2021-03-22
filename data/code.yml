@@ -8,7 +8,7 @@ resources:
     stars: 279
     last_updated: '2021-03-12T07:43:35Z'
     downloads: 2584
-		- name: '`svelte-vite-tailwind-template`'
+	- name: '`svelte-vite-tailwind-template`'
     url: 'https://github.com/Lukem121/svelte-vite-tailwind-template'
     description: A ready to use template that uses Vite and implements Tailwind
     tags:
