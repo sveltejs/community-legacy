@@ -906,4 +906,9 @@ export const companies = [
 		src: "organisations/smartnews.png",
 		alt: "SmartNews"
 	},
+	{
+		href: "https://scompler.com",
+		src: "organisations/scompler.png",
+		alt: "Scompler"
+	},
 ];
