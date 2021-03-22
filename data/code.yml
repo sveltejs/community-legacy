@@ -14,10 +14,7 @@ resources:
     tags:
       - templates
       - vite
-			- tailwind
-    stars: 0
-    last_updated: '2021-03-12T07:43:35Z'
-    downloads: 16
+      - tailwind
   - name: agusID/boilerplate-svelte
     url: 'https://github.com/agusID/boilerplate-svelte'
     description: >-
