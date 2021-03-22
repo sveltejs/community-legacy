@@ -2582,3 +2582,11 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`@event-calendar/core`'
+    url: 'https://github.com/vkurko/calendar'
+    description: Full-sized event calendar with resource view
+    tags:
+      - components and libraries
+      - time and date
+      - calendar
+      - events
