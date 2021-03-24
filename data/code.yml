@@ -2592,3 +2592,12 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+	- name: '`svelte-interactive-creditcard`'
+    url: 'https://github.com/MelihAltintas/svelte-credit-card'
+    description: A fantastic credit card form with smooth and sweet micro-interactions. Includes number formatting, validation and automatic card type detection. Built with sveltejs and also fully responsive.
+    tags:
+      - components and libraries
+      - component sets
+    stars: 1
+    last_updated: '2020-03-24T15:28:37Z'
+    downloads: 0
