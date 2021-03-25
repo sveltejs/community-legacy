@@ -906,4 +906,9 @@ export const companies = [
 		src: "organisations/smartnews.png",
 		alt: "SmartNews"
 	},
+	{
+		href: "https://filevine.com/",
+		src: "organisations/filevine.svg",
+		alt: "Filevine"
+	},
 ];
