@@ -1,6 +1,6 @@
 resources:
   - name: felte
-    url: 'https://felte.dev',
+    url: 'https://felte.dev'
     description: An extensible form library for Svelte
     tags:
       - components and libraries
