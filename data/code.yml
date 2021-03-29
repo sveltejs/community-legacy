@@ -18,6 +18,13 @@ resources:
     stars: 282
     last_updated: '2021-03-26T14:05:59Z'
     downloads: 2584
+  - name: '`svelte-vite-tailwind-template`'
+    url: 'https://github.com/Lukem121/svelte-vite-tailwind-template'
+    description: A ready to use template that uses Vite and Tailwind
+    tags:
+      - templates
+      - vite
+      - tailwind
   - name: agusID/boilerplate-svelte
     url: 'https://github.com/agusID/boilerplate-svelte'
     description: >-
