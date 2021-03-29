@@ -1,4 +1,14 @@
 resources:
+  - name: felte
+    url: 'https://felte.dev'
+    description: An extensible form library for Svelte
+    tags:
+      - components and libraries
+      - forms and validation
+      - forms
+    stars: 32
+    last_updated: '2021-03-26T22:09:06.050Z'
+    downloads: 743
   - name: '`svelte-calendar`'
     url: 'https://github.com/6eDesign/svelte-calendar'
     description: A lightweight datepicker with neat animations and a unique UX
