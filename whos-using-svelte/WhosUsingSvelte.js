@@ -907,11 +907,11 @@ export const companies = [
 		alt: "SmartNews"
 	},
 	{
-    href: "https://filevine.com/",
+		href: "https://filevine.com/",
 		src: "organisations/filevine.svg",
 		alt: "Filevine"
-  },
-  {
+	},
+	{
 		href: "https://gearid-geo.com/",
 		src: "organisations/gearid-logo.png",
 		alt: "GearID Geo Logo"
