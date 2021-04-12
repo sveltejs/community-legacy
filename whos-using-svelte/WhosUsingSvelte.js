@@ -911,4 +911,9 @@ export const companies = [
 		src: "organisations/filevine.svg",
 		alt: "Filevine"
 	},
+	{
+		href: "https://techtacion.com/",
+		src: "organisations/techtacion.png",
+		alt: "Techtacion Logo"
+	},
 ];
