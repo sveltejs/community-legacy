@@ -1,5 +1,10 @@
 export const companies = [
 	{
+		href: "https://cdon.se",
+		src: "organisations/cdon.svg",
+		alt: "CDON logo",
+	},
+	{
 		href: "https://1password.com",
 		src: "organisations/1password.png",
 		alt: "1Password logo",
