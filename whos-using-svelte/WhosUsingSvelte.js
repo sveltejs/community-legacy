@@ -923,6 +923,11 @@ export const companies = [
 		alt: "SmartNews"
 	},
 	{
+		href: "https://scompler.com",
+		src: "organisations/scompler.png",
+		alt: "Scompler"
+	},
+	{
 		href: "https://filevine.com/",
 		src: "organisations/filevine.svg",
 		alt: "Filevine"
