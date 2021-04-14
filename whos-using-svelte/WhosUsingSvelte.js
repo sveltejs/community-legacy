@@ -933,6 +933,11 @@ export const companies = [
 		alt: "Filevine"
 	},
 	{
+		href: "https://gearid-geo.com/",
+		src: "organisations/gearid-logo.png",
+		alt: "GearID Geo Logo"
+	},
+	{
 		href: "https://techtacion.com/",
 		src: "organisations/techtacion.png",
 		alt: "Techtacion Logo"
