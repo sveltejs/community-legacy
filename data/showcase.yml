@@ -210,7 +210,7 @@ sites:
     last_updated: "2020-05-16T01:27:40.954Z"
     description: >-
       📊 Data visualizations of your top languages, starred repositories and top repos.
-  - name: Svelte MQTT Monitor 
+  - name: Svelte MQTT Monitor
     url: "https://github.com/4refr0nt/svelte-mqtt-monitor"
     imageUrl: "https://raw.githubusercontent.com/4refr0nt/svelte-mqtt-monitor/master/image.png"
     description: >-
@@ -238,16 +238,15 @@ sites:
       - UX
       - Productivity
     last_updated: "2020-11-06T00:20:44Z"
-
   - name: Studenten bilden Schüler
     url: https://studenten-bilden-schueler.de
-		source: https://github.com/sbsev/svelte-site
+    source: https://github.com/sbsev/svelte-site
     imageUrl: https://ibb.co/sjf36x4
     description: |
-			Svelte + Contentful-powered site of the German student-run non-profit Studenten bilden Schüler
-			providing free tutoring to underprivileged children across Germany.
+      Svelte + Contentful-powered site of the German student-run non-profit Studenten bilden Schüler
+      providing free tutoring to underprivileged children across Germany.
     tags:
       - Education
-			- Non-Profit
+      - Non-Profit
       - Production App
-    last_updated: 2020-11-06T00:20:44Z
+    last_updated: 2021-04-14T15:25:44Z
