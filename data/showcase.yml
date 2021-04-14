@@ -148,7 +148,7 @@ sites:
     description: >-
       Svelte/Sapper implementation of the RealWorld app
     tags:
-      - Demo APp
+      - Demo App
     stars: 356
     last_updated: "2019-10-10T21:28:51Z"
   - name: Svelte REPL
@@ -238,3 +238,16 @@ sites:
       - UX
       - Productivity
     last_updated: "2020-11-06T00:20:44Z"
+
+  - name: Studenten bilden Schüler
+    url: https://studenten-bilden-schueler.de
+		source: https://github.com/sbsev/svelte-site
+    imageUrl: https://ibb.co/sjf36x4
+    description: |
+			Svelte + Contentful-powered site of the German student-run non-profit Studenten bilden Schüler
+			providing free tutoring to underprivileged children across Germany.
+    tags:
+      - Education
+			- Non-Profit
+      - Production App
+    last_updated: 2020-11-06T00:20:44Z
