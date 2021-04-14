@@ -4,6 +4,11 @@ export const companies = [
 		src: "assets/covidlive-logo.jpeg",
 		alt: "Covid Live App logo",
 		prominent: true,
+  },
+  {
+		href: "https://cdon.se",
+		src: "organisations/cdon.svg",
+		alt: "CDON logo",
 	},
 	{
 		href: "https://1password.com",
@@ -269,6 +274,11 @@ export const companies = [
 		href: "https://farmbox.ae/",
 		src: "organisations/farmbox.svg",
 		alt: "Farmbox logo",
+	},
+	{
+		href: "https://impfdashboard.de/"
+		src: "organisations/federal-ministry-of-health-germany.svg",
+		alt: "Federal ministry of health logo",
 	},
 	{
 		href: "https://filestar.com/",
@@ -906,5 +916,20 @@ export const companies = [
 		style: "background-color: #000",
 		src: "organisations/thalasseus.svg",
 		alt: "Thalasseus logo"
-	}
+	},
+	{
+		href: "https://about.smartnews.com/en/",
+		src: "organisations/smartnews.png",
+		alt: "SmartNews"
+	},
+	{
+		href: "https://filevine.com/",
+		src: "organisations/filevine.svg",
+		alt: "Filevine"
+	},
+	{
+		href: "https://techtacion.com/",
+		src: "organisations/techtacion.png",
+		alt: "Techtacion Logo"
+	},
 ];
