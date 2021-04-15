@@ -276,7 +276,7 @@ export const companies = [
 		alt: "Farmbox logo",
 	},
 	{
-		href: "https://impfdashboard.de/"
+		href: "https://impfdashboard.de/",
 		src: "organisations/federal-ministry-of-health-germany.svg",
 		alt: "Federal ministry of health logo",
 	},
