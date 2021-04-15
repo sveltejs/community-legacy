@@ -2623,3 +2623,12 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-intl-precompile`'
+    url: 'https://github.com/cibernox/svelte-intl-precompile'
+    description: Internationalization library for Svelte that precompiles translations
+    tags:
+      - components and libraries
+      - internationalization
+    stars: 4
+    last_updated: '2021-04-16T08:09:23Z'
+    downloads: 112		
