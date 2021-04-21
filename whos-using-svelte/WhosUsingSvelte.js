@@ -1,4 +1,9 @@
 export const companies = [
+		{
+    href: "https://dhtmlx.com/docs/products/dhtmlxGantt-for-Svelte/",
+    src: "organisations/dhtmlx_logo.svg",
+    alt: "DHTMLX logo",
+  },
 	{
 		href: "https://covidlive.app/",
 		src: "assets/covidlive-logo.jpeg",
