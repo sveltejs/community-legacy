@@ -56,6 +56,15 @@ resources:
     stars: 9
     last_updated: '2021-02-25T10:42:47Z'
     downloads: 388
+	- name: '`svelte-client-router`'
+    url: 'https://github.com/arthurgermano/svelte-client-router'
+    description: Svelte Client Router (SCR) is designed to help make you in control of the routing of your Single Page Applications (SPA)!
+    tags:
+      - Router 
+      - SPA
+			- Routes
+    last_updated: '2021-04-27T12:00:00Z'
+    downloads: 312	
   - name: '`svelte-chota`'
     url: 'https://github.com/alexxnb/svelte-chota'
     description: Svelte UI components based on super lightweight chota CSS framework.
