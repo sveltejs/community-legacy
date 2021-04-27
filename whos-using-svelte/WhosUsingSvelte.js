@@ -947,4 +947,10 @@ export const companies = [
 		src: "organisations/techtacion.png",
 		alt: "Techtacion Logo"
 	},
+	{
+		href: "https://devjobs.at/",
+		src: "organisations/devjobs-at.png",
+		alt: "devjobs.at Logo",
+		style: "background-color: #24292e;",
+	},
 ];
