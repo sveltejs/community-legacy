@@ -241,12 +241,34 @@ sites:
   - name: Studenten bilden Schüler
     url: https://studenten-bilden-schueler.de
     source: https://github.com/sbsev/svelte-site
-    imageUrl: https://ibb.co/sjf36x4
+    imageUrl: https://i.ibb.co/D4JK8cF/sbs-homepage-screenshot.png
     description: |
-      Svelte + Contentful-powered site of the German student-run non-profit Studenten bilden Schüler
+      SvelteKit + Contentful-powered site of the German student-run non-profit Studenten bilden Schüler
       providing free tutoring to underprivileged children across Germany.
     tags:
       - Education
       - Non-Profit
       - Production App
     last_updated: 2021-04-14T15:25:44Z
+  - name: Ocean artUp
+    url: https://ocean-artup.eu
+    source: https://github.com/janosh/ocean-artup
+    imageUrl: https://i.ibb.co/7XWC0Lc/ocean-artup-screenshot.png
+    description: |
+      SvelteKit + Contentful-powered site for the research project Ocean artUp. Funded by the European Research Council with an Advanced Grant, it aims to explore potential benefits for bioactivity from artificial upwelling of nutrient-rich deep water to the ocean’s sunlit surface layer.
+    tags:
+      - Research
+      - Science
+      - Production App
+    last_updated: 2021-04-15T19:48:44Z
+  - name: Afara
+    url: https://afara.foundation
+    source: https://github.com/janosh/afara
+    imageUrl: https://i.ibb.co/19Bd4CR/afara-screenshot.png
+    description: |
+      SvelteKit + Contentful-powered homepage of the student-run non-profit initiative Afara from Würzburg, Germany supporting child care projects in Africa.
+    tags:
+      - Research
+      - Science
+      - Production App
+    last_updated: 2021-04-15T19:48:44Z
