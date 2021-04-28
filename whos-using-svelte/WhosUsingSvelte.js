@@ -953,4 +953,9 @@ export const companies = [
 		alt: "devjobs.at Logo",
 		style: "background-color: #24292e;",
 	},
+	{
+		href: "https://lingotalk.co/",
+		src: "organisations/lingotalk.svg",
+		alt: "Lingotalk Logo",
+	},
 ];
