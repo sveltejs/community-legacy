@@ -41,6 +41,16 @@ sites:
       - Production App
     stars: 553
     last_updated: "2019-10-10T00:20:42Z"
+  - name: Finance Notes PWA App
+    url: "https://financenotes.com.br/"
+    imageUrl: "https://financenotes.com.br/static/img/fn_home.png"
+    description: "Finance Notes is a PWA Web application to assist in the control and mastery of your personal finances, that is, it does not stay in a store and does not need to be downloaded."
+    tags:
+      - Finances
+      - PWA
+      - Money
+      - Planning 
+    last_updated: "2021-04-06T00:00:00Z"	
   - name: FormValidation
     source: https://github.com/phuoc-ng/formvalidation.io
     url: "http://formvalidation.io"
