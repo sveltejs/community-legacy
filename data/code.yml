@@ -2641,3 +2641,10 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`sveltekit-openid-connect`'
+    url: 'https://github.com/starbasehq/sveltekit-openid-connect'
+    description: Svelte Kit authentication with OpenID based on `express-openid-connect`
+    tags:
+      - sveltekit
+      - components and libraries
+      - auth
