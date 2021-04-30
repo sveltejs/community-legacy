@@ -1,5 +1,5 @@
 resources:
-  - name: '@clouedots/svelte-forms'
+  - name: '@cloudedots/svelte-forms'
     url: 'https://github.com/cloudedots-projects/svelte-forms'
     description: Svelte Forms Library with Validation
     tags:
