@@ -2663,3 +2663,11 @@ resources:
     stars: 1000
     last_updated: '2020-09-08T15:28:37Z'
     downloads: 1941
+  - name: '`svelte-restate`'
+    url: 'https://github.com/endenwer/svelte-restate'
+    description: Immutable store for Svelte with full Typescript support and Redux Devtools integration
+    tags:
+      - stores and state
+    stars: 0
+    last_updated: '2021-05-02T16:14:54.718Z'
+    downloads: 0
