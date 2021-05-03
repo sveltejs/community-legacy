@@ -929,7 +929,7 @@ export const companies = [
 	},
 	{
 		href: "https://scompler.com",
-		src: "organisations/scompler.png",
+		src: "organisations/scompler.svg",
 		alt: "Scompler"
 	},
 	{
