@@ -958,4 +958,9 @@ export const companies = [
 		src: "organisations/lingotalk.svg",
 		alt: "Lingotalk Logo",
 	},
+	{
+		href: "https://impacthub.de/",
+		src: "img/logo-color.svg",
+		alt: "Impact Hub Germany Logo",
+	}
 ];
