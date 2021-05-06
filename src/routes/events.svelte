@@ -1,3 +1,9 @@
+<script context="module">
+  export async function preload() {
+    return this.redirect(301, 'https://sveltesociety.dev/events');
+  }
+</script>
+
 <script>
   import { Hero, Blurb } from "@sveltejs/site-kit";
   import Event from "components/Event.svelte";

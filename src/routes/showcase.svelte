@@ -1,7 +1,8 @@
 <script context="module">
   export async function preload() {
-    const data = await this.ssgData({ key: "showcase" });
-    return { sites: data.sites };
+    return this.redirect(301, 'https://svelte.dev/');
+//    const data = await this.ssgData({ key: "showcase" });
+//    return { sites: data.sites };
   }
 </script>
 

@@ -1,10 +1,15 @@
+<script context="module">
+  export async function preload() {
+    return this.redirect(301, 'https://sveltesociety.dev/recipes');
+//    const data = await this.ssgData({ key: "code" });
+//    return { data };
+
+  }
+</script>
+
 <script>
   import { Hero, Blurb } from "@sveltejs/site-kit";
 </script>
-
-<style>
-
-</style>
 
 <Hero
   title="Svelte Community"

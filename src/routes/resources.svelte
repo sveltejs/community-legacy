@@ -1,8 +1,9 @@
 <script context="module">
   export async function preload() {
-    const res = await this.fetch(`data/resources___ssg___index.json`);
-    const data = await res.json();
-    return { data };
+    return this.redirect(301, 'https://sveltesociety.dev/cheatsheet');
+//    const res = await this.fetch(`data/resources___ssg___index.json`);
+//    const data = await res.json();
+//    return { data };
   }
 </script>
 
