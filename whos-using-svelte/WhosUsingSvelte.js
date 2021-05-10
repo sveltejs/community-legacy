@@ -960,7 +960,7 @@ export const companies = [
 	},
 	{
 		href: "https://impacthub.de/",
-		src: "img/logo-color.svg",
-		alt: "Impact Hub Germany Logo",
-	}
+		src: "organisations/impact-hub-germany-logo.svg",
+		alt: "Impact Hub Germany",
+	},
 ];
