@@ -1,3 +1,9 @@
+<script context="module">
+  export async function preload() {
+    return this.redirect(301, 'https://sveltesociety.dev/');
+  }
+</script>
+
 <script>
   import { Hero, Blurb } from "@sveltejs/site-kit";
 
@@ -12,10 +18,6 @@
     });
   }
 </script>
-
-<style>
-
-</style>
 
 <Hero
   title="Svelte Community"

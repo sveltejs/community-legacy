@@ -1,7 +1,9 @@
 <script context="module">
   export async function preload() {
-    const data = await this.ssgData({ key: "code" });
-    return { data };
+    return this.redirect(301, 'https://sveltesociety.dev/components');
+//    const data = await this.ssgData({ key: "code" });
+//    return { data };
+
   }
 </script>
 
