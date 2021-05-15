@@ -963,4 +963,9 @@ export const companies = [
 		src: "organisations/impact-hub-germany-logo.svg",
 		alt: "Impact Hub Germany",
 	},
+	{
+		href: "https://lovecoding714.site",
+		src: "organisations/lovecoding.jpg",
+		alt: "LoveCoding",
+	},
 ];
