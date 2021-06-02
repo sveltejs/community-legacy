@@ -1,5 +1,10 @@
 export const companies = [
-		{
+	{
+    href: "https://www.spacerealm.live/",
+    src: "assets/img/logo-main.png",
+    alt: "Space Realm logo",
+	},
+	{
     href: "https://dhtmlx.com/docs/products/dhtmlxGantt-for-Svelte/",
     src: "organisations/dhtmlx_logo.svg",
     alt: "DHTMLX logo",
