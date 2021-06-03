@@ -301,6 +301,11 @@ export const companies = [
 		alt: "FormValidation logo",
 	},
 	{
+		href: "https://fosshost.org",
+		src: "organisations/fosshost.svg",
+		alt: "Fosshost logo",
+	},
+	{
 		href: "https://from-now-on.com",
 		src: "organisations/from-now-on.png",
 		alt: "From-Now-On logo",
