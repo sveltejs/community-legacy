@@ -1,21 +1,26 @@
 export const companies = [
 	{
-    href: "https://www.spacerealm.live/",
-    src: "assets/img/logo-main.png",
-    alt: "Space Realm logo",
+    	href: "https://www.spacerealm.live/",
+    	src: "assets/img/logo-main.png",
+    	alt: "Space Realm logo",
 	},
 	{
-    href: "https://dhtmlx.com/docs/products/dhtmlxGantt-for-Svelte/",
-    src: "organisations/dhtmlx_logo.svg",
-    alt: "DHTMLX logo",
-  },
+    	href: "https://dhtmlx.com/docs/products/dhtmlxGantt-for-Svelte/",
+    	src: "organisations/dhtmlx_logo.svg",
+    	alt: "DHTMLX logo",
+  	},
+  	{
+	  	href: "https://aarch64.com/",
+	  	src: "assets/aarch64.svg",
+		alt: "aarch64 logo",
+	},
 	{
 		href: "https://covidlive.app/",
 		src: "assets/covidlive-logo.jpeg",
 		alt: "Covid Live App logo",
 		prominent: true,
-  },
-  {
+  	},
+  	{
 		href: "https://cdon.se",
 		src: "organisations/cdon.svg",
 		alt: "CDON logo",
