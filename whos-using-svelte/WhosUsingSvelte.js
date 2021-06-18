@@ -9,12 +9,6 @@ export const companies = [
     src: "organisations/dhtmlx_logo.svg",
     alt: "DHTMLX logo",
   },
-	{
-		href: "https://covidlive.app/",
-		src: "assets/covidlive-logo.jpeg",
-		alt: "Covid Live App logo",
-		prominent: true,
-  },
   {
 		href: "https://cdon.se",
 		src: "organisations/cdon.svg",
