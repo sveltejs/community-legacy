@@ -698,6 +698,12 @@ export const companies = [
 		alt: "Softmus Tecnologia logo",
 	},
 	{
+		href: "https://squareup.com",
+		src: "organisations/square.svg",
+		alt: "Square",
+		prominent: true,
+	},
+	{
 		href: "https://sqltribe.com",
 		src: "organisations/sqltribe.svg",
 		alt: "SQL Tribe logo",
