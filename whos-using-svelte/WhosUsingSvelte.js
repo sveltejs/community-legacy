@@ -968,4 +968,9 @@ export const companies = [
 		src: "organisations/impact-hub-germany-logo.svg",
 		alt: "Impact Hub Germany",
 	},
+	{
+		href: "https://paddn.com/",
+		src: "organisations/the-padding-logo.png",
+		alt: "THE PADDING Logo",
+	},
 ];
